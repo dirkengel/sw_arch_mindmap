@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1610816444558">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1624978554761">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,7 +22,7 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2021/01/16</font>
+      <font size="2">last update 2021/06/29</font>
     </p>
   </body>
 </html></richcontent>
@@ -465,17 +465,36 @@
 <node CREATED="1536695277755" ID="ID_265357609" MODIFIED="1545390887205" TEXT="others">
 <node CREATED="1536695499777" ID="ID_906817158" MODIFIED="1536695528042" TEXT="High Coherence"/>
 <node CREATED="1536695528690" ID="ID_1508246883" MODIFIED="1536695582405" TEXT="Design for Change"/>
-<node CREATED="1536695582838" ID="ID_1721405330" MODIFIED="1547043189675">
+<node CREATED="1536695582838" ID="ID_1721405330" MODIFIED="1624978251864">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">Information Hiding</font></u>&#160;(Encapsulation)
+      <u><font color="#0000ff">Information Hiding</font></u>
+    </p>
+    <p>
+      (Encapsulation)
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1624976658979" ID="ID_274316871" MODIFIED="1624980616770">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <u><font color="#0000ff">avoid complexity</font></u>&#160;with deep modules:
+    </p>
+    <p>
+      small (general purpose) interface <i>x</i>&#160;lot of hidden functionality&#160;
+    </p>
+  </body>
+</html></richcontent>
+<linktarget COLOR="#00ff00" DESTINATION="ID_274316871" ENDARROW="Default" ENDINCLINATION="-814;-257;" ID="Arrow_ID_1814614125" SOURCE="ID_1343307687" STARTARROW="Default" STARTINCLINATION="-359;0;"/>
+</node>
 </node>
 <node CREATED="1609010550655" ID="ID_1843699813" MODIFIED="1609010607771" TEXT="Inversion of Control (IoC)">
 <node CREATED="1545392475324" ID="ID_1650066919" MODIFIED="1609010557596" TEXT="Dependency Injection (DI)"/>
@@ -1271,6 +1290,28 @@
 </node>
 <node CREATED="1544043508072" ID="ID_1304680519" MODIFIED="1544043512274" TEXT="portability">
 <node CREATED="1544043841643" ID="ID_1990994362" MODIFIED="1548589606943" TEXT="adaptability, installability, replaceability"/>
+</node>
+</node>
+<node CREATED="1624976514751" ID="ID_1343307687" MODIFIED="1624980616770">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff"><u>avoid&#160;complexity</u></font>
+    </p>
+  </body>
+</html></richcontent>
+<arrowlink COLOR="#00ff00" DESTINATION="ID_274316871" ENDARROW="Default" ENDINCLINATION="-814;-257;" ID="Arrow_ID_1814614125" STARTARROW="Default" STARTINCLINATION="-359;0;"/>
+<node CREATED="1624976561383" ID="ID_792755609" MODIFIED="1624976569100" TEXT="symptoms">
+<node CREATED="1624976586132" ID="ID_843263727" MODIFIED="1624977235493" TEXT="change amplification: simple change requires modifications in many different places"/>
+<node CREATED="1624976847409" ID="ID_1446918030" MODIFIED="1624977270914" TEXT="cognitive load: how much one need to know to complete a task"/>
+<node CREATED="1624976875211" ID="ID_410733900" MODIFIED="1624977039734" TEXT="unknown unknowns: there is something you need to know but know way to find out what it is"/>
+</node>
+<node CREATED="1624976570665" ID="ID_634752180" MODIFIED="1624977346592" TEXT="causes">
+<node CREATED="1624976612841" ID="ID_1648229909" MODIFIED="1624976805474" TEXT="dependencies"/>
+<node CREATED="1624976625358" ID="ID_1990885637" MODIFIED="1624976630604" TEXT="obscurity"/>
 </node>
 </node>
 </node>
