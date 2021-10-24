@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1624978554761">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1635074166195">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,7 +22,7 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2021/06/29</font>
+      <font size="2">last update 2021/10/24</font>
     </p>
   </body>
 </html></richcontent>
@@ -73,7 +73,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1544042925545" ID="ID_1516461722" MODIFIED="1610899180118" TEXT="frameworks">
+<node CREATED="1544042925545" ID="ID_1516461722" MODIFIED="1635096379879" TEXT="frameworks">
 <linktarget COLOR="#00ff00" DESTINATION="ID_1516461722" ENDARROW="Default" ENDINCLINATION="5;102;" ID="Arrow_ID_304537523" SOURCE="ID_148972680" STARTARROW="None" STARTINCLINATION="-466;-37;"/>
 <node CREATED="1544284519431" ID="ID_153347752" MODIFIED="1547211830468" TEXT="OS abstraction">
 <arrowlink COLOR="#00ff00" DESTINATION="ID_322417410" ENDARROW="Default" ENDINCLINATION="-41;-153;" ID="Arrow_ID_947595356" STARTARROW="Default" STARTINCLINATION="-28;202;"/>
@@ -203,7 +203,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1544707271531" ID="ID_738078444" MODIFIED="1552847349836" TEXT="ASIL: Automotive Safety Integrity Level A (low) - D (high)"/>
+<node CREATED="1544707271531" ID="ID_738078444" MODIFIED="1635072781400" TEXT="QM, ASIL: Automotive Safety Integrity Level A (low) - D (high)"/>
 </node>
 </node>
 <node CREATED="1543869465669" ID="ID_1402429752" MODIFIED="1547065681617" TEXT="quality"/>
@@ -325,7 +325,9 @@
 </node>
 <node CREATED="1544707152138" ID="ID_805640971" MODIFIED="1544707155710" TEXT="user space"/>
 <node CREATED="1545390602025" ID="ID_907061380" MODIFIED="1545390621990" TEXT="real-time"/>
-<node CREATED="1545390622397" ID="ID_1976113772" MODIFIED="1545390636179" TEXT="POSIX or alike"/>
+<node CREATED="1545390622397" ID="ID_1976113772" MODIFIED="1545390636179" TEXT="POSIX or alike">
+<node CREATED="1635072805071" ID="ID_964938777" MODIFIED="1635072813002" TEXT="PSE51"/>
+</node>
 <node CREATED="1545390673004" ID="ID_473436180" MODIFIED="1545390701510" TEXT="license costs"/>
 </node>
 </node>
@@ -457,10 +459,12 @@
 </node>
 <node CREATED="1534572344140" ID="ID_1662861495" MODIFIED="1609010474492" TEXT="Single Responsibility principle (SRP)"/>
 <node CREATED="1534572347673" ID="ID_522510039" MODIFIED="1536819499615" TEXT="Principle of Least Knowledge (LoD, loose coupling)"/>
-<node CREATED="1534572370549" ID="ID_148972680" MODIFIED="1547665917229" TEXT="Don&#x2019;t repeat yourself (DRY)">
+<node CREATED="1534572370549" ID="ID_148972680" MODIFIED="1635096379879" TEXT="Don&#x2019;t repeat yourself (DRY)">
 <arrowlink COLOR="#00ff00" DESTINATION="ID_1516461722" ENDARROW="Default" ENDINCLINATION="5;102;" ID="Arrow_ID_304537523" STARTARROW="None" STARTINCLINATION="-466;-37;"/>
 </node>
-<node CREATED="1534572389193" ID="ID_849117526" MODIFIED="1543867038997" TEXT="Minimize upfront design / You ain&apos;t gonna need it (YAGNI)"/>
+<node CREATED="1534572389193" ID="ID_849117526" MODIFIED="1543867038997" TEXT="Minimize upfront design / You ain&apos;t gonna need it (YAGNI)">
+<node CREATED="1635073496592" ID="ID_1239788929" MODIFIED="1635073654820" STYLE="fork" TEXT="Keep it simple stupid (KISS)"/>
+</node>
 </node>
 <node CREATED="1536695277755" ID="ID_265357609" MODIFIED="1545390887205" TEXT="others">
 <node CREATED="1536695499777" ID="ID_906817158" MODIFIED="1536695528042" TEXT="High Coherence"/>
@@ -479,7 +483,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1624976658979" ID="ID_274316871" MODIFIED="1624980616770">
+<node CREATED="1624976658979" ID="ID_274316871" MODIFIED="1635073464879">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -489,7 +493,7 @@
       <u><font color="#0000ff">avoid complexity</font></u>&#160;with deep modules:
     </p>
     <p>
-      small (general purpose) interface <i>x</i>&#160;lot of hidden functionality&#160;
+      small (general purpose) interface &#10799;&#160;lot of hidden functionality&#160;
     </p>
   </body>
 </html></richcontent>
@@ -509,17 +513,17 @@
 <node CREATED="1544040896874" HGAP="12" ID="ID_1175491591" MODIFIED="1547552397446" TEXT="follows similar rules as requirements (characteristics) and DRY" VSHIFT="3">
 <arrowlink COLOR="#00ff00" DESTINATION="ID_1150869759" ENDARROW="Default" ENDINCLINATION="-95;239;" ID="Arrow_ID_855164365" STARTARROW="None" STARTINCLINATION="-123;3;"/>
 </node>
-<node CREATED="1544040783944" ID="ID_1974437089" MODIFIED="1547042800306">
+<node CREATED="1544040783944" ID="ID_1974437089" MODIFIED="1635073756861">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      formal
+      (semi-)
     </p>
     <p>
-      (language)
+      formal
     </p>
   </body>
 </html></richcontent>
@@ -552,14 +556,14 @@
 <linktarget COLOR="#00ff00" DESTINATION="ID_911609279" ENDARROW="Default" ENDINCLINATION="395;157;" ID="Arrow_ID_253957846" SOURCE="ID_827516383" STARTARROW="None" STARTINCLINATION="-4;-40;"/>
 <node CREATED="1536819966937" ID="ID_1962884607" MODIFIED="1609235611610" TEXT="mud-to-structure">
 <linktarget COLOR="#00ff00" DESTINATION="ID_1962884607" ENDARROW="Default" ENDINCLINATION="-127;-24;" ID="Arrow_ID_301158471" SOURCE="ID_1503824701" STARTARROW="None" STARTINCLINATION="-82;401;"/>
-<node CREATED="1536871776383" ID="ID_169613791" MODIFIED="1609016451990">
+<node CREATED="1536871776383" ID="ID_169613791" MODIFIED="1635073691675">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      pipe and filters, blackboard, layers, <font color="#0000ff"><u>concentric architectures</u></font>, and <u><font color="#0000ff">IODA</font></u>
+      pipe and filters, blackboard, layers, <font color="#0000ff"><u>concentric architectures</u></font>, <u><font color="#0000ff">IODA</font></u>
     </p>
   </body>
 </html></richcontent>
@@ -713,7 +717,17 @@
 <arrowlink COLOR="#00ff00" DESTINATION="ID_958712086" ENDARROW="Default" ENDINCLINATION="-165;313;" ID="Arrow_ID_1455769550" STARTARROW="None" STARTINCLINATION="-218;-287;"/>
 </node>
 </node>
-<node CREATED="1544350515150" ID="ID_1235072101" MODIFIED="1609016434711" TEXT="metrics">
+<node CREATED="1544350515150" ID="ID_1235072101" MODIFIED="1635073977423">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff"><u>metrics</u></font>
+    </p>
+  </body>
+</html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
 <linktarget COLOR="#00ff00" DESTINATION="ID_1235072101" ENDARROW="Default" ENDINCLINATION="10;-109;" ID="Arrow_ID_1317554702" SOURCE="ID_909431611" STARTARROW="None" STARTINCLINATION="-39;103;"/>
 <linktarget COLOR="#00ff00" DESTINATION="ID_1235072101" ENDARROW="None" ENDINCLINATION="6;51;" ID="Arrow_ID_797786976" SOURCE="ID_604531956" STARTARROW="Default" STARTINCLINATION="19;-86;"/>
@@ -740,14 +754,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1546621847478" ID="ID_285408838" MODIFIED="1547754025654">
+<node CREATED="1546621847478" ID="ID_285408838" MODIFIED="1635073816224">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      should be motivated by explaining the why (context and background information)
+      motivated by explaining the why (context and background information)
     </p>
   </body>
 </html></richcontent>
@@ -1307,7 +1321,18 @@
 <node CREATED="1624976561383" ID="ID_792755609" MODIFIED="1624976569100" TEXT="symptoms">
 <node CREATED="1624976586132" ID="ID_843263727" MODIFIED="1624977235493" TEXT="change amplification: simple change requires modifications in many different places"/>
 <node CREATED="1624976847409" ID="ID_1446918030" MODIFIED="1624977270914" TEXT="cognitive load: how much one need to know to complete a task"/>
-<node CREATED="1624976875211" ID="ID_410733900" MODIFIED="1624977039734" TEXT="unknown unknowns: there is something you need to know but know way to find out what it is"/>
+<node CREATED="1624976875211" ID="ID_410733900" MODIFIED="1635074140424">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff"><u>unknown unknowns</u></font>: there is something you need to know but no way to find out what it is
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node CREATED="1624976570665" ID="ID_634752180" MODIFIED="1624977346592" TEXT="causes">
 <node CREATED="1624976612841" ID="ID_1648229909" MODIFIED="1624976805474" TEXT="dependencies"/>
@@ -1378,7 +1403,17 @@
 <linktarget COLOR="#00ff00" DESTINATION="ID_471760962" ENDARROW="Default" ENDINCLINATION="29;14;" ID="Arrow_ID_1001815584" SOURCE="ID_251447239" STARTARROW="None" STARTINCLINATION="-93;-29;"/>
 <linktarget COLOR="#00ff00" DESTINATION="ID_471760962" ENDARROW="Default" ENDINCLINATION="269;406;" ID="Arrow_ID_1122390035" SOURCE="ID_1833817880" STARTARROW="None" STARTINCLINATION="-16;-15;"/>
 </node>
-<node CREATED="1543868636703" ID="ID_1919700992" MODIFIED="1547042868947" TEXT="projekt management triangle">
+<node CREATED="1543868636703" ID="ID_1919700992" MODIFIED="1635074090760">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      projekt <font color="#0000ff"><u>management triangle</u></font>
+    </p>
+  </body>
+</html></richcontent>
 <node CREATED="1543868658916" ID="ID_440264453" MODIFIED="1547065204110" TEXT="scope, feature set"/>
 <node CREATED="1543868656113" ID="ID_251447239" MODIFIED="1607120734928" TEXT="costs">
 <arrowlink COLOR="#00ff00" DESTINATION="ID_471760962" ENDARROW="Default" ENDINCLINATION="29;14;" ID="Arrow_ID_1001815584" STARTARROW="None" STARTINCLINATION="-93;-29;"/>
@@ -1758,42 +1793,45 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1535148132831" ID="ID_1598762744" MODIFIED="1547915998508">
+<node CREATED="1535148132831" ID="ID_1598762744" MODIFIED="1635096326109">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Mutation (new idea)
+      mutation (new idea)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1535148166581" ID="ID_400051040" MODIFIED="1535148171228" TEXT="Recombination"/>
-<node CREATED="1535148188905" ID="ID_1788743695" MODIFIED="1547897251871">
+<node CREATED="1535148166581" ID="ID_400051040" MODIFIED="1635096332000" TEXT="recombination"/>
+<node CREATED="1535148188905" ID="ID_1788743695" MODIFIED="1635096338931">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Selection
+      selection
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
-<node CREATED="1535148173275" ID="ID_1151659458" MODIFIED="1547916076847">
+<node CREATED="1535148173275" ID="ID_1151659458" MODIFIED="1635096349584">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Gen drift (new methodology)
+      genetic drift (new methodology)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
