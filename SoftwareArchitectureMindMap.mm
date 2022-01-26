@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1640467434747">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1643216280144">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,10 +22,11 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2021/12/25</font>
+      <font size="2">last update 2022/01/26</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#ff0000" CREATED="1541845188061" HGAP="-16" ID="ID_1194334578" MODIFIED="1638553273569" POSITION="right" TEXT="Where?" VSHIFT="4">
 <edge COLOR="#ff0000" WIDTH="4"/>
@@ -510,7 +511,7 @@
 </node>
 </node>
 <node CREATED="1536695277755" ID="ID_265357609" MODIFIED="1545390887205" TEXT="others">
-<node CREATED="1536695499777" ID="ID_906817158" MODIFIED="1536695528042" TEXT="High Coherence"/>
+<node CREATED="1536695499777" ID="ID_906817158" MODIFIED="1643216245475" TEXT="High Cohesion"/>
 <node CREATED="1536695528690" ID="ID_1508246883" MODIFIED="1536695582405" TEXT="Design for Change"/>
 <node CREATED="1536695582838" ID="ID_1721405330" MODIFIED="1624978251864">
 <richcontent TYPE="NODE"><html>
