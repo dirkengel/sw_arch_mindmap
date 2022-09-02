@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1659297758526">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1662147237559">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,10 +22,11 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2022/07/31</font>
+      <font size="2">last update 2022/09/02</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#ff0000" CREATED="1541845188061" HGAP="-16" ID="ID_1194334578" MODIFIED="1660468188311" POSITION="right" TEXT="Where?" VSHIFT="4">
 <edge COLOR="#ff0000" WIDTH="4"/>
@@ -404,8 +405,8 @@
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <node CREATED="1544349588504" ID="ID_1297528285" MODIFIED="1546797400668" TEXT="divide and conquer">
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1543868959589" ID="ID_1503824701" MODIFIED="1660418451994" TEXT="decomposition">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1962884607" ENDARROW="None" ENDINCLINATION="-201;-474;" ID="Arrow_ID_301158471" STARTARROW="None" STARTINCLINATION="66;168;"/>
+<node CREATED="1543868959589" ID="ID_1503824701" MODIFIED="1662147159753" TEXT="decomposition">
+<arrowlink COLOR="#90ff90" DESTINATION="ID_1962884607" ENDARROW="None" ENDINCLINATION="-140;-346;" ID="Arrow_ID_301158471" STARTARROW="None" STARTINCLINATION="153;291;"/>
 <node CREATED="1545391919678" ID="ID_606760890" MODIFIED="1609235507658" TEXT="method">
 <node CREATED="1545391962560" ID="ID_1705402682" MODIFIED="1545391966313" TEXT="middle-out">
 <node CREATED="1545391956398" ID="ID_1025713700" MODIFIED="1638389787351" TEXT="top-down"/>
@@ -501,7 +502,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1534366648582" HGAP="12" ID="ID_685415640" MODIFIED="1652552656757" VSHIFT="-4">
+<node CREATED="1534366648582" HGAP="12" ID="ID_685415640" MODIFIED="1662147147023" VSHIFT="-4">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -512,7 +513,7 @@
     </p>
   </body>
 </html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_827516383" ENDARROW="None" ENDINCLINATION="-78;-159;" ID="Arrow_ID_848615366" STARTARROW="None" STARTINCLINATION="149;138;"/>
+<arrowlink COLOR="#90ff90" DESTINATION="ID_827516383" ENDARROW="None" ENDINCLINATION="-78;-159;" ID="Arrow_ID_848615366" STARTARROW="None" STARTINCLINATION="140;140;"/>
 <node CREATED="1534572211671" ID="ID_1504426533" MODIFIED="1648894571467">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -635,7 +636,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1543868816999" ID="ID_1472353264" MODIFIED="1660468188311">
+<node CREATED="1543868816999" ID="ID_1472353264" MODIFIED="1662145673104">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -644,28 +645,75 @@
     <p>
       documentation
     </p>
+    <p>
+      and doing
+    </p>
+    <p>
+      (walk the talk)
+    </p>
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
 <linktarget COLOR="#90ff90" DESTINATION="ID_1472353264" ENDARROW="None" ENDINCLINATION="6;164;" ID="Arrow_ID_442381855" SOURCE="ID_208864775" STARTARROW="None" STARTINCLINATION="-17;-25;"/>
-<node CREATED="1544040896874" HGAP="12" ID="ID_1175491591" MODIFIED="1660418864272" TEXT="follows similar rules as requirements (characteristics) and DRY" VSHIFT="3">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1150869759" ENDARROW="None" ENDINCLINATION="-414;32;" ID="Arrow_ID_855164365" STARTARROW="None" STARTINCLINATION="-202;0;"/>
-</node>
-<node CREATED="1652554694827" ID="ID_29771821" MODIFIED="1652556051655" TEXT="frameworks">
-<node CREATED="1652554703079" ID="ID_818207268" MODIFIED="1652556107586">
+<node CREATED="1544040896874" HGAP="21" ID="ID_1175491591" MODIFIED="1662147091973" VSHIFT="2">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">arc42</font></u>, <font color="#0000ff"><u>SEI Views</u></font>&#160;and Beyond
+      follows the DRY rule and
+    </p>
+    <p>
+      the requirement <font color="#0000ff"><u>characteristics</u></font>&#160;
+    </p>
+    <p>
+      and comprises the architecture ...
+    </p>
+  </body>
+</html></richcontent>
+<arrowlink COLOR="#90ff90" DESTINATION="ID_1150869759" ENDARROW="None" ENDINCLINATION="-414;32;" ID="Arrow_ID_855164365" STARTARROW="None" STARTINCLINATION="-202;0;"/>
+<node CREATED="1662145784227" ID="ID_888816809" MODIFIED="1662146971571">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      definition: based on principles, concepts, patterns
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1662145788174" ID="ID_706905696" MODIFIED="1662146976971">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      manifestation: illustrated with help of perspectives and views
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1662145796844" ID="ID_1463802931" MODIFIED="1662146981472" TEXT="implementation: proven with help pf perspectives and views revealing the target/actual comparison"/>
+</node>
+<node CREATED="1652554694827" ID="ID_29771821" MODIFIED="1662145649198" TEXT="frameworks">
+<node CREATED="1652554703079" ID="ID_818207268" MODIFIED="1662144994265">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <u><font color="#0000ff">arc42</font></u>, <font color="#0000ff"><u>SEI views</u></font>&#160;and beyond
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1544040740229" ID="ID_1247483124" MODIFIED="1652553697544">
+<node CREATED="1544040740229" ID="ID_1247483124" MODIFIED="1662145655253">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -691,8 +739,8 @@
   </body>
 </html></richcontent>
 <linktarget COLOR="#90ff90" DESTINATION="ID_911609279" ENDARROW="None" ENDINCLINATION="24;16;" ID="Arrow_ID_253957846" SOURCE="ID_827516383" STARTARROW="None" STARTINCLINATION="-33;-10;"/>
-<node CREATED="1536819966937" ID="ID_1962884607" MODIFIED="1660418451994" TEXT="mud-to-structure">
-<linktarget COLOR="#90ff90" DESTINATION="ID_1962884607" ENDARROW="None" ENDINCLINATION="-201;-474;" ID="Arrow_ID_301158471" SOURCE="ID_1503824701" STARTARROW="None" STARTINCLINATION="66;168;"/>
+<node CREATED="1536819966937" ID="ID_1962884607" MODIFIED="1662147159753" TEXT="mud-to-structure">
+<linktarget COLOR="#90ff90" DESTINATION="ID_1962884607" ENDARROW="None" ENDINCLINATION="-140;-346;" ID="Arrow_ID_301158471" SOURCE="ID_1503824701" STARTARROW="None" STARTINCLINATION="153;291;"/>
 <node CREATED="1536871776383" ID="ID_169613791" MODIFIED="1647708717467">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -706,7 +754,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1536871534398" ID="ID_270545862" MODIFIED="1648895266725" TEXT="Distributed Systems">
+<node CREATED="1536871534398" ID="ID_270545862" MODIFIED="1662145015573" TEXT="distributed systems">
 <node CREATED="1546806513957" ID="ID_1702295427" MODIFIED="1609014105254">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -720,10 +768,10 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1536871538600" ID="ID_1727515158" MODIFIED="1648895273173" TEXT="Interactive Systems">
+<node CREATED="1536871538600" ID="ID_1727515158" MODIFIED="1662145024724" TEXT="interactive systems">
 <node CREATED="1536871760792" ID="ID_344310091" MODIFIED="1548621110981" TEXT="model view controller (MVC), presentation abstraction control (PAC)"/>
 </node>
-<node CREATED="1536871540643" ID="ID_1641791782" MODIFIED="1536871657875" TEXT="Adaptable Systems">
+<node CREATED="1536871540643" ID="ID_1641791782" MODIFIED="1662145031074" TEXT="adaptable systems">
 <node CREATED="1536871747821" ID="ID_81848562" MODIFIED="1548621256505" TEXT="microkernel, reflection"/>
 </node>
 </node>
@@ -805,7 +853,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1546807206444" ID="ID_827516383" MODIFIED="1659297969610" STYLE="fork">
+<node CREATED="1546807206444" ID="ID_827516383" MODIFIED="1662147147023" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -819,7 +867,7 @@
 <arrowlink COLOR="#90ff90" DESTINATION="ID_1084010852" ENDARROW="None" ENDINCLINATION="-736;-47;" ID="Arrow_ID_1283214345" STARTARROW="None" STARTINCLINATION="-230;0;"/>
 <arrowlink COLOR="#90ff90" DESTINATION="ID_1925920325" ENDARROW="None" ENDINCLINATION="-633;-18;" ID="Arrow_ID_703218004" STARTARROW="None" STARTINCLINATION="-285;554;"/>
 <arrowlink COLOR="#90ff90" DESTINATION="ID_911609279" ENDARROW="None" ENDINCLINATION="24;16;" ID="Arrow_ID_253957846" STARTARROW="None" STARTINCLINATION="-33;-10;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_827516383" ENDARROW="None" ENDINCLINATION="-78;-159;" ID="Arrow_ID_848615366" SOURCE="ID_685415640" STARTARROW="None" STARTINCLINATION="149;138;"/>
+<linktarget COLOR="#90ff90" DESTINATION="ID_827516383" ENDARROW="None" ENDINCLINATION="-78;-159;" ID="Arrow_ID_848615366" SOURCE="ID_685415640" STARTARROW="None" STARTINCLINATION="140;140;"/>
 <node CREATED="1548619978108" ID="ID_843393367" MODIFIED="1656270178869">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -888,12 +936,12 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1534366272514" ID="ID_1169875447" MODIFIED="1659294377266" TEXT="Logical (functionality)">
+<node CREATED="1534366272514" ID="ID_1169875447" MODIFIED="1662145050356" TEXT="logical (functionality)">
 <node CREATED="1534366369019" ID="ID_1973007583" MODIFIED="1659294712123" TEXT="class, communication/sequence diagram"/>
 </node>
-<node CREATED="1534366285346" ID="ID_1280531651" MODIFIED="1534366304655" TEXT="Development">
+<node CREATED="1534366285346" ID="ID_1280531651" MODIFIED="1662145058927" TEXT="development">
 <node CREATED="1659294785623" ID="ID_553875217" MODIFIED="1659294802578" TEXT="package diagram">
-<node CREATED="1544608610816" ID="ID_1509578905" MODIFIED="1660418800061" TEXT="artifacts, deliverables">
+<node CREATED="1544608610816" ID="ID_1509578905" MODIFIED="1662145538698" TEXT="artifacts, deliverables">
 <arrowlink COLOR="#90ff90" DESTINATION="ID_983382172" ENDARROW="None" ENDINCLINATION="-642;0;" ID="Arrow_ID_1631794748" STARTARROW="None" STARTINCLINATION="-35;-351;"/>
 </node>
 </node>
@@ -949,7 +997,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1534366305683" ID="ID_1596196662" MODIFIED="1659294462913" TEXT="Process (dynamics)">
+<node CREATED="1534366305683" ID="ID_1596196662" MODIFIED="1662145065066" TEXT="process (dynamics)">
 <node CREATED="1534366471879" ID="ID_1519201352" MODIFIED="1660417731687">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -963,12 +1011,12 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1534366311277" ID="ID_606582646" MODIFIED="1534366322563" TEXT="Physical">
+<node CREATED="1534366311277" ID="ID_606582646" MODIFIED="1662145069248" TEXT="physical">
 <node CREATED="1534366494072" ID="ID_1936198780" MODIFIED="1659294725672" TEXT="deployment diagram">
 <node CREATED="1544608640458" ID="ID_163743818" MODIFIED="1659294666422" TEXT="run time evironment, nodes, processes, threads, IPC binding"/>
 </node>
 </node>
-<node CREATED="1534366334845" ID="ID_1155925083" MODIFIED="1652550957198" TEXT="Use Case">
+<node CREATED="1534366334845" ID="ID_1155925083" MODIFIED="1662145074709" TEXT="use Case">
 <node CREATED="1534366503276" ID="ID_86306656" MODIFIED="1659294730838" TEXT="cse case diagram and scenarios"/>
 </node>
 </node>
@@ -1770,7 +1818,7 @@
 </node>
 <node CREATED="1543767112068" ID="ID_611275700" MODIFIED="1545391100531" TEXT="integrator">
 <node CREATED="1543867871702" ID="ID_581315370" MODIFIED="1544041063595" TEXT="Interface change management"/>
-<node CREATED="1544041034846" ID="ID_983382172" MODIFIED="1660418800061" TEXT="artifacts, deliverable">
+<node CREATED="1544041034846" ID="ID_983382172" MODIFIED="1662145538699" TEXT="artifacts, deliverable">
 <linktarget COLOR="#90ff90" DESTINATION="ID_983382172" ENDARROW="None" ENDINCLINATION="-642;0;" ID="Arrow_ID_1631794748" SOURCE="ID_1509578905" STARTARROW="None" STARTINCLINATION="-35;-351;"/>
 </node>
 <node CREATED="1544607588917" ID="ID_494908707" MODIFIED="1652556801153">
