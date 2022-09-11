@@ -1632,7 +1632,7 @@
       ><path d="M6 2 L6 16 L154 16 L154 2 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath543"
-      ><path d="M0 0 L0 794 L980 794 L980 0 Z"
+      ><path d="M0 0 L0 794 L978 794 L978 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath544"
       ><path d="M0 0 L0 46 L95 46 L95 0 Z"
@@ -1833,10 +1833,10 @@
       ><path d="M0 0 L0 120 L628 120 L628 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath610"
-      ><path d="M0 0 L0 139 L355 139 L355 0 Z"
+      ><path d="M0 0 L0 139 L432 139 L432 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath611"
-      ><path d="M0 0 L0 32 L142 32 L142 0 Z"
+      ><path d="M0 0 L0 32 L219 32 L219 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath612"
       ><path d="M0 0 L0 118 L185 118 L185 0 Z"
@@ -1893,10 +1893,10 @@
       ><path d="M0 0 L0 120 L360 120 L360 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath630"
-      ><path d="M0 0 L0 160 L864 160 L864 0 Z"
+      ><path d="M0 0 L0 160 L855 160 L855 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath631"
-      ><path d="M0 0 L0 46 L195 46 L195 0 Z"
+      ><path d="M0 0 L0 46 L186 46 L186 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath632"
       ><path d="M0 0 L0 118 L649 118 L649 0 Z"
@@ -1908,10 +1908,10 @@
       ><path d="M6 2 L6 16 L543 16 L543 2 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath635"
-      ><path d="M0 0 L0 118 L384 118 L384 0 Z"
+      ><path d="M0 0 L0 118 L537 118 L537 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath636"
-      ><path d="M0 0 L0 18 L284 18 L284 0 Z"
+      ><path d="M0 0 L0 18 L437 18 L437 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath637"
       ><path d="M0 0 L0 610 L985 610 L985 0 Z"
@@ -2545,6 +2545,7 @@
         /><glyph unicode="2" horiz-adv-x="56.0" d="M52.484375 7.421875 L52.484375 0 L5.953125 0 L5.953125 6.5 L29.25 32.421875 Q35.6875 39.59375 37.9375 43.71875 Q40.1875 47.859375 40.1875 52 Q40.1875 57.234375 36.9375 60.9375 Q33.6875 64.65625 27.78125 64.65625 Q20.65625 64.65625 17.140625 60.59375 Q13.625 56.546875 13.625 50.203125 L4.59375 50.203125 Q4.59375 59.1875 10.5 65.625 Q16.40625 72.078125 27.78125 72.078125 Q37.84375 72.078125 43.53125 66.84375 Q49.21875 61.625 49.21875 53.078125 Q49.21875 46.78125 45.28125 40.375 Q41.359375 33.984375 35.890625 28.078125 L16.84375 7.421875 L52.484375 7.421875 Z"
         /><glyph unicode="v" horiz-adv-x="48.0" d="M46.625 52.828125 L27.640625 0 L20.75 0 L1.609375 52.828125 L10.890625 52.828125 L24.3125 12.359375 L37.40625 52.828125 L46.625 52.828125 Z"
         /><glyph unicode="s" horiz-adv-x="52.0" d="M37.640625 14.015625 Q37.640625 16.9375 35.46875 19.25 Q33.296875 21.578125 25.484375 23.140625 Q16.65625 25 11.546875 28.421875 Q6.453125 31.84375 6.453125 38.375 Q6.453125 44.625 11.796875 49.21875 Q17.140625 53.8125 26.03125 53.8125 Q35.5 53.8125 40.8125 48.96875 Q46.140625 44.140625 46.140625 37.3125 L37.109375 37.3125 Q37.109375 40.578125 34.21875 43.484375 Q31.34375 46.390625 26.03125 46.390625 Q20.40625 46.390625 17.96875 43.9375 Q15.53125 41.5 15.53125 38.625 Q15.53125 35.6875 17.875 33.90625 Q20.21875 32.125 27.6875 30.46875 Q37.40625 28.21875 42.046875 24.65625 Q46.6875 21.09375 46.6875 14.703125 Q46.6875 7.71875 41.09375 3.359375 Q35.5 -0.984375 26.265625 -0.984375 Q15.765625 -0.984375 10.203125 4.390625 Q4.640625 9.765625 4.640625 16.3125 L13.71875 16.3125 Q14.015625 10.6875 18.046875 8.5625 Q22.078125 6.453125 26.265625 6.453125 Q31.78125 6.453125 34.703125 8.59375 Q37.640625 10.75 37.640625 14.015625 Z"
+        /><glyph unicode="4" horiz-adv-x="56.0" d="M2.59375 21.828125 L34.421875 71.09375 L44.046875 71.09375 L44.046875 23.921875 L53.953125 23.921875 L53.953125 16.5 L44.046875 16.5 L44.046875 0 L35.015625 0 L35.015625 16.5 L2.59375 16.5 L2.59375 21.828125 ZM12.84375 23.921875 L35.015625 23.921875 L35.015625 58.84375 L33.890625 56.84375 L12.84375 23.921875 Z"
         /><glyph unicode="p" horiz-adv-x="57.0" d="M31 -0.984375 Q21.484375 -0.984375 15.921875 5.125 L15.921875 -20.3125 L6.84375 -20.3125 L6.84375 52.828125 L15.140625 52.828125 L15.578125 47.015625 Q21.140625 53.8125 30.859375 53.8125 Q40.875 53.8125 46.1875 46.390625 Q51.515625 38.96875 51.515625 26.859375 L51.515625 25.828125 Q51.515625 14.265625 46.171875 6.640625 Q40.828125 -0.984375 31 -0.984375 ZM28.21875 46.1875 Q23.640625 46.1875 20.65625 44.109375 Q17.671875 42.046875 15.921875 38.921875 L15.921875 13.625 Q17.71875 10.5 20.671875 8.46875 Q23.640625 6.453125 28.328125 6.453125 Q35.640625 6.453125 39.03125 12.203125 Q42.4375 17.96875 42.4375 25.828125 L42.4375 26.859375 Q42.4375 34.71875 39.03125 40.453125 Q35.640625 46.1875 28.21875 46.1875 Z"
         /><glyph unicode="u" horiz-adv-x="56.0" d="M39.65625 0 L39.453125 5.21875 Q37.015625 2.296875 33.203125 0.65625 Q29.390625 -0.984375 24.03125 -0.984375 Q16.265625 -0.984375 11.46875 3.609375 Q6.6875 8.203125 6.6875 18.75 L6.6875 52.828125 L15.71875 52.828125 L15.71875 18.65625 Q15.71875 11.53125 18.71875 9.109375 Q21.734375 6.6875 25.4375 6.6875 Q30.953125 6.6875 34.265625 8.78125 Q37.59375 10.890625 39.203125 14.359375 L39.203125 52.828125 L48.296875 52.828125 L48.296875 0 L39.65625 0 Z"
         /><glyph unicode="a" horiz-adv-x="54.0" d="M39.5 0 Q38.625 1.90625 38.234375 5.5625 Q35.6875 2.875 31.875 0.9375 Q28.078125 -0.984375 23.1875 -0.984375 Q15.09375 -0.984375 10.203125 3.5625 Q5.328125 8.109375 5.328125 14.703125 Q5.328125 23.1875 11.765625 27.609375 Q18.21875 32.03125 29.109375 32.03125 L38.03125 32.03125 L38.03125 36.234375 Q38.03125 40.921875 35.21875 43.71875 Q32.421875 46.53125 26.90625 46.53125 Q21.78125 46.53125 18.625 44.015625 Q15.484375 41.5 15.484375 38.1875 L6.453125 38.1875 Q6.453125 43.84375 12.15625 48.828125 Q17.875 53.8125 27.4375 53.8125 Q36.03125 53.8125 41.546875 49.40625 Q47.078125 45.015625 47.078125 36.140625 L47.078125 11.53125 Q47.078125 8.890625 47.53125 5.90625 Q48 2.9375 48.921875 0.78125 L48.921875 0 L39.5 0 ZM24.515625 6.9375 Q29.390625 6.9375 32.984375 9.375 Q36.578125 11.8125 38.03125 14.796875 L38.03125 25.6875 L30.5625 25.6875 Q14.40625 25.6875 14.40625 15.921875 Q14.40625 12.15625 16.9375 9.546875 Q19.484375 6.9375 24.515625 6.9375 Z"
@@ -2557,7 +2558,6 @@
         /><glyph unicode="y" horiz-adv-x="47.0" d="M24.90625 -8.15625 Q23.921875 -10.75 22.0625 -13.84375 Q20.21875 -16.9375 17.109375 -19.140625 Q14.015625 -21.34375 9.234375 -21.34375 Q8.109375 -21.34375 6.46875 -21.0625 Q4.828125 -20.796875 4.15625 -20.5625 L4.109375 -13.234375 Q5.171875 -13.421875 6.546875 -13.421875 Q11.140625 -13.421875 13.71875 -11.546875 Q16.3125 -9.671875 17.96875 -4.78125 L19.921875 0.59375 L1.078125 52.828125 L10.9375 52.828125 L24.171875 13.28125 L36.421875 52.828125 L46.09375 52.828125 L24.90625 -8.15625 Z"
         /><glyph unicode="(" horiz-adv-x="35.0" d="M6.546875 28.421875 L6.546875 28.90625 Q6.546875 43.0625 10.59375 53.65625 Q14.65625 64.265625 20.21875 70.953125 Q25.78125 77.640625 30.421875 80.21875 L32.328125 74.265625 Q26.5625 69.921875 21.0625 58.734375 Q15.578125 47.5625 15.578125 29 L15.578125 28.328125 Q15.578125 9.765625 21.0625 -1.515625 Q26.5625 -12.796875 32.328125 -17.484375 L30.421875 -22.953125 Q25.78125 -20.40625 20.21875 -13.71875 Q14.65625 -7.03125 10.59375 3.5625 Q6.546875 14.15625 6.546875 28.421875 Z"
         /><glyph unicode="j" horiz-adv-x="24.0" d="M6.203125 66.84375 Q6.203125 69.046875 7.5625 70.5625 Q8.9375 72.078125 11.53125 72.078125 Q14.15625 72.078125 15.515625 70.5625 Q16.890625 69.046875 16.890625 66.84375 Q16.890625 64.75 15.515625 63.25 Q14.15625 61.765625 11.53125 61.765625 Q8.9375 61.765625 7.5625 63.25 Q6.203125 64.75 6.203125 66.84375 ZM7.125 52.828125 L16.21875 52.828125 L16.21875 -6.296875 Q16.21875 -21.34375 2.390625 -21.34375 Q-0.640625 -21.34375 -3.21875 -20.515625 L-3.171875 -13.234375 Q-1.375 -13.671875 0.984375 -13.671875 Q3.953125 -13.671875 5.53125 -12.015625 Q7.125 -10.359375 7.125 -6.296875 L7.125 52.828125 Z"
-        /><glyph unicode="4" horiz-adv-x="56.0" d="M2.59375 21.828125 L34.421875 71.09375 L44.046875 71.09375 L44.046875 23.921875 L53.953125 23.921875 L53.953125 16.5 L44.046875 16.5 L44.046875 0 L35.015625 0 L35.015625 16.5 L2.59375 16.5 L2.59375 21.828125 ZM12.84375 23.921875 L35.015625 23.921875 L35.015625 58.84375 L33.890625 56.84375 L12.84375 23.921875 Z"
         /><glyph unicode=":" horiz-adv-x="24.0" d="M6.5 4.78125 Q6.5 7.078125 7.9375 8.65625 Q9.375 10.25 12.109375 10.25 Q14.84375 10.25 16.28125 8.65625 Q17.734375 7.078125 17.734375 4.78125 Q17.734375 2.546875 16.28125 0.96875 Q14.84375 -0.59375 12.109375 -0.59375 Q9.375 -0.59375 7.9375 0.96875 Q6.5 2.546875 6.5 4.78125 ZM6.546875 47.890625 Q6.546875 50.1875 7.984375 51.765625 Q9.421875 53.359375 12.15625 53.359375 Q14.890625 53.359375 16.328125 51.765625 Q17.78125 50.1875 17.78125 47.890625 Q17.78125 45.65625 16.328125 44.078125 Q14.890625 42.515625 12.15625 42.515625 Q9.421875 42.515625 7.984375 44.078125 Q6.546875 45.65625 6.546875 47.890625 Z"
         /><glyph unicode="x" horiz-adv-x="50.0" d="M12.984375 52.828125 L24.5625 33.59375 L36.28125 52.828125 L46.875 52.828125 L29.59375 26.765625 L47.40625 0 L36.96875 0 L24.75 19.828125 L12.546875 0 L2.046875 0 L19.828125 26.765625 L2.59375 52.828125 L12.984375 52.828125 Z"
         /><glyph unicode="z" horiz-adv-x="49.0" d="M4.734375 45.359375 L4.734375 52.828125 L44.828125 52.828125 L44.828125 46.4375 L15.4375 7.421875 L46.234375 7.421875 L46.234375 0 L4.34375 0 L4.34375 6.640625 L33.453125 45.359375 L4.734375 45.359375 Z"
@@ -2642,7 +2642,7 @@
       ><text x="65" xml:space="preserve" y="132" clip-path="url(#clipPath3)" stroke="none"
       >first version 2019/01/26 </text
       ><text x="68" xml:space="preserve" y="145" clip-path="url(#clipPath3)" stroke="none"
-      >last update 2022/09/02</text
+      >last update 2022/09/04</text
     ></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="14.666666984558" font-family="&apos;Cantarell&apos;" transform="translate(-34,2053)" stroke="gray"
     ><path fill="none" d="M903 405 C891 405 902 216 882 216" clip-path="url(#clipPath4)"
@@ -5545,34 +5545,34 @@
       >documents not chosen alternatives and changes in rating over time</text
     ></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="14.666666984558" font-family="&apos;Cantarell&apos;" transform="translate(1526,1711)" stroke="gray"
-    ><path fill="none" d="M191 84 C203 84 192 67 212 67" clip-path="url(#clipPath610)"
-      /><path fill="none" d="M191 84 C203 84 192 88 212 88" clip-path="url(#clipPath610)"
+    ><path fill="none" d="M268 84 C280 84 269 67 289 67" clip-path="url(#clipPath610)"
+      /><path fill="none" d="M268 84 C280 84 269 88 289 88" clip-path="url(#clipPath610)"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="sans-serif" transform="translate(1576,1764)" stroke="gray"
-    ><line y2="31" fill="none" x1="0" clip-path="url(#clipPath611)" x2="142" y1="31"
+    ><line y2="31" fill="none" x1="0" clip-path="url(#clipPath611)" x2="219" y1="31"
     /></g
     ><g text-rendering="geometricPrecision" font-size="11" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1576,1764)"
     ><text x="6" xml:space="preserve" y="13" clip-path="url(#clipPath611)" stroke="none"
-      >prioritization between</text
+      >prioritization between quality attributes</text
       ><text x="6" xml:space="preserve" y="27" clip-path="url(#clipPath611)" stroke="none"
-      >quality attributes (</text
-      ><text fill="blue" x="101" xml:space="preserve" y="27" clip-path="url(#clipPath611)" stroke="none"
+      >(</text
+      ><text fill="blue" x="10" xml:space="preserve" y="27" clip-path="url(#clipPath611)" stroke="none"
       >ATAM</text
-      ><line clip-path="url(#clipPath611)" fill="none" text-rendering="optimizeSpeed" x1="101" x2="132" y1="28" y2="28" stroke="blue"
-      /><text x="132" xml:space="preserve" y="27" clip-path="url(#clipPath611)" stroke="none"
-      >)</text
+      ><line clip-path="url(#clipPath611)" fill="none" text-rendering="optimizeSpeed" x1="10" x2="41" y1="28" y2="28" stroke="blue"
+      /><text x="41" xml:space="preserve" y="27" clip-path="url(#clipPath611)" stroke="none"
+      > and its Utility Tree)</text
     ></g
-    ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="sans-serif" transform="translate(1738,1782)" stroke="gray"
+    ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="sans-serif" transform="translate(1815,1782)" stroke="gray"
     ><line y2="17" fill="none" x1="0" clip-path="url(#clipPath216)" x2="93" y1="17"
     /></g
-    ><g text-rendering="geometricPrecision" font-size="11" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1738,1782)"
+    ><g text-rendering="geometricPrecision" font-size="11" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1815,1782)"
     ><text x="6" xml:space="preserve" y="13" clip-path="url(#clipPath217)" stroke="none"
       >business value</text
     ></g
-    ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="sans-serif" transform="translate(1738,1761)" stroke="gray"
+    ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="sans-serif" transform="translate(1815,1761)" stroke="gray"
     ><line y2="17" fill="none" x1="0" clip-path="url(#clipPath57)" x2="85" y1="17"
     /></g
-    ><g text-rendering="geometricPrecision" font-size="11" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1738,1761)"
+    ><g text-rendering="geometricPrecision" font-size="11" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1815,1761)"
     ><text x="6" xml:space="preserve" y="13" clip-path="url(#clipPath58)" stroke="none"
       >technical risk</text
     ></g
@@ -5718,12 +5718,12 @@
       > and beyond</text
     ></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="14.666666984558" font-family="&apos;Cantarell&apos;" transform="translate(1334,1491)" stroke="gray"
-    ><path fill="none" d="M244 102 C256 102 245 67 265 67" clip-path="url(#clipPath630)"
-      /><path fill="none" d="M244 102 C256 102 245 88 265 88" clip-path="url(#clipPath630)"
-      /><path fill="none" d="M244 102 C256 102 245 109 265 109" clip-path="url(#clipPath630)"
+    ><path fill="none" d="M235 102 C247 102 236 67 256 67" clip-path="url(#clipPath630)"
+      /><path fill="none" d="M235 102 C247 102 236 88 256 88" clip-path="url(#clipPath630)"
+      /><path fill="none" d="M235 102 C247 102 236 109 256 109" clip-path="url(#clipPath630)"
     /></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="sans-serif" transform="translate(1384,1548)" stroke="gray"
-    ><line y2="45" fill="none" x1="0" clip-path="url(#clipPath631)" x2="195" y1="45"
+    ><line y2="45" fill="none" x1="0" clip-path="url(#clipPath631)" x2="186" y1="45"
     /></g
     ><g text-rendering="geometricPrecision" font-size="11" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1384,1548)"
     ><text x="6" xml:space="preserve" y="13" clip-path="url(#clipPath631)" stroke="none"
@@ -5736,28 +5736,33 @@
       /><text x="177" xml:space="preserve" y="27" clip-path="url(#clipPath631)" stroke="none"
       > </text
       ><text x="6" xml:space="preserve" y="41" clip-path="url(#clipPath631)" stroke="none"
-      >and comprises the architecture ...</text
+      >to explain the architecture by ...</text
     ></g
-    ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="sans-serif" transform="translate(1599,1583)" stroke="gray"
+    ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="sans-serif" transform="translate(1590,1583)" stroke="gray"
     ><line y2="17" fill="none" x1="0" clip-path="url(#clipPath633)" x2="549" y1="17"
     /></g
-    ><g text-rendering="geometricPrecision" font-size="11" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1599,1583)"
+    ><g text-rendering="geometricPrecision" font-size="11" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1590,1583)"
     ><text x="6" xml:space="preserve" y="13" clip-path="url(#clipPath634)" stroke="none"
       >implementation: proven with help pf perspectives and views revealing the target/actual comparison</text
     ></g
-    ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="sans-serif" transform="translate(1599,1562)" stroke="gray"
+    ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="sans-serif" transform="translate(1590,1562)" stroke="gray"
     ><line y2="17" fill="none" x1="0" clip-path="url(#clipPath571)" x2="339" y1="17"
     /></g
-    ><g text-rendering="geometricPrecision" font-size="11" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1599,1562)"
+    ><g text-rendering="geometricPrecision" font-size="11" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1590,1562)"
     ><text x="6" xml:space="preserve" y="13" clip-path="url(#clipPath571)" stroke="none"
       >manifestation: illustrated with help of perspectives and views</text
     ></g
-    ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="sans-serif" transform="translate(1599,1541)" stroke="gray"
-    ><line y2="17" fill="none" x1="0" clip-path="url(#clipPath636)" x2="284" y1="17"
+    ><g fill="gray" text-rendering="optimizeSpeed" font-size="11" font-family="sans-serif" transform="translate(1590,1541)" stroke="gray"
+    ><line y2="17" fill="none" x1="0" clip-path="url(#clipPath636)" x2="437" y1="17"
     /></g
-    ><g text-rendering="geometricPrecision" font-size="11" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1599,1541)"
+    ><g text-rendering="geometricPrecision" font-size="11" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1590,1541)"
     ><text x="6" xml:space="preserve" y="13" clip-path="url(#clipPath636)" stroke="none"
-      >definition: based on principles, concepts, patterns</text
+      >definition: priorities of goals (</text
+      ><text fill="blue" x="164" xml:space="preserve" y="13" clip-path="url(#clipPath636)" stroke="none"
+      >ATAM</text
+      ><line clip-path="url(#clipPath636)" fill="none" text-rendering="optimizeSpeed" x1="164" x2="195" y1="14" y2="14" stroke="blue"
+      /><text x="195" xml:space="preserve" y="13" clip-path="url(#clipPath636)" stroke="none"
+      >) and applied principles, concepts, patterns</text
     ></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="14.666666984558" font-family="&apos;Cantarell&apos;" transform="translate(1218,976)" stroke="gray"
     ><path fill="none" d="M166 324 C178 324 167 144 187 144" clip-path="url(#clipPath637)"
@@ -6944,7 +6949,7 @@
     ><path fill="none" d="M3519 868 C3829 1034 4000 2291 3838 2631" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
-    ><path fill="none" d="M3288 896 C3329 903 3450 891 3494 1060" clip-path="url(#clipPath1)"
+    ><path fill="none" d="M3288 896 C3329 903 3476 890 3495 1060" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
     ><path fill="none" d="M3593 2058 C3798 1640 3592 980 3300 950" clip-path="url(#clipPath1)"
@@ -6959,7 +6964,7 @@
     ><path fill="none" d="M3198 1134 C3157 1160 2761 1373 2690 1813" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
-    ><path fill="none" d="M3768 2798 C3828 2492 3321 1527 3300 1155" clip-path="url(#clipPath1)"
+    ><path fill="none" d="M3768 2798 C3828 2492 3322 1530 3300 1155" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
     ><path fill="none" d="M3327 1147 C3736 1170 3562 1747 3551 1748" clip-path="url(#clipPath1)"
@@ -6977,7 +6982,7 @@
     ><path fill="none" d="M3830 1257 C3937 1257 4226 3355 3531 3446" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
-    ><path fill="none" d="M3348 1584 C2998 2148 2420 2080 2250 2609" clip-path="url(#clipPath1)"
+    ><path fill="none" d="M3347 1584 C2816 2304 2339 2192 2249 2609" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
     ><path fill="none" d="M3477 1572 C3346 1697 3107 1824 2549 1938" clip-path="url(#clipPath1)"
@@ -6986,13 +6991,13 @@
     ><path fill="none" d="M3536 1593 C3468 1662 3505 1630 3464 1664" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
-    ><path fill="none" d="M3440 1682 C2700 2147 1637 2031 2035 3269" clip-path="url(#clipPath1)"
+    ><path fill="none" d="M3439 1682 C2700 2125 1637 2031 2035 3269" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
     ><path fill="none" d="M3334 1926 C3487 2217 3384 2088 3524 2434" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
-    ><path fill="none" d="M3613 1935 C3481 1964 2647 2116 2363 2439" clip-path="url(#clipPath1)"
+    ><path fill="none" d="M3613 1929 C3567 1933 3013 2000 2369 2439" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
     ><path fill="none" d="M3612 2803 C3897 2598 3764 1940 3766 1928" clip-path="url(#clipPath1)"
@@ -7010,13 +7015,13 @@
     ><path fill="none" d="M3670 2013 C3674 2024 3676 2073 3662 2102" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
-    ><path fill="none" d="M2635 2032 C3269 2032 3500 2291 3579 2294" clip-path="url(#clipPath1)"
+    ><path fill="none" d="M2635 2032 C3270 2032 3557 2292 3579 2293" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
     ><path fill="none" d="M3339 3041 C3322 3016 3199 2889 3193 2725" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
-    ><path fill="none" d="M3262 2376 C3060 2376 3022 1462 2608 1430" clip-path="url(#clipPath1)"
+    ><path fill="none" d="M3262 2362 C3183 2350 2946 1768 2572 1436" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
     ><path fill="none" d="M3508 2640 C3475 2630 3441 2512 3417 2496" clip-path="url(#clipPath1)"
@@ -7040,7 +7045,7 @@
     ><path fill="none" d="M3353 2706 C3416 3065 3382 3040 3424 3381" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
-    ><path fill="none" d="M3746 2754 C3711 2403 3224 2427 2582 2427" clip-path="url(#clipPath1)"
+    ><path fill="none" d="M3746 2754 C3756 2389 3224 2427 2582 2427" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
     ><path fill="none" d="M3667 2856 C3613 3038 3558 3157 3429 3212" clip-path="url(#clipPath1)"
@@ -7055,7 +7060,7 @@
     ><path fill="none" d="M3165 3468 C3171 3356 3168 3289 3172 3239" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
-    ><path fill="none" d="M2685 1873 C2654 2623 2744 2671 3166 3221" clip-path="url(#clipPath1)"
+    ><path fill="none" d="M2685 1873 C2643 2612 2744 2671 3166 3221" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
     ><path fill="none" d="M2726 3331 C3079 3324 3146 3243 3154 3239" clip-path="url(#clipPath1)"
@@ -7085,16 +7090,16 @@
     ><path fill="none" d="M2650 3469 C2607 3381 2486 2646 2532 2501" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
-    ><path fill="none" d="M2439 3428 C2417 3357 2144 3127 2372 2647" clip-path="url(#clipPath1)"
+    ><path fill="none" d="M2439 3428 C2417 3357 2108 2877 2366 2647" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
     ><path fill="none" d="M2374 3556 C2364 3527 2001 3129 2244 2627" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
-    ><path fill="none" d="M2732 2848 C2628 2977 2714 3413 2673 3535" clip-path="url(#clipPath1)"
+    ><path fill="none" d="M2733 2848 C2660 2956 2714 3413 2673 3535" clip-path="url(#clipPath1)"
     /></g
     ><g font-size="14.666666984558" stroke-linecap="butt" transform="translate(-1878,-805)" fill="rgb(144,255,144)" text-rendering="optimizeSpeed" font-family="&apos;Cantarell&apos;" stroke="rgb(144,255,144)"
-    ><path fill="none" d="M2508 3033 C2413 3028 2441 2921 2334 2849" clip-path="url(#clipPath1)"
+    ><path fill="none" d="M2508 3034 C2469 3032 2343 3008 2305 2849" clip-path="url(#clipPath1)"
     /></g
   ></g
 ></svg
