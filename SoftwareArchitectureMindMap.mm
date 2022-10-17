@@ -25,8 +25,7 @@
       <font size="2">last update 2022/09/04</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#ff0000" CREATED="1541845188061" HGAP="-16" ID="ID_1194334578" MODIFIED="1660468188311" POSITION="right" TEXT="Where?" VSHIFT="4">
 <edge COLOR="#ff0000" WIDTH="4"/>
@@ -671,8 +670,7 @@
       to explain the architecture by ...
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink COLOR="#90ff90" DESTINATION="ID_1150869759" ENDARROW="None" ENDINCLINATION="-374;332;" ID="Arrow_ID_855164365" STARTARROW="None" STARTINCLINATION="-79;-12;"/>
 <node CREATED="1662145784227" ID="ID_888816809" MODIFIED="1662319318222">
 <richcontent TYPE="NODE"><html>
@@ -684,8 +682,7 @@
       definition: priorities of goals (<font color="#0000ff"><u>ATAM</u></font>) and applied principles, concepts, patterns
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1662145788174" ID="ID_706905696" MODIFIED="1662146976971">
 <richcontent TYPE="NODE"><html>
@@ -826,8 +823,7 @@
       (<font color="#0000ff"><u>ATAM</u></font>&#160;and its Utility Tree)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <linktarget COLOR="#90ff90" DESTINATION="ID_115346817" ENDARROW="None" ENDINCLINATION="-883;0;" ID="Arrow_ID_1995984805" SOURCE="ID_462816524" STARTARROW="None" STARTINCLINATION="-644;-28;"/>
 <node CREATED="1644679254894" ID="ID_25835399" MODIFIED="1660418707015" TEXT="technical risk"/>
 <node CREATED="1644679250277" ID="ID_888837463" MODIFIED="1644679253974" TEXT="business value"/>
@@ -1945,54 +1941,22 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1548540282079" ID="ID_1889073549" MODIFIED="1662320017503">
+<node CREATED="1548540282079" ID="ID_1889073549" MODIFIED="1666032924281">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      in a poduct line team
+      In a product line team, members must always balance the special requirements of
     </p>
     <p>
-      members should always have
-    </p>
-    <p>
-      two products in mind
+      individual product instances with the product line's variability goals (at component level).
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <linktarget COLOR="#90ff90" DESTINATION="ID_1889073549" ENDARROW="None" ENDINCLINATION="-38;159;" ID="Arrow_ID_254436210" SOURCE="ID_311075400" STARTARROW="None" STARTINCLINATION="39;-2;"/>
-<node CREATED="1548540443416" ID="ID_1007099324" MODIFIED="1548590783186">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      product a: each member the specific
-    </p>
-    <p>
-      component she/he is working on
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1548540415899" ID="ID_54964890" MODIFIED="1565552857598">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      product b: all members the final product as
-    </p>
-    <p>
-      one manifestation of complete product line
-    </p>
-  </body>
-</html></richcontent>
-</node>
 </node>
 </node>
 <node CREATED="1548540245388" ID="ID_1799225174" MODIFIED="1548621877688">
