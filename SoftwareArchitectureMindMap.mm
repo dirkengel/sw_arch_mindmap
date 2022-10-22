@@ -1,13 +1,13 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1662320347957">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1666445042024">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: center">
-      <b><font color="#ff0000">aspects</font>&#160;and <font color="#00ff00">correlations</font>&#160;of</b>
+      <b><font color="#ff0000">aspects</font>&#160;and <font color="#00c800">correlations</font>&#160;of</b>
     </p>
     <p style="text-align: center">
       <b>software architecture</b>
@@ -22,35 +22,45 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2022/09/04</font>
+      <font size="2">last update 2022/10/22</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#ff0000" CREATED="1541845188061" HGAP="-16" ID="ID_1194334578" MODIFIED="1660468188311" POSITION="right" TEXT="Where?" VSHIFT="4">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <node CREATED="1543868880731" HGAP="22" ID="ID_1638161300" MODIFIED="1610899179462" TEXT="inside" VSHIFT="4">
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1546026480114" ID="ID_1933241391" MODIFIED="1656270171478" TEXT="component definition">
-<linktarget COLOR="#90ff90" DESTINATION="ID_1933241391" ENDARROW="None" ENDINCLINATION="360;61;" ID="Arrow_ID_598266560" SOURCE="ID_529297547" STARTARROW="None" STARTINCLINATION="36;-224;"/>
-<node CREATED="1545426481957" ID="ID_868467320" MODIFIED="1656270161192" TEXT="feature responsibility">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1291782658" ENDARROW="None" ENDINCLINATION="28;-2;" ID="Arrow_ID_771213506" STARTARROW="None" STARTINCLINATION="440;356;"/>
+<node CREATED="1546026480114" ID="ID_1933241391" MODIFIED="1666438458967" TEXT="component definition">
+<node CREATED="1545426481957" ID="ID_868467320" MODIFIED="1666436692772" TEXT="feature responsibility">
 <node CREATED="1636739596998" ID="ID_1960353047" MODIFIED="1652383716012" TEXT="traceability"/>
 </node>
-<node CREATED="1545390850614" ID="ID_1423182411" MODIFIED="1656270178869" TEXT="interior design (analogy: the room of a house)">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_843393367" ENDARROW="None" ENDINCLINATION="162;-340;" ID="Arrow_ID_378287186" STARTARROW="None" STARTINCLINATION="310;166;"/>
-<node CREATED="1545390857837" ID="ID_1487608567" MODIFIED="1546806344628">
+<node CREATED="1545390850614" ID="ID_1423182411" MODIFIED="1666444155906">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      (interior) <font color="#0000ff"><u>design patterns</u></font>
+      interior design (<font color="#00c800">analogy</font>: the room of a house)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<node CREATED="1545390857837" ID="ID_1487608567" MODIFIED="1666443956913">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff"><u>design</u></font><font color="#000000">&#160;</font><font color="#00c800">patterns</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1546796003597" ID="ID_1903225924" MODIFIED="1547042470278">
 <richcontent TYPE="NODE"><html>
@@ -67,13 +77,46 @@
 </node>
 </node>
 </node>
-<node CREATED="1544043163311" ID="ID_1776941348" MODIFIED="1662319598768" TEXT="language">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1462486400" ENDARROW="None" ENDINCLINATION="-19;-170;" ID="Arrow_ID_1326683252" STARTARROW="None" STARTINCLINATION="41;7;"/>
+<node CREATED="1544043163311" ID="ID_1776941348" MODIFIED="1666438788842">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">language</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1544042925545" ID="ID_1516461722" MODIFIED="1659295565253" TEXT="frameworks">
-<linktarget COLOR="#90ff90" DESTINATION="ID_1516461722" ENDARROW="None" ENDINCLINATION="292;30;" ID="Arrow_ID_304537523" SOURCE="ID_148972680" STARTARROW="None" STARTINCLINATION="205;-418;"/>
-<node CREATED="1544284519431" ID="ID_153347752" MODIFIED="1660418294706" TEXT="OS abstraction">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_322417410" ENDARROW="None" ENDINCLINATION="-163;-171;" ID="Arrow_ID_947595356" STARTARROW="None" STARTINCLINATION="-155;0;"/>
+<node CREATED="1544042925545" ID="ID_1516461722" MODIFIED="1666444813619">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      frameworks
+    </p>
+    <p>
+      avoid <font color="#00c800">DRY</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1544284519431" ID="ID_153347752" MODIFIED="1666438838846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">OS</font>&#160;abstraction
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1636741092310" ID="ID_479530016" MODIFIED="1636741616074">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -90,24 +133,37 @@
 </node>
 <node CREATED="1544042931835" ID="ID_186545583" MODIFIED="1547211571070" TEXT="event handling, inter thread communication (ITC), queues, timer"/>
 <node CREATED="1544042958641" ID="ID_1728126673" MODIFIED="1652718317253" TEXT="SW watchdog (threads)"/>
-<node CREATED="1546977936801" ID="ID_1910752726" MODIFIED="1659295498991">
+<node CREATED="1546977936801" ID="ID_1910752726" MODIFIED="1666438889679">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      for maintainability reasons handled like third party even if done inhouse
+      for maintainability reasons handled like <font color="#00c800">third party</font>&#160;even if done inhouse
     </p>
   </body>
-</html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1967869902" ENDARROW="None" ENDINCLINATION="-99;-191;" ID="Arrow_ID_617632438" STARTARROW="None" STARTINCLINATION="-126;0;"/>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1543869015429" HGAP="34" ID="ID_638892429" MODIFIED="1638553890287" TEXT="cross cutting" VSHIFT="21">
+<node CREATED="1543869015429" HGAP="34" ID="ID_638892429" MODIFIED="1666444595849" VSHIFT="21">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      cross cutting
+    </p>
+    <p>
+      <font color="#00c800">criteria</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1859279295" ENDARROW="None" ENDINCLINATION="-71;-440;" ID="Arrow_ID_887964182" STARTARROW="None" STARTINCLINATION="-41;26;"/>
 <node CREATED="1637523957589" ID="ID_1806835381" MODIFIED="1637523965567" TEXT="concepts">
 <node CREATED="1545392531270" ID="ID_303752159" MODIFIED="1640465801119" TEXT="naming conventions, error handling, transactions (ACID), internationalization, ..."/>
 </node>
@@ -126,11 +182,30 @@
 <node CREATED="1544707271531" ID="ID_738078444" MODIFIED="1635072781400" TEXT="QM, ASIL: Automotive Safety Integrity Level A (low) - D (high)"/>
 </node>
 </node>
-<node CREATED="1544608789120" ID="ID_1178802971" MODIFIED="1662320170781" TEXT="security">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1193441518" ENDARROW="None" ENDINCLINATION="11;-1;" ID="Arrow_ID_1961908945" STARTARROW="None" STARTINCLINATION="409;23;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1178802971" ENDARROW="None" ENDINCLINATION="22;375;" ID="Arrow_ID_1251491161" SOURCE="ID_1886051506" STARTARROW="None" STARTINCLINATION="60;-306;"/>
-<node CREATED="1546978001714" ID="ID_1462486400" MODIFIED="1662319598769" TEXT="language or compiler features (e.g. stack protection)">
-<linktarget COLOR="#90ff90" DESTINATION="ID_1462486400" ENDARROW="None" ENDINCLINATION="-19;-170;" ID="Arrow_ID_1326683252" SOURCE="ID_1776941348" STARTARROW="None" STARTINCLINATION="41;7;"/>
+<node CREATED="1544608789120" ID="ID_1178802971" MODIFIED="1666441659312">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">security</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1546978001714" ID="ID_1462486400" MODIFIED="1666438788842">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">language</font>&#160;or compiler features (e.g. stack protection)
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1546796035902" ID="ID_909852890" MODIFIED="1546796137783">
 <richcontent TYPE="NODE"><html>
@@ -144,7 +219,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1544608806401" ID="ID_753229980" MODIFIED="1660418303225">
+<node CREATED="1544608806401" ID="ID_753229980" MODIFIED="1666437524704">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -158,7 +233,6 @@
     </p>
   </body>
 </html></richcontent>
-<linktarget COLOR="#90ff90" DESTINATION="ID_753229980" ENDARROW="None" ENDINCLINATION="40;84;" ID="Arrow_ID_1167467951" SOURCE="ID_322417410" STARTARROW="None" STARTINCLINATION="118;-138;"/>
 <node CREATED="1544608864716" ID="ID_747883038" MODIFIED="1544608891696" TEXT="user with limited permissions"/>
 <node CREATED="1544608830714" ID="ID_545331493" MODIFIED="1546896042358">
 <richcontent TYPE="NODE"><html>
@@ -195,8 +269,18 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546623696003" ID="ID_1239475209" MODIFIED="1656270324648" TEXT="limits, accounts for, and isolates the resource usage ">
-<linktarget COLOR="#90ff90" DESTINATION="ID_1239475209" ENDARROW="None" ENDINCLINATION="387;1125;" ID="Arrow_ID_640471829" SOURCE="ID_163296283" STARTARROW="None" STARTINCLINATION="65;-1;"/>
+<node CREATED="1546623696003" ID="ID_1239475209" MODIFIED="1666444246525">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      limits, accounts for, and isolates the <font color="#00c800">resource consumption</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
@@ -214,18 +298,21 @@
 <node CREATED="1547042190085" ID="ID_1916369870" MODIFIED="1547042274853" TEXT="specific superuser privileges which can be independently enabled and disabled"/>
 </node>
 </node>
-<node CREATED="1544608938191" ID="ID_127528397" MODIFIED="1660468318337">
+<node CREATED="1544608938191" ID="ID_127528397" MODIFIED="1666444519605">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      fixing <u><font color="#0000ff">CVEs</font></u>
+      fixing <u><font color="#0000ff">CVEs </font></u>
+    </p>
+    <p>
+      <font color="#000000">(</font><font color="#00c800">maintainability</font><font color="#000000">)</font>
     </p>
   </body>
-</html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_692503883" ENDARROW="None" ENDINCLINATION="24;-51;" ID="Arrow_ID_1886114066" STARTARROW="None" STARTINCLINATION="109;0;"/>
+</html>
+</richcontent>
 <node CREATED="1546623875138" ID="ID_993213858" MODIFIED="1546623877246" TEXT=" Common Vulnerabilities and Exposures"/>
 </node>
 </node>
@@ -251,7 +338,7 @@
 <node CREATED="1544043286870" HGAP="16" ID="ID_1508908459" MODIFIED="1544284085658" TEXT="SW" VSHIFT="-14">
 <node CREATED="1543869445603" ID="ID_1691777423" MODIFIED="1547211616851" TEXT="(env. dependent)&#xa;configuration by">
 <node CREATED="1545124406937" ID="ID_1199156844" MODIFIED="1545128013241" TEXT="deployment: Only necessary components are deployed"/>
-<node CREATED="1545124413105" ID="ID_929928733" MODIFIED="1652556499104">
+<node CREATED="1545124413105" ID="ID_929928733" MODIFIED="1666436654547">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -262,7 +349,6 @@
     </p>
   </body>
 </html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_552384724" ENDARROW="None" ENDINCLINATION="695;-91;" ID="Arrow_ID_1804272385" STARTARROW="None" STARTINCLINATION="107;0;"/>
 </node>
 <node CREATED="1545124420538" ID="ID_1831072930" MODIFIED="1545124524602" TEXT="compile time: In-line configuration via compiler switches"/>
 <node CREATED="1545124426274" ID="ID_599615089" MODIFIED="1547211732788" TEXT="runtime">
@@ -318,22 +404,59 @@
 </node>
 <node CREATED="1544042557231" ID="ID_1406875858" MODIFIED="1544284590536" TEXT="middleware, inter process communication (IPC)"/>
 </node>
-<node CREATED="1544608080713" ID="ID_1967869902" MODIFIED="1662319923469" TEXT="third party">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1648493600" ENDARROW="None" ENDINCLINATION="-90;-417;" ID="Arrow_ID_531122975" STARTARROW="None" STARTINCLINATION="-531;720;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1967869902" ENDARROW="None" ENDINCLINATION="-99;-191;" ID="Arrow_ID_617632438" SOURCE="ID_1910752726" STARTARROW="None" STARTINCLINATION="-126;0;"/>
-<node CREATED="1544608186815" ID="ID_692503883" MODIFIED="1660468318338" TEXT="dynamic linking if possible ">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1212204692" ENDARROW="None" ENDINCLINATION="-558;-114;" ID="Arrow_ID_637430380" STARTARROW="None" STARTINCLINATION="-131;125;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_692503883" ENDARROW="None" ENDINCLINATION="24;-51;" ID="Arrow_ID_1886114066" SOURCE="ID_127528397" STARTARROW="None" STARTINCLINATION="109;0;"/>
+<node CREATED="1544608080713" ID="ID_1967869902" MODIFIED="1666444919909">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">third party</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1544608186815" ID="ID_692503883" MODIFIED="1666444519606">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      dynamic linking if possible&#160;(<font color="#00c800">maintainability</font>)
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1544043334686" ID="ID_169028711" MODIFIED="1644086246793" TEXT="FOSS">
-<node CREATED="1544608296436" ID="ID_537251320" MODIFIED="1652552600890" TEXT="(take care for the license)">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_473436180" ENDARROW="None" ENDINCLINATION="41;-34;" ID="Arrow_ID_1634628354" STARTARROW="None" STARTINCLINATION="-68;69;"/>
+<node CREATED="1544608296436" ID="ID_537251320" MODIFIED="1666444983625">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (take care for the <font color="#00c800">license</font>)
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1544284667168" ID="ID_322417410" MODIFIED="1660418303224" TEXT="OS">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_753229980" ENDARROW="None" ENDINCLINATION="40;84;" ID="Arrow_ID_1167467951" STARTARROW="None" STARTINCLINATION="118;-138;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_322417410" ENDARROW="None" ENDINCLINATION="-163;-171;" ID="Arrow_ID_947595356" SOURCE="ID_153347752" STARTARROW="None" STARTINCLINATION="-155;0;"/>
+<node CREATED="1544284667168" ID="ID_322417410" MODIFIED="1666438838846">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">OS</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1544707144358" ID="ID_179277885" MODIFIED="1636740763664" TEXT="kernel">
 <node CREATED="1636740646393" ID="ID_1436955063" MODIFIED="1652383940154" TEXT="monolithic, micro, L4"/>
 <node CREATED="1545390602025" ID="ID_907061380" MODIFIED="1652383967942" TEXT="real-time">
@@ -364,9 +487,18 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node CREATED="1545390673004" ID="ID_473436180" MODIFIED="1662320160366" TEXT="license constraints and costs">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_823268423" ENDARROW="None" ENDINCLINATION="398;-1238;" ID="Arrow_ID_1304203072" STARTARROW="None" STARTINCLINATION="-739;443;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_473436180" ENDARROW="None" ENDINCLINATION="41;-34;" ID="Arrow_ID_1634628354" SOURCE="ID_537251320" STARTARROW="None" STARTINCLINATION="-68;69;"/>
+<node CREATED="1545390673004" ID="ID_473436180" MODIFIED="1666444983626">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">license</font>&#160;constraints and costs
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1545390622397" ID="ID_1976113772" MODIFIED="1545390636179" TEXT="POSIX or alike">
 <node CREATED="1635072805071" ID="ID_964938777" MODIFIED="1635072813002" TEXT="PSE51"/>
@@ -376,8 +508,18 @@
 </node>
 <node CREATED="1544042212187" ID="ID_1615010987" MODIFIED="1544042648514" TEXT="HW">
 <node CREATED="1545390749784" ID="ID_1808354663" MODIFIED="1545390762067" TEXT="CPU architecture">
-<node CREATED="1547469837833" ID="ID_1193441518" MODIFIED="1660468352587" TEXT="security features">
-<linktarget COLOR="#90ff90" DESTINATION="ID_1193441518" ENDARROW="None" ENDINCLINATION="11;-1;" ID="Arrow_ID_1961908945" SOURCE="ID_1178802971" STARTARROW="None" STARTINCLINATION="409;23;"/>
+<node CREATED="1547469837833" ID="ID_1193441518" MODIFIED="1666441633711">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">security</font>&#160;features
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1545390762731" ID="ID_1647585510" MODIFIED="1547065402114" TEXT="peripheral">
@@ -404,8 +546,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <node CREATED="1544349588504" ID="ID_1297528285" MODIFIED="1546797400668" TEXT="divide and conquer">
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1543868959589" ID="ID_1503824701" MODIFIED="1662147159753" TEXT="decomposition">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1962884607" ENDARROW="None" ENDINCLINATION="-140;-346;" ID="Arrow_ID_301158471" STARTARROW="None" STARTINCLINATION="153;291;"/>
+<node CREATED="1543868959589" ID="ID_1503824701" MODIFIED="1666438500084" TEXT="decomposition">
 <node CREATED="1545391919678" ID="ID_606760890" MODIFIED="1609235507658" TEXT="method">
 <node CREATED="1545391962560" ID="ID_1705402682" MODIFIED="1545391966313" TEXT="middle-out">
 <node CREATED="1545391956398" ID="ID_1025713700" MODIFIED="1638389787351" TEXT="top-down"/>
@@ -428,7 +569,7 @@
 <node CREATED="1656268276566" ID="ID_1384867583" MODIFIED="1656269871181" TEXT="system / HW/SW component / HW part / SW unit"/>
 </node>
 <node CREATED="1656268232620" ID="ID_689945914" MODIFIED="1656268252891" TEXT="item">
-<node CREATED="1544040549160" ID="ID_1864186321" MODIFIED="1662319910043">
+<node CREATED="1544040549160" ID="ID_1864186321" MODIFIED="1666440010068">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -441,12 +582,12 @@
       combination of
     </p>
     <p>
-      (sub-)systems
+      <font color="#00c800">(sub-)systems</font>
     </p>
   </body>
-</html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_226568873" ENDARROW="None" ENDINCLINATION="-644;-439;" ID="Arrow_ID_104289806" STARTARROW="None" STARTINCLINATION="-46;4;"/>
-<node CREATED="1543869216483" HGAP="21" ID="ID_529297547" MODIFIED="1659295076743" VSHIFT="-11">
+</html>
+</richcontent>
+<node CREATED="1543869216483" HGAP="21" ID="ID_529297547" MODIFIED="1666441697383" VSHIFT="-11">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -456,12 +597,11 @@
       (composite)
     </p>
     <p>
-      component
+      <font color="#00c800">component</font>
     </p>
   </body>
-</html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1933241391" ENDARROW="None" ENDINCLINATION="360;61;" ID="Arrow_ID_598266560" STARTARROW="None" STARTINCLINATION="36;-224;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_529297547" ENDARROW="None" ENDINCLINATION="-2;12;" ID="Arrow_ID_152966347" SOURCE="ID_1949477568" STARTARROW="None" STARTINCLINATION="285;-205;"/>
+</html>
+</richcontent>
 <node CREATED="1610812871845" ID="ID_1365335388" MODIFIED="1656269919296" VSHIFT="2">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -494,25 +634,34 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1544608341429" HGAP="19" ID="ID_1907089128" MODIFIED="1656270261586" TEXT="service: abstract also the IPC technology to support various bindings" VSHIFT="2">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_637985978" ENDARROW="None" ENDINCLINATION="144;-83;" ID="Arrow_ID_321470065" STARTARROW="None" STARTINCLINATION="-104;173;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1907089128" ENDARROW="None" ENDINCLINATION="11;114;" ID="Arrow_ID_436913616" SOURCE="ID_1256621865" STARTARROW="None" STARTINCLINATION="15;-36;"/>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1534366648582" HGAP="12" ID="ID_685415640" MODIFIED="1662147147023" VSHIFT="-4">
+<node CREATED="1544608341429" HGAP="19" ID="ID_1907089128" MODIFIED="1666445017910" VSHIFT="2">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      OO principles
+      service: abstract also the IPC technology to support various bindings (<font color="#00c800">IDL</font>)
     </p>
   </body>
-</html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_827516383" ENDARROW="None" ENDINCLINATION="-78;-159;" ID="Arrow_ID_848615366" STARTARROW="None" STARTINCLINATION="140;140;"/>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1534366648582" HGAP="12" ID="ID_685415640" MODIFIED="1666441457237" VSHIFT="-4">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      OO <font color="#00c800">principles</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1534572211671" ID="ID_1504426533" MODIFIED="1648894571467">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -524,14 +673,21 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1534366900639" ID="ID_1291782658" MODIFIED="1656270161192" TEXT="Separation of Concerns (SoC, concern on feature level)">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_4100003" ENDARROW="None" ENDINCLINATION="14;-29;" ID="Arrow_ID_138773603" STARTARROW="None" STARTINCLINATION="4;11;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1291782658" ENDARROW="None" ENDINCLINATION="28;-2;" ID="Arrow_ID_771213506" SOURCE="ID_868467320" STARTARROW="None" STARTINCLINATION="440;356;"/>
-</node>
+<node CREATED="1534366900639" ID="ID_1291782658" MODIFIED="1666437893695" TEXT="Separation of Concerns (SoC, concern on feature level)"/>
 <node CREATED="1534572344140" ID="ID_1662861495" MODIFIED="1609010474492" TEXT="Single Responsibility principle (SRP)"/>
 <node CREATED="1534572347673" ID="ID_522510039" MODIFIED="1536819499615" TEXT="Principle of Least Knowledge (LoD, loose coupling)"/>
-<node CREATED="1534572370549" ID="ID_148972680" MODIFIED="1659295565253" TEXT="Don&#x2019;t repeat yourself (DRY)">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1516461722" ENDARROW="None" ENDINCLINATION="292;30;" ID="Arrow_ID_304537523" STARTARROW="None" STARTINCLINATION="205;-418;"/>
+<node CREATED="1534572370549" ID="ID_148972680" MODIFIED="1666444826428">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Don&#8217;t repeat yourself (<font color="#00c800">DRY</font>)
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1534572389193" ID="ID_849117526" MODIFIED="1648895186249" TEXT="Minimize upfront design / You ain&apos;t gonna need it (YAGNI)">
 <node CREATED="1635073496592" ID="ID_1239788929" MODIFIED="1635073654820" STYLE="fork" TEXT="Keep it simple stupid (KISS)"/>
@@ -548,9 +704,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1534366672588" ID="ID_4100003" MODIFIED="1652551362610" TEXT="Single-Responsibility (SRP, responsibiliy on function level, reason to change)">
-<linktarget COLOR="#90ff90" DESTINATION="ID_4100003" ENDARROW="None" ENDINCLINATION="14;-29;" ID="Arrow_ID_138773603" SOURCE="ID_1291782658" STARTARROW="None" STARTINCLINATION="4;11;"/>
-</node>
+<node CREATED="1534366672588" ID="ID_4100003" MODIFIED="1666437893695" TEXT="Single-Responsibility (SRP, responsibiliy on function level, reason to change)"/>
 <node CREATED="1534366686998" ID="ID_1708993653" MODIFIED="1609103800738" TEXT="Open-Closed (OCP): open for extension, but closed for modification"/>
 <node CREATED="1534366692200" ID="ID_893369754" MODIFIED="1609103834044" TEXT="Liskov Substitution (LSP): elements replaceable with instances of subtypes"/>
 <node CREATED="1534366731002" ID="ID_1862357220" MODIFIED="1643462877231">
@@ -565,7 +719,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1534366769199" ID="ID_1256621865" MODIFIED="1656270261586">
+<node CREATED="1534366769199" ID="ID_1256621865" MODIFIED="1666445017910">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -576,7 +730,6 @@
     </p>
   </body>
 </html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1907089128" ENDARROW="None" ENDINCLINATION="11;114;" ID="Arrow_ID_436913616" STARTARROW="None" STARTINCLINATION="15;-36;"/>
 </node>
 <node CREATED="1643467548075" ID="ID_702864118" MODIFIED="1644074759738">
 <richcontent TYPE="NODE"><html>
@@ -612,7 +765,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1624976658979" ID="ID_274316871" MODIFIED="1662319902864">
+<node CREATED="1624976658979" ID="ID_274316871" MODIFIED="1666441488562">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -626,7 +779,6 @@
     </p>
   </body>
 </html></richcontent>
-<linktarget COLOR="#90ff90" DESTINATION="ID_274316871" ENDARROW="None" ENDINCLINATION="-22;-1;" ID="Arrow_ID_1814614125" SOURCE="ID_1343307687" STARTARROW="None" STARTINCLINATION="-635;0;"/>
 </node>
 </node>
 <node CREATED="1609010550655" ID="ID_1843699813" MODIFIED="1609010607771" TEXT="Inversion of Control (IoC)">
@@ -635,7 +787,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1543868816999" ID="ID_1472353264" MODIFIED="1662145673104">
+<node CREATED="1543868816999" ID="ID_1472353264" MODIFIED="1666437966160">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -653,15 +805,14 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1472353264" ENDARROW="None" ENDINCLINATION="6;164;" ID="Arrow_ID_442381855" SOURCE="ID_208864775" STARTARROW="None" STARTINCLINATION="-17;-25;"/>
-<node CREATED="1544040896874" HGAP="21" ID="ID_1175491591" MODIFIED="1662320273911" VSHIFT="2">
+<node CREATED="1544040896874" HGAP="21" ID="ID_1175491591" MODIFIED="1666444840553" VSHIFT="2">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      follows the DRY rule and
+      follows the <font color="#00c800">DRY</font>&#160;rule and
     </p>
     <p>
       the requirement <font color="#0000ff"><u>characteristics</u></font>&#160;
@@ -670,8 +821,8 @@
       to explain the architecture by ...
     </p>
   </body>
-</html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1150869759" ENDARROW="None" ENDINCLINATION="-374;332;" ID="Arrow_ID_855164365" STARTARROW="None" STARTINCLINATION="-79;-12;"/>
+</html>
+</richcontent>
 <node CREATED="1662145784227" ID="ID_888816809" MODIFIED="1662319318222">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -723,23 +874,22 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1536819947875" ID="ID_911609279" MODIFIED="1652557129706">
+<node CREATED="1536819947875" ID="ID_911609279" MODIFIED="1666444334624">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#0000ff"><u>architectural patterns</u></font>
+      <font color="#0000ff"><u>architectural</u></font><font color="#000000">&#160;</font><font color="#00c800">patterns</font>
     </p>
     <p>
-      (analogy: the house)
+      (<font color="#00c800">analogy</font>: the house)
     </p>
   </body>
-</html></richcontent>
-<linktarget COLOR="#90ff90" DESTINATION="ID_911609279" ENDARROW="None" ENDINCLINATION="24;16;" ID="Arrow_ID_253957846" SOURCE="ID_827516383" STARTARROW="None" STARTINCLINATION="-33;-10;"/>
-<node CREATED="1536819966937" ID="ID_1962884607" MODIFIED="1662147159753" TEXT="mud-to-structure">
-<linktarget COLOR="#90ff90" DESTINATION="ID_1962884607" ENDARROW="None" ENDINCLINATION="-140;-346;" ID="Arrow_ID_301158471" SOURCE="ID_1503824701" STARTARROW="None" STARTINCLINATION="153;291;"/>
+</html>
+</richcontent>
+<node CREATED="1536819966937" ID="ID_1962884607" MODIFIED="1666438500084" TEXT="mud-to-structure">
 <node CREATED="1536871776383" ID="ID_169613791" MODIFIED="1647708717467">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -797,36 +947,60 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1544284749060" ID="ID_909431611" MODIFIED="1659297962758">
+<node CREATED="1544284749060" ID="ID_909431611" MODIFIED="1666444748405">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      based on facts and experience (<u><font color="#0000ff">evidence-based</font></u>) <i>not </i>gut feeling and belief
+      based on facts and experience (<u><font color="#0000ff">evidence-based</font></u>, <u><font color="#0000ff">metrics</font></u>) <i>not </i>gut feeling and belief
     </p>
   </body>
-</html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1235072101" ENDARROW="None" ENDINCLINATION="106;-138;" ID="Arrow_ID_1317554702" STARTARROW="None" STARTINCLINATION="-240;485;"/>
+</html>
+</richcontent>
 </node>
-<node CREATED="1644679136343" ID="ID_115346817" MODIFIED="1662319478184">
+<node CREATED="1644679136343" ID="ID_115346817" MODIFIED="1666445600020">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      prioritization between quality attributes
+      prioritization between quality attributes/<font color="#00c800">criteria</font>
     </p>
     <p>
       (<font color="#0000ff"><u>ATAM</u></font>&#160;and its Utility Tree)
     </p>
   </body>
-</html></richcontent>
-<linktarget COLOR="#90ff90" DESTINATION="ID_115346817" ENDARROW="None" ENDINCLINATION="-883;0;" ID="Arrow_ID_1995984805" SOURCE="ID_462816524" STARTARROW="None" STARTINCLINATION="-644;-28;"/>
-<node CREATED="1644679254894" ID="ID_25835399" MODIFIED="1660418707015" TEXT="technical risk"/>
-<node CREATED="1644679250277" ID="ID_888837463" MODIFIED="1644679253974" TEXT="business value"/>
+</html>
+</richcontent>
+<node CREATED="1644679254894" ID="ID_25835399" MODIFIED="1666440489092">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">technical risk</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1644679250277" ID="ID_888837463" MODIFIED="1666440567673">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">business value</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 <node CREATED="1544040855380" ID="ID_1425416611" MODIFIED="1652718370707">
 <richcontent TYPE="NODE"><html>
@@ -852,22 +1026,22 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1546807206444" ID="ID_827516383" MODIFIED="1662147147023" STYLE="fork">
+<node CREATED="1546807206444" ID="ID_827516383" MODIFIED="1666444334624" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#000000">used </font><u><font color="#0000ff">patterns</font></u>&#160;and principles
+      <font color="#000000">used </font><font color="#00c800">patterns</font>&#160;and <font color="#00c800">principles </font>
+    </p>
+    <p>
+      <font color="#000000">(</font><u><font color="#0000ff">pattern language</font></u><font color="#000000">)</font>
     </p>
   </body>
-</html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1084010852" ENDARROW="None" ENDINCLINATION="-736;-47;" ID="Arrow_ID_1283214345" STARTARROW="None" STARTINCLINATION="-230;0;"/>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1925920325" ENDARROW="None" ENDINCLINATION="-633;-18;" ID="Arrow_ID_703218004" STARTARROW="None" STARTINCLINATION="-285;554;"/>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_911609279" ENDARROW="None" ENDINCLINATION="24;16;" ID="Arrow_ID_253957846" STARTARROW="None" STARTINCLINATION="-33;-10;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_827516383" ENDARROW="None" ENDINCLINATION="-78;-159;" ID="Arrow_ID_848615366" SOURCE="ID_685415640" STARTARROW="None" STARTINCLINATION="140;140;"/>
-<node CREATED="1548619978108" ID="ID_843393367" MODIFIED="1656270178869">
+</html>
+</richcontent>
+<node CREATED="1548619978108" ID="ID_843393367" MODIFIED="1666444155906">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -877,11 +1051,11 @@
       loosely coupled hierarchical system of&#160;interior design, architecture,
     </p>
     <p>
-      zoning&#160;regulations to <font color="#000000">prevent</font>&#160;from defining <u><font color="#0000ff">obstructive</font></u>&#160;overall rules.
+      zoning regulations (<font color="#00c800">analogies</font>) to avoid <u><font color="#0000ff">obstructive</font></u>&#160;overall rules.
     </p>
   </body>
-</html></richcontent>
-<linktarget COLOR="#90ff90" DESTINATION="ID_843393367" ENDARROW="None" ENDINCLINATION="162;-340;" ID="Arrow_ID_378287186" SOURCE="ID_1423182411" STARTARROW="None" STARTINCLINATION="310;166;"/>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
@@ -897,12 +1071,20 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546979069431" ID="ID_1289081110" MODIFIED="1659296762267" TEXT="model">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_302970751" ENDARROW="None" ENDINCLINATION="-42;-341;" ID="Arrow_ID_421464330" STARTARROW="None" STARTINCLINATION="63;359;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1289081110" ENDARROW="None" ENDINCLINATION="-36;35;" ID="Arrow_ID_377406331" SOURCE="ID_381910907" STARTARROW="None" STARTINCLINATION="-777;-151;"/>
+<node CREATED="1546979069431" ID="ID_1289081110" MODIFIED="1666438077576" TEXT="model">
 <node CREATED="1547552457884" ID="ID_1147578652" MODIFIED="1547552678987" TEXT="interface">
-<node CREATED="1547552484780" ID="ID_637985978" MODIFIED="1656269256042" TEXT="IDL">
-<linktarget COLOR="#90ff90" DESTINATION="ID_637985978" ENDARROW="None" ENDINCLINATION="144;-83;" ID="Arrow_ID_321470065" SOURCE="ID_1907089128" STARTARROW="None" STARTINCLINATION="-104;173;"/>
+<node CREATED="1547552484780" ID="ID_637985978" MODIFIED="1666444386901">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">IDL</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1547552454095" ID="ID_1247634116" MODIFIED="1652554619531" TEXT="general">
@@ -940,32 +1122,51 @@
 </node>
 <node CREATED="1534366285346" ID="ID_1280531651" MODIFIED="1662145058927" TEXT="development">
 <node CREATED="1659294785623" ID="ID_553875217" MODIFIED="1659294802578" TEXT="package diagram">
-<node CREATED="1544608610816" ID="ID_1509578905" MODIFIED="1662319554699" TEXT="artifacts, deliverables">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_983382172" ENDARROW="None" ENDINCLINATION="-642;0;" ID="Arrow_ID_1631794748" STARTARROW="None" STARTINCLINATION="10;-365;"/>
-</node>
-</node>
-<node CREATED="1534365650794" ID="ID_1949477568" MODIFIED="1659295357861">
+<node CREATED="1544608610816" ID="ID_1509578905" MODIFIED="1666439940626">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      component
+      <font color="#00c800">artifacts, deliverables</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1534365650794" ID="ID_1949477568" MODIFIED="1666441697383">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">component</font>
     </p>
     <p>
       diagram
     </p>
   </body>
-</html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_529297547" ENDARROW="None" ENDINCLINATION="-2;12;" ID="Arrow_ID_152966347" STARTARROW="None" STARTINCLINATION="285;-205;"/>
+</html>
+</richcontent>
 <node CREATED="1544608969504" ID="ID_1523639659" MODIFIED="1659295114601" TEXT="resource consumption"/>
-<node CREATED="1543869457724" ID="ID_198488980" MODIFIED="1659295121731" TEXT="security">
-<node CREATED="1545472791959" ID="ID_1886051506" MODIFIED="1662320170781" TEXT="threat analysis">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1178802971" ENDARROW="None" ENDINCLINATION="22;375;" ID="Arrow_ID_1251491161" STARTARROW="None" STARTINCLINATION="60;-306;"/>
+<node CREATED="1543869457724" ID="ID_198488980" MODIFIED="1666441655530">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">security</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1545472791959" ID="ID_1886051506" MODIFIED="1666441659312" TEXT="threat analysis"/>
 </node>
-</node>
-<node CREATED="1544608536046" ID="ID_1543615599" MODIFIED="1660468426713">
+<node CREATED="1544608536046" ID="ID_1543615599" MODIFIED="1666441410698">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -975,23 +1176,24 @@
       safety:
     </p>
     <p>
-      risk
+      <font color="#00c800">risk</font>
     </p>
   </body>
-</html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_294778924" ENDARROW="None" ENDINCLINATION="129;-55;" ID="Arrow_ID_1257747696" STARTARROW="None" STARTINCLINATION="-54;182;"/>
+</html>
+</richcontent>
 <node CREATED="1646498681485" ID="ID_241233530" MODIFIED="1646499676166" TEXT="correlates with complexity"/>
-<node CREATED="1544608536046" ID="ID_1674384466" MODIFIED="1659296119712">
+<node CREATED="1544608536046" ID="ID_1674384466" MODIFIED="1666441391695">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      risk = severity &#10799; probability ( = exposure &#10799; likelihood)
+      <font color="#00c800">risk</font>&#160;= severity &#10799; probability ( = exposure &#10799; likelihood)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
@@ -1046,30 +1248,28 @@
 </node>
 <node CREATED="1543868808823" ID="ID_376237452" MODIFIED="1648902876419" TEXT="communication">
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1544040707649" ID="ID_208864775" MODIFIED="1652557097143" TEXT="with help of documentation">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1472353264" ENDARROW="None" ENDINCLINATION="6;164;" ID="Arrow_ID_442381855" STARTARROW="None" STARTINCLINATION="-17;-25;"/>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1002428214" ENDARROW="None" ENDINCLINATION="60;-131;" ID="Arrow_ID_1649119190" STARTARROW="None" STARTINCLINATION="11;201;"/>
+<node CREATED="1544040707649" ID="ID_208864775" MODIFIED="1666437966160" TEXT="with help of documentation"/>
+<node CREATED="1544350741368" ID="ID_1448925366" MODIFIED="1666438027243" TEXT="between stakeholders"/>
 </node>
-<node CREATED="1544350741368" ID="ID_1448925366" MODIFIED="1660418772320" TEXT="between stakeholders">
-<linktarget COLOR="#90ff90" DESTINATION="ID_1448925366" ENDARROW="None" ENDINCLINATION="-170;-108;" ID="Arrow_ID_540407647" SOURCE="ID_1694922253" STARTARROW="None" STARTINCLINATION="-416;494;"/>
-</node>
-</node>
-<node CREATED="1544350515150" ID="ID_1235072101" MODIFIED="1662320189164">
+<node CREATED="1544350515150" ID="ID_1235072101" MODIFIED="1666444748406">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
+      <font color="#00c800">(criteria)</font>
+    </p>
+    <p>
       <font color="#0000ff"><u>metrics</u></font>
     </p>
+    <p>
+      via <font color="#00c800">tools </font>
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1235072101" ENDARROW="None" ENDINCLINATION="106;-138;" ID="Arrow_ID_1317554702" SOURCE="ID_909431611" STARTARROW="None" STARTINCLINATION="-240;485;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1235072101" ENDARROW="None" ENDINCLINATION="-4;50;" ID="Arrow_ID_797786976" SOURCE="ID_604531956" STARTARROW="None" STARTINCLINATION="6;-112;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1235072101" ENDARROW="None" ENDINCLINATION="-422;-550;" ID="Arrow_ID_1470125004" SOURCE="ID_1859279295" STARTARROW="None" STARTINCLINATION="42;739;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1235072101" ENDARROW="None" ENDINCLINATION="-8;4;" ID="Arrow_ID_771230071" SOURCE="ID_159024700" STARTARROW="None" STARTINCLINATION="-353;-7;"/>
 <node CREATED="1546621740376" ID="ID_947008672" MODIFIED="1644075148120">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1121,8 +1321,19 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1545390932496" ID="ID_906251486" MODIFIED="1639833734234" TEXT="resource consumption">
-<node CREATED="1544609029627" ID="ID_163296283" MODIFIED="1656270324648">
+<node CREATED="1545390932496" ID="ID_906251486" MODIFIED="1666444243599">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">resource&#160;consumption</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1544609029627" ID="ID_163296283" MODIFIED="1666444246525">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1133,13 +1344,22 @@
     </p>
   </body>
 </html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1239475209" ENDARROW="None" ENDINCLINATION="387;1125;" ID="Arrow_ID_640471829" STARTARROW="None" STARTINCLINATION="65;-1;"/>
 </node>
 <node CREATED="1545390943768" ID="ID_350333090" MODIFIED="1609011955620" TEXT="CPU vs. time, memory, IRQ, DMA"/>
 </node>
 <node CREATED="1547555023988" ID="ID_721486945" MODIFIED="1646499263570" TEXT="complexity">
-<node CREATED="1545390909728" ID="ID_1511307315" MODIFIED="1660418786860" TEXT="cost efficiency">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1648493600" ENDARROW="None" ENDINCLINATION="-793;-38;" ID="Arrow_ID_239467071" STARTARROW="None" STARTINCLINATION="-487;-239;"/>
+<node CREATED="1545390909728" ID="ID_1511307315" MODIFIED="1666439282157">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">cost</font>&#160;efficiency
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1547555068841" ID="ID_471513573" MODIFIED="1547586445350">
 <richcontent TYPE="NODE"><html>
@@ -1152,15 +1372,24 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1547555114310" ID="ID_294778924" MODIFIED="1660468426713" TEXT="risk">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1908156779" ENDARROW="None" ENDINCLINATION="1;-9;" ID="Arrow_ID_828057270" STARTARROW="None" STARTINCLINATION="18;2;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_294778924" ENDARROW="None" ENDINCLINATION="129;-55;" ID="Arrow_ID_1257747696" SOURCE="ID_1543615599" STARTARROW="None" STARTINCLINATION="-54;182;"/>
+<node CREATED="1547555114310" ID="ID_294778924" MODIFIED="1666441410699">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">risk</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
 <node CREATED="1547107014822" ID="ID_604955476" MODIFIED="1639833543364" TEXT="reliability">
 <node CREATED="1547045344083" ID="ID_381443858" MODIFIED="1547107054602" TEXT="failure">
-<node CREATED="1546622103506" ID="ID_1908156779" MODIFIED="1659296993853">
+<node CREATED="1546622103506" ID="ID_1908156779" MODIFIED="1666437864052">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1171,7 +1400,6 @@
     </p>
   </body>
 </html></richcontent>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1908156779" ENDARROW="None" ENDINCLINATION="1;-9;" ID="Arrow_ID_828057270" SOURCE="ID_294778924" STARTARROW="None" STARTINCLINATION="18;2;"/>
 <node CREATED="1546622177640" ID="ID_501558037" MODIFIED="1652553051823" TEXT="whole system, single feature, one or more use cases, specific scenario"/>
 </node>
 <node CREATED="1547045366089" ID="ID_1014720148" MODIFIED="1547555196660" TEXT="mean time between failures (MTBF)"/>
@@ -1195,11 +1423,20 @@
 </node>
 </node>
 </node>
-<node CREATED="1544285115508" ID="ID_604531956" MODIFIED="1659296013220" TEXT="tools">
+<node CREATED="1544285115508" ID="ID_604531956" MODIFIED="1666439062390">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">tools</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1235072101" ENDARROW="None" ENDINCLINATION="-4;50;" ID="Arrow_ID_797786976" STARTARROW="None" STARTINCLINATION="6;-112;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_604531956" ENDARROW="None" ENDINCLINATION="-96;0;" ID="Arrow_ID_1042109479" SOURCE="ID_159024700" STARTARROW="None" STARTINCLINATION="-200;74;"/>
-<node CREATED="1545393048321" ID="ID_1002428214" MODIFIED="1652556204453">
+<node CREATED="1545393048321" ID="ID_1002428214" MODIFIED="1666437851366">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1213,26 +1450,35 @@
     </p>
   </body>
 </html></richcontent>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1002428214" ENDARROW="None" ENDINCLINATION="60;-131;" ID="Arrow_ID_1649119190" SOURCE="ID_208864775" STARTARROW="None" STARTINCLINATION="11;201;"/>
-<node CREATED="1545392972538" ID="ID_302970751" MODIFIED="1659296762267" TEXT="modeling tool">
-<linktarget COLOR="#90ff90" DESTINATION="ID_302970751" ENDARROW="None" ENDINCLINATION="-42;-341;" ID="Arrow_ID_421464330" SOURCE="ID_1289081110" STARTARROW="None" STARTINCLINATION="63;359;"/>
-</node>
-<node CREATED="1545393079415" ID="ID_1123879872" MODIFIED="1652383716012" TEXT="requiremements engineering"/>
-<node CREATED="1545393095584" ID="ID_502389189" MODIFIED="1545393130809" TEXT="work package (ticket) and planing"/>
-<node CREATED="1545393481114" ID="ID_552384724" MODIFIED="1652556499104" TEXT="configuration management">
-<linktarget COLOR="#90ff90" DESTINATION="ID_552384724" ENDARROW="None" ENDINCLINATION="695;-91;" ID="Arrow_ID_1804272385" SOURCE="ID_929928733" STARTARROW="None" STARTINCLINATION="107;0;"/>
-<node CREATED="1545426215958" ID="ID_1905371418" MODIFIED="1652556801153">
+<node CREATED="1545393079415" ID="ID_1123879872" MODIFIED="1666445766978" TEXT="requiremements engineering"/>
+<node CREATED="1545393095584" ID="ID_502389189" MODIFIED="1666445769615" TEXT="work package (ticket) and planing"/>
+<node CREATED="1545392972538" ID="ID_302970751" MODIFIED="1666445761072" TEXT="modeling"/>
+<node CREATED="1545393481114" ID="ID_552384724" MODIFIED="1666436654548" TEXT="configuration management">
+<node CREATED="1666445787364" ID="ID_146822580" MODIFIED="1666445923621">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#000000">continuous integration (</font><u><font color="#0000ff">XP</font></u><font color="#000000">)</font>
+      <u><font color="#0000ff">docs as code</font></u>
     </p>
   </body>
-</html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_494908707" ENDARROW="None" ENDINCLINATION="-117;12;" ID="Arrow_ID_1587252900" STARTARROW="None" STARTINCLINATION="-666;0;"/>
+</html>
+</richcontent>
+</node>
+<node CREATED="1545426215958" ID="ID_1905371418" MODIFIED="1666438962029">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">continuous integration</font><font color="#000000">&#160;(</font><u><font color="#0000ff">XP</font></u><font color="#000000">)</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1545393190476" ID="ID_775032059" MODIFIED="1545393458993" TEXT="wiki"/>
@@ -1551,7 +1797,7 @@
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <node CREATED="1536695652308" ID="ID_1654920606" MODIFIED="1652550924269" TEXT="Requirements">
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1543869076518" ID="ID_1150869759" MODIFIED="1662319836458">
+<node CREATED="1543869076518" ID="ID_1150869759" MODIFIED="1666441543340">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1562,7 +1808,6 @@
     </p>
   </body>
 </html></richcontent>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1150869759" ENDARROW="None" ENDINCLINATION="-374;332;" ID="Arrow_ID_855164365" SOURCE="ID_1175491591" STARTARROW="None" STARTINCLINATION="-79;-12;"/>
 <node CREATED="1536695658204" ID="ID_554336568" MODIFIED="1543869160150" TEXT="correct"/>
 <node CREATED="1536695728859" ID="ID_1327454975" MODIFIED="1547126330181" TEXT="clear and understandable"/>
 <node CREATED="1536695668550" ID="ID_1808087877" MODIFIED="1547126375427" TEXT="unambiguous"/>
@@ -1588,35 +1833,40 @@
 </node>
 <node CREATED="1543869186561" ID="ID_465001877" MODIFIED="1543869189014" TEXT="types">
 <node CREATED="1543869193426" ID="ID_176514765" MODIFIED="1543869196452" TEXT="functional"/>
-<node CREATED="1543869197068" ID="ID_814011276" MODIFIED="1639073293497" TEXT="non-functional">
-<linktarget COLOR="#90ff90" DESTINATION="ID_814011276" ENDARROW="None" ENDINCLINATION="-81;46;" ID="Arrow_ID_975451979" SOURCE="ID_1859279295" STARTARROW="None" STARTINCLINATION="26;-181;"/>
-</node>
-</node>
-</node>
-<node CREATED="1534366108490" ID="ID_1859279295" MODIFIED="1662320189164" STYLE="fork">
+<node CREATED="1543869197068" ID="ID_814011276" MODIFIED="1666444876120">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Quality
-    </p>
-    <p>
-      models /
-    </p>
-    <p>
-      attributes
-    </p>
-    <p>
-      (criteria)
+      non-functional (<font color="#00c800">criteria</font>)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1534366108490" ID="ID_1859279295" MODIFIED="1666445702437" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">quality</font>
+    </p>
+    <p>
+      model /
+    </p>
+    <p>
+      <font color="#00c800">criteria</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_814011276" ENDARROW="None" ENDINCLINATION="-81;46;" ID="Arrow_ID_975451979" STARTARROW="None" STARTINCLINATION="26;-181;"/>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1235072101" ENDARROW="None" ENDINCLINATION="-422;-550;" ID="Arrow_ID_1470125004" STARTARROW="None" STARTINCLINATION="42;739;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1859279295" ENDARROW="None" ENDINCLINATION="-71;-440;" ID="Arrow_ID_887964182" SOURCE="ID_638892429" STARTARROW="None" STARTINCLINATION="-41;26;"/>
 <node CREATED="1534366132352" ID="ID_977373251" MODIFIED="1547044522415">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1696,18 +1946,39 @@
 <node CREATED="1544043472829" ID="ID_221153819" MODIFIED="1639833543365" TEXT="reliability">
 <node CREATED="1544043614652" ID="ID_290011299" MODIFIED="1548589509648" TEXT="maturity, availability, fault tolerance, recoverability"/>
 </node>
-<node CREATED="1544043491410" ID="ID_1218543984" MODIFIED="1544043495260" TEXT="security">
+<node CREATED="1544043491410" ID="ID_1218543984" MODIFIED="1666444434739">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">security</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1544043758747" ID="ID_1174498753" MODIFIED="1548589581357" TEXT="confidentiality, integrity, non-repudiation, accountability, authenticity"/>
 </node>
-<node CREATED="1544043495698" ID="ID_1212204692" MODIFIED="1659298119324" TEXT="maintainability">
-<linktarget COLOR="#90ff90" DESTINATION="ID_1212204692" ENDARROW="None" ENDINCLINATION="-558;-114;" ID="Arrow_ID_637430380" SOURCE="ID_692503883" STARTARROW="None" STARTINCLINATION="-131;125;"/>
+<node CREATED="1544043495698" ID="ID_1212204692" MODIFIED="1666444480821">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">maintainability</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1544043801645" ID="ID_609681307" MODIFIED="1548589594017" TEXT="modularity, reusability, analyzability, modifiability, testability"/>
 </node>
 <node CREATED="1544043508072" ID="ID_1304680519" MODIFIED="1544043512274" TEXT="portability">
 <node CREATED="1544043841643" ID="ID_1990994362" MODIFIED="1548589606943" TEXT="adaptability, installability, replaceability"/>
 </node>
 </node>
-<node CREATED="1624976514751" ID="ID_1343307687" MODIFIED="1662319902863">
+<node CREATED="1624976514751" ID="ID_1343307687" MODIFIED="1666441488562">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1718,7 +1989,6 @@
     </p>
   </body>
 </html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_274316871" ENDARROW="None" ENDINCLINATION="-22;-1;" ID="Arrow_ID_1814614125" STARTARROW="None" STARTINCLINATION="-635;0;"/>
 <node CREATED="1624976561383" ID="ID_792755609" MODIFIED="1624976569100" TEXT="symptoms">
 <node CREATED="1624976586132" ID="ID_843263727" MODIFIED="1624977235493" TEXT="change amplification: simple change requires modifications in many different places"/>
 <node CREATED="1624976847409" ID="ID_1446918030" MODIFIED="1624977270914" TEXT="cognitive load: how much one need to know to complete a task"/>
@@ -1765,9 +2035,8 @@
 <node CREATED="1545391274365" ID="ID_71941011" MODIFIED="1545391376227" TEXT="legal department"/>
 <node CREATED="1545391266645" ID="ID_674681667" MODIFIED="1652383415117" TEXT="IT"/>
 </node>
-<node CREATED="1543767112858" HGAP="54" ID="ID_1694922253" MODIFIED="1660418772319" TEXT="stakeholder" VSHIFT="-14">
+<node CREATED="1543767112858" HGAP="54" ID="ID_1694922253" MODIFIED="1666438027243" TEXT="stakeholder" VSHIFT="-14">
 <edge COLOR="#808080" WIDTH="thin"/>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1448925366" ENDARROW="None" ENDINCLINATION="-170;-108;" ID="Arrow_ID_540407647" STARTARROW="None" STARTINCLINATION="-416;494;"/>
 <node CREATED="1544041002476" ID="ID_1371983250" MODIFIED="1636390439058" TEXT="architect">
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1636391032425" ID="ID_51331574" MODIFIED="1636394213013" TEXT="type">
@@ -1787,9 +2056,18 @@
 </node>
 <node CREATED="1545391064949" ID="ID_743621439" MODIFIED="1636390533198" TEXT="skills">
 <node CREATED="1545391070387" ID="ID_853867294" MODIFIED="1545391078148" TEXT="abstract thinking"/>
-<node CREATED="1546797829513" ID="ID_1518729018" MODIFIED="1659298086973" TEXT="system understanding">
-<linktarget COLOR="#90ff90" DESTINATION="ID_1518729018" ENDARROW="None" ENDINCLINATION="64;0;" ID="Arrow_ID_1405587176" SOURCE="ID_1140045535" STARTARROW="None" STARTINCLINATION="-114;-203;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1518729018" ENDARROW="None" ENDINCLINATION="369;236;" ID="Arrow_ID_1134484884" SOURCE="ID_1484151099" STARTARROW="None" STARTINCLINATION="132;-520;"/>
+<node CREATED="1546797829513" ID="ID_1518729018" MODIFIED="1666439506316">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">system understanding</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1546622648551" ID="ID_1243515488" MODIFIED="1546979599605">
 <richcontent TYPE="NODE"><html>
@@ -1817,28 +2095,59 @@
 </node>
 <node CREATED="1543767112068" ID="ID_611275700" MODIFIED="1545391100531" TEXT="integrator">
 <node CREATED="1543867871702" ID="ID_581315370" MODIFIED="1544041063595" TEXT="Interface change management"/>
-<node CREATED="1544041034846" ID="ID_983382172" MODIFIED="1662319554700" TEXT="artifacts, deliverable">
-<linktarget COLOR="#90ff90" DESTINATION="ID_983382172" ENDARROW="None" ENDINCLINATION="-642;0;" ID="Arrow_ID_1631794748" SOURCE="ID_1509578905" STARTARROW="None" STARTINCLINATION="10;-365;"/>
-</node>
-<node CREATED="1544607588917" ID="ID_494908707" MODIFIED="1652556801153">
+<node CREATED="1544041034846" ID="ID_983382172" MODIFIED="1666439940626">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#000000">continuous integration (</font><u><font color="#0000ff">XP</font></u><font color="#000000">)</font>
+      <font color="#00c800">artifacts, deliverable</font>
     </p>
   </body>
-</html></richcontent>
-<linktarget COLOR="#90ff90" DESTINATION="ID_494908707" ENDARROW="None" ENDINCLINATION="-117;12;" ID="Arrow_ID_1587252900" SOURCE="ID_1905371418" STARTARROW="None" STARTINCLINATION="-666;0;"/>
-<node CREATED="1547044806289" ID="ID_226568873" MODIFIED="1662319910043" TEXT="integration test">
-<linktarget COLOR="#90ff90" DESTINATION="ID_226568873" ENDARROW="None" ENDINCLINATION="-644;-439;" ID="Arrow_ID_104289806" SOURCE="ID_1864186321" STARTARROW="None" STARTINCLINATION="-46;4;"/>
+</html>
+</richcontent>
+</node>
+<node CREATED="1544607588917" ID="ID_494908707" MODIFIED="1666438962030">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">continuous integration</font><font color="#000000">&#160;(</font><u><font color="#0000ff">XP</font></u><font color="#000000">)</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1547044806289" ID="ID_226568873" MODIFIED="1666440010068">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      integration test of components and <font color="#00c800">(sub-)systems</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
-<node CREATED="1543867831234" ID="ID_735067753" MODIFIED="1644526139657" TEXT="branch planing">
-<linktarget COLOR="#90ff90" DESTINATION="ID_735067753" ENDARROW="None" ENDINCLINATION="46;145;" ID="Arrow_ID_1865381013" SOURCE="ID_843711768" STARTARROW="None" STARTINCLINATION="43;-88;"/>
-<node CREATED="1543867796103" ID="ID_1418073788" MODIFIED="1547042857340" TEXT="development"/>
+<node CREATED="1543867831234" ID="ID_735067753" MODIFIED="1666439736594" TEXT="branch planing">
+<node CREATED="1543867796103" ID="ID_1418073788" MODIFIED="1666439775737">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">(big) change</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1543867861773" ID="ID_1879392488" MODIFIED="1547042860443" TEXT="stabilization"/>
 <node CREATED="1543867866892" ID="ID_1623928751" MODIFIED="1547042862691" TEXT="release"/>
 </node>
@@ -1864,7 +2173,7 @@
 </html></richcontent>
 <node CREATED="1543868658916" ID="ID_440264453" MODIFIED="1547065204110" TEXT="scope, feature set">
 <node CREATED="1644679712728" ID="ID_84571645" MODIFIED="1644679828520" TEXT="backlog prioritization">
-<node CREATED="1644679830872" ID="ID_462816524" MODIFIED="1660418672399">
+<node CREATED="1644679830872" ID="ID_462816524" MODIFIED="1666440571686">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1875,20 +2184,59 @@
     </p>
   </body>
 </html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_115346817" ENDARROW="None" ENDINCLINATION="-883;0;" ID="Arrow_ID_1995984805" STARTARROW="None" STARTINCLINATION="-644;-28;"/>
-<node CREATED="1644679876121" ID="ID_1140045535" MODIFIED="1659298086973" TEXT="risk reduction">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1518729018" ENDARROW="None" ENDINCLINATION="64;0;" ID="Arrow_ID_1405587176" STARTARROW="None" STARTINCLINATION="-114;-203;"/>
+<node CREATED="1644679876121" ID="ID_1140045535" MODIFIED="1666440349680">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">technical risk</font>&#160;reduction
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1644679864227" ID="ID_1727993169" MODIFIED="1644679875393" TEXT="business value"/>
+<node CREATED="1644679864227" ID="ID_1727993169" MODIFIED="1666440363816">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">business value</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1543867892478" ID="ID_471760962" MODIFIED="1662320028934" TEXT="costs, budget planning">
-<linktarget COLOR="#90ff90" DESTINATION="ID_471760962" ENDARROW="None" ENDINCLINATION="258;230;" ID="Arrow_ID_1122390035" SOURCE="ID_1833817880" STARTARROW="None" STARTINCLINATION="22;-71;"/>
-<node CREATED="1544608121379" ID="ID_1648493600" MODIFIED="1662319923469" TEXT="make or buy">
-<linktarget COLOR="#90ff90" DESTINATION="ID_1648493600" ENDARROW="None" ENDINCLINATION="-90;-417;" ID="Arrow_ID_531122975" SOURCE="ID_1967869902" STARTARROW="None" STARTINCLINATION="-531;720;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1648493600" ENDARROW="None" ENDINCLINATION="-793;-38;" ID="Arrow_ID_239467071" SOURCE="ID_1511307315" STARTARROW="None" STARTINCLINATION="-487;-239;"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1648493600" ENDARROW="None" ENDINCLINATION="243;502;" ID="Arrow_ID_1025196842" SOURCE="ID_144377374" STARTARROW="None" STARTINCLINATION="10;-29;"/>
+</node>
+<node CREATED="1543867892478" ID="ID_471760962" MODIFIED="1666439545853">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">costs</font>, budget planning
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1544608121379" ID="ID_1648493600" MODIFIED="1666444919909">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      make or buy (<font color="#00c800">third party</font>)
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 <node CREATED="1545392110859" ID="ID_629009865" MODIFIED="1636227508278">
 <richcontent TYPE="NODE"><html>
@@ -1914,7 +2262,7 @@
 <node CREATED="1545391087056" ID="ID_870952133" MODIFIED="1545391091660" TEXT="user"/>
 </node>
 </node>
-<node CREATED="1544607622919" ID="ID_1566886698" MODIFIED="1662320071076">
+<node CREATED="1544607622919" ID="ID_1566886698" MODIFIED="1666439339503">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1926,7 +2274,6 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_267599831" ENDARROW="None" ENDINCLINATION="-41;-122;" ID="Arrow_ID_729985073" STARTARROW="None" STARTINCLINATION="73;108;"/>
 <node CREATED="1544607633834" ID="ID_570792539" MODIFIED="1644526274140" TEXT="stakeholders have overlapping responsibilities (DevOps infinity loop)"/>
 <node CREATED="1548540136866" ID="ID_1595051458" MODIFIED="1548540141692" TEXT="SAFe">
 <node CREATED="1548540143829" ID="ID_1776707255" MODIFIED="1548540153734" TEXT="agile team">
@@ -1941,14 +2288,14 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1548540282079" ID="ID_1889073549" MODIFIED="1666032924281">
+<node CREATED="1548540282079" ID="ID_1889073549" MODIFIED="1666439332118">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      In a product line team, members must always balance the special requirements of
+      In a <font color="#00c800">product line</font>&#160;team, members must always balance the special requirements of
     </p>
     <p>
       individual product instances with the product line's variability goals (at component level).
@@ -1956,7 +2303,6 @@
   </body>
 </html>
 </richcontent>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1889073549" ENDARROW="None" ENDINCLINATION="-38;159;" ID="Arrow_ID_254436210" SOURCE="ID_311075400" STARTARROW="None" STARTINCLINATION="39;-2;"/>
 </node>
 </node>
 <node CREATED="1548540245388" ID="ID_1799225174" MODIFIED="1548621877688">
@@ -1995,8 +2341,18 @@
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <node CREATED="1543867516419" ID="ID_857512676" MODIFIED="1649583644105" TEXT="creation with help of">
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1543867534533" ID="ID_311075400" MODIFIED="1662320017503" TEXT="product line">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1889073549" ENDARROW="None" ENDINCLINATION="-38;159;" ID="Arrow_ID_254436210" STARTARROW="None" STARTINCLINATION="39;-2;"/>
+<node CREATED="1543867534533" ID="ID_311075400" MODIFIED="1666439332118">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">product line</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1548540245388" ID="ID_1471613425" MODIFIED="1607028561323">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2039,24 +2395,23 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1546027265003" ID="ID_1084010852" MODIFIED="1659297969610">
+<node CREATED="1546027265003" ID="ID_1084010852" MODIFIED="1666443797437">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      patterns how to arange platform elements
+      <font color="#00c800">patterns</font>&#160;how to arange platform elements
     </p>
     <p>
       (analogy: zoning regulations of cities)
     </p>
   </body>
-</html></richcontent>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1084010852" ENDARROW="None" ENDINCLINATION="-736;-47;" ID="Arrow_ID_1283214345" SOURCE="ID_827516383" STARTARROW="None" STARTINCLINATION="-230;0;"/>
+</html>
+</richcontent>
 </node>
-<node CREATED="1544350641563" ID="ID_381910907" MODIFIED="1652556328063" TEXT="feature model">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1289081110" ENDARROW="None" ENDINCLINATION="-36;35;" ID="Arrow_ID_377406331" STARTARROW="None" STARTINCLINATION="-777;-151;"/>
+<node CREATED="1544350641563" ID="ID_381910907" MODIFIED="1666438077575" TEXT="feature model">
 <node CREATED="1544772676348" ID="ID_520710134" MODIFIED="1544772825788" TEXT="configuration">
 <node CREATED="1544772789623" ID="ID_250103152" MODIFIED="1544772795990" TEXT="alternatives"/>
 <node CREATED="1544772796569" ID="ID_749842920" MODIFIED="1544772799669" TEXT="options"/>
@@ -2078,10 +2433,22 @@
 <node CREATED="1543867600996" ID="ID_125971706" MODIFIED="1547042842116" TEXT="proof of concept (PoC)"/>
 <node CREATED="1543867658555" ID="ID_1352844991" MODIFIED="1638552733694" TEXT="minimal viable project (MVP)"/>
 </node>
-<node CREATED="1544041082128" ID="ID_159024700" MODIFIED="1659296013220" TEXT="continuously">
+<node CREATED="1544041082128" ID="ID_159024700" MODIFIED="1666439059609">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      continuously
+    </p>
+    <p>
+      (via <font color="#00c800">tools</font>)
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_604531956" ENDARROW="None" ENDINCLINATION="-96;0;" ID="Arrow_ID_1042109479" STARTARROW="None" STARTINCLINATION="-200;74;"/>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1235072101" ENDARROW="None" ENDINCLINATION="-8;4;" ID="Arrow_ID_771230071" STARTARROW="None" STARTINCLINATION="-353;-7;"/>
 <node CREATED="1544041134724" ID="ID_1731407298" MODIFIED="1544041227611" TEXT="documentation"/>
 <node CREATED="1544041228180" ID="ID_1523118872" MODIFIED="1544041230962" TEXT="communication"/>
 <node CREATED="1544041099326" ID="ID_1385687155" MODIFIED="1545391029366">
@@ -2102,8 +2469,18 @@
 <node CREATED="1544285002884" ID="ID_1599457662" MODIFIED="1546795981902" TEXT="non-functional">
 <node CREATED="1544285042583" ID="ID_1609118917" MODIFIED="1547123670240" TEXT="code analysis">
 <node CREATED="1609011658771" ID="ID_1230847393" MODIFIED="1609011664872" TEXT="static">
-<node CREATED="1544285055161" ID="ID_823268423" MODIFIED="1662320160367" TEXT="FOSS analysis">
-<linktarget COLOR="#90ff90" DESTINATION="ID_823268423" ENDARROW="None" ENDINCLINATION="398;-1238;" ID="Arrow_ID_1304203072" SOURCE="ID_473436180" STARTARROW="None" STARTINCLINATION="-739;443;"/>
+<node CREATED="1544285055161" ID="ID_823268423" MODIFIED="1666440250784">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      FOSS analysis (<font color="#00c800">license</font>)
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1609011665544" ID="ID_620251358" MODIFIED="1609011668449" TEXT="dynamic">
@@ -2120,18 +2497,18 @@
 <node CREATED="1544041202899" ID="ID_1832717120" MODIFIED="1547065315599" TEXT="(small) change/adaptation">
 <node CREATED="1546798129363" ID="ID_1481538619" MODIFIED="1546798140074" TEXT="due to review findings">
 <node CREATED="1546798170205" ID="ID_1276293122" MODIFIED="1546798189527" TEXT="optimizations">
-<node CREATED="1546797879999" ID="ID_1925920325" MODIFIED="1659295727030">
+<node CREATED="1546797879999" ID="ID_1925920325" MODIFIED="1666443873121">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">refactoring (patterns)</font></u>
+      <u><font color="#0000ff">refactoring</font></u><font color="#000000">&#160;(</font><font color="#00c800">patterns</font><font color="#000000">)</font>
     </p>
   </body>
-</html></richcontent>
-<linktarget COLOR="#90ff90" DESTINATION="ID_1925920325" ENDARROW="None" ENDINCLINATION="-633;-18;" ID="Arrow_ID_703218004" SOURCE="ID_827516383" STARTARROW="None" STARTINCLINATION="-285;554;"/>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1546798178025" ID="ID_875768180" MODIFIED="1546798186323" TEXT="fixes"/>
@@ -2148,40 +2525,50 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546798228524" ID="ID_1484151099" MODIFIED="1644076566501" TEXT="1. rule: understand the system">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1518729018" ENDARROW="None" ENDINCLINATION="369;236;" ID="Arrow_ID_1134484884" STARTARROW="None" STARTINCLINATION="132;-520;"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1535148125354" ID="ID_843711768" MODIFIED="1644526079732">
+<node CREATED="1546798228524" ID="ID_1484151099" MODIFIED="1666439499977">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      (big) change/adaptation
+      1. rule: <font color="#00c800">system understanding</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1535148125354" ID="ID_843711768" MODIFIED="1666439846333">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">(big) change</font>/adaptation
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_735067753" ENDARROW="None" ENDINCLINATION="46;145;" ID="Arrow_ID_1865381013" STARTARROW="None" STARTINCLINATION="43;-88;"/>
-<node CREATED="1548702817495" ID="ID_1833817880" MODIFIED="1662320028934">
+<node CREATED="1548702817495" ID="ID_1833817880" MODIFIED="1666439545852">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      issue-costs vs. improvement-costs (<font color="#0000ff"><u>aim42</u></font>)
+      issue-<font color="#00c800">costs</font>&#160;vs. improvement-<font color="#00c800">costs</font>&#160;(<font color="#0000ff"><u>aim42</u></font>)
     </p>
   </body>
-</html></richcontent>
-<arrowlink COLOR="#90ff90" DESTINATION="ID_471760962" ENDARROW="None" ENDINCLINATION="258;230;" ID="Arrow_ID_1122390035" STARTARROW="None" STARTINCLINATION="22;-71;"/>
+</html>
+</richcontent>
 </node>
-<node CREATED="1548702600681" ID="ID_1678028356" MODIFIED="1548702638188">
+<node CREATED="1548702600681" ID="ID_1678028356" MODIFIED="1666439849533">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2231,7 +2618,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1544609398291" ID="ID_267599831" MODIFIED="1662320071077">
+<node CREATED="1544609398291" ID="ID_267599831" MODIFIED="1666439339503">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2243,13 +2630,24 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<linktarget COLOR="#90ff90" DESTINATION="ID_267599831" ENDARROW="None" ENDINCLINATION="-41;-122;" ID="Arrow_ID_729985073" SOURCE="ID_1566886698" STARTARROW="None" STARTINCLINATION="73;108;"/>
 <node CREATED="1544609409507" ID="ID_316514333" MODIFIED="1544609418937" TEXT="shorter cycles, higher cadence"/>
 </node>
 <node CREATED="1544709697792" ID="ID_945779701" MODIFIED="1546797795463" TEXT="strategical and long-term ">
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1544709748524" ID="ID_144377374" MODIFIED="1644145919147" TEXT="not (only) focussed on tomorrow but on months and even years&#xa;when it comes to large projects and product line engineering">
-<arrowlink COLOR="#90ff90" DESTINATION="ID_1648493600" ENDARROW="None" ENDINCLINATION="243;502;" ID="Arrow_ID_1025196842" STARTARROW="None" STARTINCLINATION="10;-29;"/>
+<node CREATED="1666440110580" ID="ID_405757477" MODIFIED="1666440189898">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      not focussed on tomorrow but on months and even years when
+    </p>
+    <p>
+      it comes to large projects and <font color="#00c800">product line</font>&#160;engineering&#160;(<font color="#00c800">costs</font>)
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 </node>
