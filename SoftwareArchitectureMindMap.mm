@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1666445042024">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1666804591941">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,10 +22,11 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2022/10/22</font>
+      <font size="2">last update 2022/10/26</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#ff0000" CREATED="1541845188061" HGAP="-16" ID="ID_1194334578" MODIFIED="1660468188311" POSITION="right" TEXT="Where?" VSHIFT="4">
 <edge COLOR="#ff0000" WIDTH="4"/>
@@ -39,7 +40,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">component</font>&#160;definition
+      <font color="#00c800">component</font> definition
     </p>
   </body>
 </html></richcontent>
@@ -64,7 +65,7 @@
   </head>
   <body>
     <p>
-      <font color="#0000ff"><u>design</u></font><font color="#000000">&#160;</font><font color="#00c800">patterns</font>
+      <font color="#0000ff"><u>design</u></font><font color="#000000"> </font><font color="#00c800">patterns</font>
     </p>
   </body>
 </html></richcontent>
@@ -129,7 +130,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">OS</font>&#160;abstraction
+      <font color="#00c800">OS</font> abstraction
     </p>
   </body>
 </html></richcontent>
@@ -155,7 +156,7 @@
   </head>
   <body>
     <p>
-      for <font color="#00c800">maintainability</font>&#160;reasons handled like <font color="#00c800">third party</font>&#160;even if done inhouse
+      for <font color="#00c800">maintainability</font> reasons handled like <font color="#00c800">third party</font> even if done inhouse
     </p>
   </body>
 </html></richcontent>
@@ -209,7 +210,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000">&#160;(functional) safety </font><u><font color="#0000ff">ISO-26262</font></u>
+      <font color="#000000"> (functional) safety </font><u><font color="#0000ff">ISO-26262</font></u>
     </p>
   </body>
 </html></richcontent>
@@ -227,26 +228,26 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546796035902" ID="ID_909852890" MODIFIED="1666636729098">
+<node CREATED="1546796035902" ID="ID_909852890" MODIFIED="1666802576498">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      cybersecurity engineering <font color="#000000">ISO-21343</font>
+      cybersecurity engineering <font color="#0000ff"><u>ISO-21343</u></font>
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1546978001714" ID="ID_1462486400" MODIFIED="1666632501766">
+<node CREATED="1546978001714" ID="ID_1462486400" MODIFIED="1666801670442">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">programming language</font>&#160;or compiler features e.g. stack protection, control flow integrity (<font color="#0000ff"><u>CFI</u></font>)
+      <font color="#00c800">programming language</font> or compiler features e.g. stack protection, control flow integrity
     </p>
   </body>
 </html></richcontent>
@@ -373,7 +374,7 @@
       (env. dependent)
     </p>
     <p>
-      <font color="#00c800"><b><i>configuration</i></b></font>&#160;by
+      <font color="#00c800"><b><i>configuration</i></b></font> by
     </p>
   </body>
 </html></richcontent>
@@ -384,7 +385,7 @@
   </head>
   <body>
     <p>
-      deployment: Only necessary <font color="#00c800">components</font>&#160;are deployed
+      deployment: Only necessary <font color="#00c800">components</font> are deployed
     </p>
   </body>
 </html></richcontent>
@@ -457,7 +458,7 @@
       Both serve different uses cases: Logging records critical situations for offline analysis,
     </p>
     <p>
-      tracing is an (interactive) method to gain&#160;insight into internals; see also&#160;<u><font color="#0000ff">logging vs tracing</font></u>
+      tracing is an (interactive) method to gain insight into internals; see also <u><font color="#0000ff">logging vs tracing</font></u>
     </p>
   </body>
 </html></richcontent>
@@ -483,7 +484,7 @@
   </head>
   <body>
     <p>
-      dynamic linking if possible&#160;(<font color="#00c800">maintainability</font>)
+      dynamic linking if possible (<font color="#00c800">maintainability</font>)
     </p>
   </body>
 </html></richcontent>
@@ -524,7 +525,7 @@
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">challenges</font></u>&#160;using Linux
+      <u><font color="#0000ff">challenges</font></u> using Linux
     </p>
   </body>
 </html></richcontent>
@@ -551,7 +552,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">license</font>&#160;constraints and costs
+      <font color="#00c800">license</font> constraints and costs
     </p>
   </body>
 </html></richcontent>
@@ -571,7 +572,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">security</font>&#160;features
+      <font color="#00c800">security</font> features
     </p>
   </body>
 </html></richcontent>
@@ -648,7 +649,7 @@
   </head>
   <body>
     <p>
-      system or HW/SW <font color="#00c800">component</font>&#160;or HW part or SW unit
+      system or HW/SW <font color="#00c800">component</font> or HW part or SW unit
     </p>
   </body>
 </html></richcontent>
@@ -723,7 +724,7 @@
   </head>
   <body>
     <p>
-      library: <font color="#0000ff"><u>narrow contract</u></font>&#160;(with defense programming) over artificially wide
+      library: <font color="#0000ff"><u>narrow contract</u></font> (with defense programming) over artificially wide
     </p>
   </body>
 </html></richcontent>
@@ -761,7 +762,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000">MS:</font><font color="#0000ff">&#160;<u>key principles</u></font>
+      <font color="#000000">MS:</font><font color="#0000ff"> <u>key principles</u></font>
     </p>
   </body>
 </html></richcontent>
@@ -805,7 +806,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">Interface</font>&#160;Segragation (ISP): many client-specific interfaces are better than one general-purpose interface
+      <font color="#00c800">Interface</font> Segragation (ISP): many client-specific interfaces are better than one general-purpose interface
     </p>
   </body>
 </html></richcontent>
@@ -863,10 +864,10 @@
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">avoid complexity</font></u>&#160;with deep modules:
+      <u><font color="#0000ff">avoid complexity</font></u> with deep modules:
     </p>
     <p>
-      small (general purpose) interface &#10799;&#160;lot of hidden functionality&#160;
+      small (general purpose) interface &#10799; lot of hidden functionality 
     </p>
   </body>
 </html></richcontent>
@@ -903,10 +904,10 @@
   </head>
   <body>
     <p>
-      follows the <font color="#00c800">DRY</font>&#160;rule and
+      follows the <font color="#00c800">DRY</font> rule and
     </p>
     <p>
-      the requirement <font color="#0000ff"><u>characteristics</u></font>&#160;
+      the requirement <font color="#0000ff"><u>characteristics</u></font> 
     </p>
     <p>
       to explain the architecture by ...
@@ -958,7 +959,7 @@
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">arc42</font></u>, <font color="#0000ff"><u>SEI views</u></font>&#160;and beyond
+      <u><font color="#0000ff">arc42</font></u>, <font color="#0000ff"><u>SEI views</u></font> and beyond
     </p>
   </body>
 </html></richcontent>
@@ -982,7 +983,7 @@
   </head>
   <body>
     <p>
-      <font color="#0000ff"><u>architectural</u></font><font color="#000000">&#160;</font><font color="#00c800">patterns</font>
+      <font color="#0000ff"><u>architectural</u></font><font color="#000000"> </font><font color="#00c800">patterns</font>
     </p>
     <p>
       <font color="#000000">(analogy: the </font>house)
@@ -1069,7 +1070,7 @@
       prioritization between quality attributes/<font color="#00c800">criteria</font>
     </p>
     <p>
-      (<font color="#0000ff"><u>ATAM</u></font>&#160;and its Utility Tree)
+      (<font color="#0000ff"><u>ATAM</u></font> and its Utility Tree)
     </p>
   </body>
 </html></richcontent>
@@ -1129,7 +1130,7 @@
   </head>
   <body>
     <p>
-      <font color="#000000">used </font><font color="#00c800"><b><i>patterns</i></b></font>&#160;and <font color="#00c800">principles </font>
+      <font color="#000000">used </font><font color="#00c800"><b><i>patterns</i></b></font> and <font color="#00c800">principles </font>
     </p>
     <p>
       <font color="#000000">(</font><u><font color="#0000ff">pattern language</font></u><font color="#000000">)</font>
@@ -1143,10 +1144,10 @@
   </head>
   <body>
     <p>
-      loosely coupled hierarchical system of&#160;interior design, architecture,
+      loosely coupled hierarchical system of interior design, architecture,
     </p>
     <p>
-      zoning regulations (<font color="#000000">analogies</font>) to avoid <u><font color="#0000ff">obstructive</font></u>&#160;overall rules.
+      zoning regulations (<font color="#000000">analogies</font>) to avoid <u><font color="#0000ff">obstructive</font></u> overall rules.
     </p>
   </body>
 </html></richcontent>
@@ -1308,7 +1309,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800"><b><i>risk</i></b></font>&#160;= severity &#10799; probability ( = exposure &#10799; likelihood)
+      <font color="#00c800"><b><i>risk</i></b></font> = severity &#10799; probability ( = exposure &#10799; likelihood)
     </p>
   </body>
 </html></richcontent>
@@ -1419,17 +1420,17 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1546621740376" ID="ID_947008672" MODIFIED="1666632133404">
+<node CREATED="1546621740376" ID="ID_947008672" MODIFIED="1666801172771">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      to get comparable data the <font color="#000000">metrics</font>&#160;need ...
+      to get comparable data the metrics need ...
     </p>
     <p>
-      (and be careful with correlation)
+      (and be careful in seeing correlations)
     </p>
   </body>
 </html></richcontent>
@@ -1440,7 +1441,7 @@
   </head>
   <body>
     <p>
-      ... to be motivated by explaining the <font color="#0000ff"><u>why</u></font>&#160;(context and background information).
+      ... to be motivated by explaining the <font color="#0000ff"><u>why</u></font> (context and background information).
     </p>
   </body>
 </html></richcontent>
@@ -1503,7 +1504,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">cost</font>&#160;efficiency
+      <font color="#00c800">cost</font> efficiency
     </p>
   </body>
 </html></richcontent>
@@ -1552,7 +1553,7 @@
   </head>
   <body>
     <p>
-      impact if <font color="#00c800">component</font>&#160;fails
+      impact if <font color="#00c800">component</font> fails
     </p>
   </body>
 </html></richcontent>
@@ -1623,7 +1624,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">requirements</font>&#160;engineering
+      <font color="#00c800">requirements</font> engineering
     </p>
   </body>
 </html></richcontent>
@@ -1661,7 +1662,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">continuous integration</font><font color="#000000">&#160;(</font><u><font color="#0000ff">XP</font></u><font color="#000000">)</font>
+      <font color="#00c800">continuous integration</font><font color="#000000"> (</font><u><font color="#0000ff">XP</font></u><font color="#000000">)</font>
     </p>
   </body>
 </html></richcontent>
@@ -1677,7 +1678,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">interface</font>&#160;template code from IDL
+      <font color="#00c800">interface</font> template code from IDL
     </p>
   </body>
 </html></richcontent>
@@ -1690,7 +1691,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">component</font>&#160;templates from overall <font color="#00c800">model</font>
+      <font color="#00c800">component</font> templates from overall <font color="#00c800">model</font>
     </p>
   </body>
 </html></richcontent>
@@ -1705,7 +1706,7 @@
 <node COLOR="#ff0000" CREATED="1541844933162" HGAP="-34" ID="ID_581537295" MODIFIED="1546796765439" POSITION="left" TEXT="What?" VSHIFT="12">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
-<node CREATED="1537028806225" HGAP="17" ID="ID_28070999" MODIFIED="1546977799620" VSHIFT="-37">
+<node CREATED="1537028806225" HGAP="16" ID="ID_28070999" MODIFIED="1666801636648" VSHIFT="-17">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1927,7 +1928,7 @@
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">Evolution</font></u>: Mechanisms of change.
+      <u><font color="#0000ff">Evolution</font></u>: Mechanisms of <font color="#00c800"><b><i>change</i></b></font>.
     </p>
   </body>
 </html></richcontent>
@@ -1942,19 +1943,22 @@
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">process definition</font></u><br />ISO/IEC 15504 and<br />domain-specific&#160;<br />models like e.g.<br />automotiveSPICE
+      <u><font color="#0000ff">process definition</font></u><br />ISO/IEC 15504 and<br />domain-specific <br />models like e.g.<br />automotiveSPICE
     </p>
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1544606918912" ID="ID_1108238411" MODIFIED="1644076787978">
+<node CREATED="1544606918912" ID="ID_1108238411" MODIFIED="1666801583832">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      aims also at <font color="#ff0000">why?</font>
+      aims also
+    </p>
+    <p>
+      at <font color="#ff0000">why?</font>
     </p>
   </body>
 </html></richcontent>
@@ -1980,7 +1984,7 @@
       The purpose of the Software Architectural Design Process is to establish an architectural
     </p>
     <p>
-      design and to identify which software <font color="#00c800">requirements</font>&#160;are to be allocated to which elements
+      design and to identify which software <font color="#00c800">requirements</font> are to be allocated to which elements
     </p>
     <p>
       of the software, and to evaluate the software architectural design against defined <font color="#00c800">criteria</font>.
@@ -1997,7 +2001,7 @@
   </head>
   <body>
     <p>
-      a software architectural design is defined that identifies the <font color="#00c800">elements</font>&#160; of the software
+      a software architectural design is defined that identifies the <font color="#00c800">elements</font>  of the software
     </p>
   </body>
 </html></richcontent>
@@ -2009,7 +2013,7 @@
   </head>
   <body>
     <p>
-      the software <font color="#00c800">requirements</font>&#160;are allocated to the <font color="#00c800">elements</font>&#160; of the software
+      the software <font color="#00c800">requirements</font> are allocated to the <font color="#00c800">elements</font>  of the software
     </p>
   </body>
 </html></richcontent>
@@ -2021,7 +2025,7 @@
   </head>
   <body>
     <p>
-      the <font color="#00c800"><b><i>interfaces</i></b></font>&#160;of each software <font color="#00c800">element</font>&#160;are defined
+      the <font color="#00c800"><b><i>interfaces</i></b></font> of each software <font color="#00c800">element</font> are defined
     </p>
   </body>
 </html></richcontent>
@@ -2033,10 +2037,10 @@
   </head>
   <body>
     <p>
-      the dynamic behavior and <font color="#00c800">resource consumption</font>&#160;
+      the dynamic behavior and <font color="#00c800">resource consumption</font> 
     </p>
     <p>
-      objectives of the software <font color="#00c800">elements</font>&#160;are defined
+      objectives of the software <font color="#00c800">elements</font> are defined
     </p>
   </body>
 </html></richcontent>
@@ -2051,7 +2055,7 @@
       consistency and bidirectional traceability are established between
     </p>
     <p>
-      software <font color="#00c800">requirements</font>&#160;and software architectural design
+      software <font color="#00c800">requirements</font> and software architectural design
     </p>
   </body>
 </html></richcontent>
@@ -2066,7 +2070,7 @@
   </head>
   <body>
     <p>
-      and its V-model&#160;<br />counterpart&#160;<br /><u><font color="#0000ff">SWE.5</font></u>
+      and its V-model <br />counterpart <br /><u><font color="#0000ff">SWE.5</font></u>
     </p>
   </body>
 </html></richcontent>
@@ -2090,7 +2094,7 @@
       items are tested to provide evidence for compliance of the integrated software
     </p>
     <p>
-      items with the software architectural design, including the <font color="#00c800">interfaces</font>&#160; between the
+      items with the software architectural design, including the <font color="#00c800">interfaces</font>  between the
     </p>
     <p>
       software units and between the software items.
@@ -2250,7 +2254,7 @@
   </head>
   <body>
     <p>
-      Speed, efficiency, <font color="#00c800"><b><i>resource consumption</i></b></font>&#160;(power, ram, cache, etc.), throughput, capacity, scalability
+      Speed, efficiency, <font color="#00c800"><b><i>resource consumption</i></b></font> (power, ram, cache, etc.), throughput, capacity, scalability
     </p>
   </body>
 </html></richcontent>
@@ -2302,7 +2306,7 @@
       appropriateness recognizability, learnability, operability,
     </p>
     <p>
-      user error protection, user <font color="#00c800">interface</font>&#160;aesthetics, accessibility
+      user error protection, user <font color="#00c800">interface</font> aesthetics, accessibility
     </p>
   </body>
 </html></richcontent>
@@ -2358,7 +2362,7 @@
   </head>
   <body>
     <p>
-      <font color="#0000ff"><u>avoid&#160;complexity</u></font>
+      <font color="#0000ff"><u>avoid complexity</u></font>
     </p>
   </body>
 </html></richcontent>
@@ -2399,7 +2403,7 @@
   </head>
   <body>
     <p>
-      <font color="#0000ff"><u>Conway's law</u></font>: &quot;organizations which design systems ... are constrained to produce&#160;<br />designs which are copies of the communication structures of these organizations.&quot;
+      <font color="#0000ff"><u>Conway's law</u></font>: &quot;organizations which design systems ... are constrained to produce <br />designs which are copies of the communication structures of these organizations.&quot;
     </p>
   </body>
 </html></richcontent>
@@ -2436,7 +2440,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">system</font><font color="#000000">&#160;understanding</font>
+      <font color="#00c800">system</font><font color="#000000"> understanding</font>
     </p>
   </body>
 </html></richcontent>
@@ -2484,7 +2488,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">interface</font>&#160;change management
+      <font color="#00c800">interface</font> change management
     </p>
   </body>
 </html></richcontent>
@@ -2508,7 +2512,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800"><b><i>continuous integration</i></b></font><font color="#000000">&#160;(</font><u><font color="#0000ff">XP</font></u><font color="#000000">)</font>
+      <font color="#00c800"><b><i>continuous integration</i></b></font><font color="#000000"> (</font><u><font color="#0000ff">XP</font></u><font color="#000000">)</font>
     </p>
   </body>
 </html></richcontent>
@@ -2519,21 +2523,21 @@
   </head>
   <body>
     <p>
-      integration test of <font color="#00c800">components</font>&#160;and <font color="#000000">(sub-)</font><font color="#00c800">systems</font>
+      integration test of <font color="#00c800">components</font> and <font color="#000000">(sub-)</font><font color="#00c800">systems</font>
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
 <node CREATED="1543867831234" ID="ID_735067753" MODIFIED="1666439736594" TEXT="branch planing">
-<node CREATED="1543867796103" ID="ID_1418073788" MODIFIED="1666439775737">
+<node CREATED="1543867796103" ID="ID_1418073788" MODIFIED="1666801515588">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">(big) change</font>
+      <font color="#000000">(big) </font><font color="#00c800">change</font>
     </p>
   </body>
 </html></richcontent>
@@ -2581,7 +2585,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">technical risk</font>&#160;reduction
+      <font color="#00c800">technical risk</font> reduction
     </p>
   </body>
 </html></richcontent>
@@ -2650,7 +2654,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">requirements</font>&#160;engineer
+      <font color="#00c800">requirements</font> engineer
     </p>
   </body>
 </html></richcontent>
@@ -2681,7 +2685,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">component</font>&#160;<u><font color="#0000ff">team</font></u>
+      <font color="#00c800">component</font> <u><font color="#0000ff">team</font></u>
     </p>
   </body>
 </html></richcontent>
@@ -2692,7 +2696,7 @@
   </head>
   <body>
     <p>
-      In a <font color="#00c800">product line</font>&#160;team, members must always balance the special requirements of
+      In a <font color="#00c800">product line</font> team, members must always balance the special requirements of
     </p>
     <p>
       individual product instances with the product line's variability goals (at component level).
@@ -2766,7 +2770,7 @@
   </head>
   <body>
     <p>
-      A software platform is a set of software <font color="#00c800">systems</font>&#160;and <font color="#00c800">interfaces</font>&#160; that form a common
+      A software platform is a set of software <font color="#00c800">systems</font> and <font color="#00c800">interfaces</font>  that form a common
     </p>
     <p>
       structure from which a set of derivative products can be efficiently developed and produced.
@@ -2781,7 +2785,7 @@
   </head>
   <body>
     <p>
-      Software <font color="#00c800"><b><i>product line</i></b></font>&#160;engineering is a paradigm to develop software applications
+      Software <font color="#00c800"><b><i>product line</i></b></font> engineering is a paradigm to develop software applications
     </p>
     <p>
       (software-intensive systems and software products) using platforms and mass customisation.
@@ -2797,7 +2801,7 @@
   </head>
   <body>
     <p>
-      <font color="#00c800">patterns</font>&#160;how to arange platform elements
+      <font color="#00c800">patterns</font> how to arange platform elements
     </p>
     <p>
       (analogy: zoning regulations of cities)
@@ -2932,7 +2936,7 @@
   </head>
   <body>
     <p>
-      architecture and <font color="#00c800">component</font>&#160;design definition
+      architecture and <font color="#00c800">component</font> design definition
     </p>
   </body>
 </html></richcontent>
@@ -2948,7 +2952,7 @@
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">refactoring</font></u><font color="#000000">&#160;(</font><font color="#00c800">patterns</font><font color="#000000">)</font>
+      <u><font color="#0000ff">refactoring</font></u><font color="#000000"> (</font><font color="#00c800">patterns</font><font color="#000000">)</font>
     </p>
   </body>
 </html></richcontent>
@@ -2975,7 +2979,7 @@
   </head>
   <body>
     <p>
-      1. rule: <font color="#00c800">system</font><font color="#000000">&#160;understanding</font>
+      1. rule: <font color="#00c800">system</font><font color="#000000"> understanding</font>
     </p>
   </body>
 </html></richcontent>
@@ -2984,18 +2988,17 @@
 </node>
 </node>
 </node>
-<node CREATED="1535148125354" ID="ID_843711768" MODIFIED="1666640224011">
+<node CREATED="1535148125354" ID="ID_843711768" MODIFIED="1666801451492">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800"><b><i>(big) change</i></b></font>/adaptation
+      <font color="#000000">(big) </font><font color="#00c800">change</font><font color="#000000">/adaptation</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1548702817495" ID="ID_1833817880" MODIFIED="1666439545852">
 <richcontent TYPE="NODE"><html>
@@ -3004,7 +3007,7 @@
   </head>
   <body>
     <p>
-      issue-<font color="#00c800">costs</font>&#160;vs. improvement-<font color="#00c800">costs</font>&#160;(<font color="#0000ff"><u>aim42</u></font>)
+      issue-<font color="#00c800">costs</font> vs. improvement-<font color="#00c800">costs</font> (<font color="#0000ff"><u>aim42</u></font>)
     </p>
   </body>
 </html></richcontent>
@@ -3085,7 +3088,7 @@
       not focussed on tomorrow but on months and even years when
     </p>
     <p>
-      it comes to large projects and <font color="#00c800">product line</font>&#160;engineering&#160;(<font color="#00c800">costs</font>)
+      it comes to large projects and <font color="#00c800">product line</font> engineering (<font color="#00c800">costs</font>)
     </p>
   </body>
 </html></richcontent>
