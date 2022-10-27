@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1666804591941">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1666900526634">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,16 +22,15 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2022/10/26</font>
+      <font size="2">last update 2022/10/27</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#ff0000" CREATED="1541845188061" HGAP="-16" ID="ID_1194334578" MODIFIED="1660468188311" POSITION="right" TEXT="Where?" VSHIFT="4">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
-<node CREATED="1543868880731" HGAP="22" ID="ID_1638161300" MODIFIED="1610899179462" TEXT="inside" VSHIFT="4">
+<node CREATED="1543868880731" HGAP="23" ID="ID_1638161300" MODIFIED="1666900673912" TEXT="inside" VSHIFT="16">
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1546026480114" ID="ID_1933241391" MODIFIED="1666521594619">
 <richcontent TYPE="NODE"><html>
@@ -47,14 +46,14 @@
 <node CREATED="1545426481957" ID="ID_868467320" MODIFIED="1666436692772" TEXT="feature responsibility">
 <node CREATED="1636739596998" ID="ID_1960353047" MODIFIED="1652383716012" TEXT="traceability"/>
 </node>
-<node CREATED="1545390850614" ID="ID_1423182411" MODIFIED="1666632280125">
+<node CREATED="1545390850614" ID="ID_1423182411" MODIFIED="1666899710820">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      interior design (<font color="#000000">analogy: the </font>room of a house)
+      interior design (analogy: the room of a house)
     </p>
   </body>
 </html></richcontent>
@@ -81,7 +80,18 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1547042428063" ID="ID_492648177" MODIFIED="1547042429844" TEXT=" low-level patterns specific to a programming language"/>
+<node CREATED="1547042428063" ID="ID_492648177" MODIFIED="1666899711383">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      programming language specific&#160;low-level patterns
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 </node>
 </node>
@@ -163,7 +173,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1543869015429" HGAP="34" ID="ID_638892429" MODIFIED="1666444595849" VSHIFT="21">
+<node CREATED="1543869015429" HGAP="24" ID="ID_638892429" MODIFIED="1666899798489" VSHIFT="18">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -345,7 +355,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1543868933635" HGAP="38" ID="ID_1478150937" MODIFIED="1547065491134" VSHIFT="-94">
+<node CREATED="1543868933635" HGAP="38" ID="ID_1478150937" MODIFIED="1666899716091" VSHIFT="-94">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -363,7 +373,179 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
+<node CREATED="1544042212187" ID="ID_1615010987" MODIFIED="1666899919083" TEXT="HW">
+<node CREATED="1545390749784" ID="ID_1808354663" MODIFIED="1545390762067" TEXT="CPU architecture">
+<node CREATED="1547469837833" ID="ID_1193441518" MODIFIED="1666441633711">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">security</font> features
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1545390762731" ID="ID_1647585510" MODIFIED="1547065402114" TEXT="peripheral">
+<node CREATED="1547065376918" ID="ID_234402309" MODIFIED="1666899856866">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">interface</font>&#160;type
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1544042654013" ID="ID_1616645806" MODIFIED="1547065410875" TEXT="drivers"/>
+</node>
+<node CREATED="1544608321620" HGAP="21" ID="ID_1109056461" MODIFIED="1666899731758" TEXT="firmware" VSHIFT="-1"/>
+</node>
+</node>
 <node CREATED="1544043286870" HGAP="16" ID="ID_1508908459" MODIFIED="1544284085658" TEXT="SW" VSHIFT="-14">
+<node CREATED="1544284667168" ID="ID_322417410" MODIFIED="1666899880688">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800"><b><i>OS</i></b></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1545390622397" ID="ID_1976113772" MODIFIED="1666900124582" TEXT="POSIX or alike">
+<node CREATED="1635072805071" ID="ID_964938777" MODIFIED="1635072813002" TEXT="PSE51"/>
+</node>
+<node CREATED="1544707144358" ID="ID_179277885" MODIFIED="1636740763664" TEXT="kernel">
+<node CREATED="1636740646393" ID="ID_1436955063" MODIFIED="1652383940154" TEXT="monolithic, micro, L4"/>
+<node CREATED="1545390602025" ID="ID_907061380" MODIFIED="1652383967942" TEXT="real-time">
+<node CREATED="1647708732416" ID="ID_1442363156" MODIFIED="1647708814220">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <u><font color="#0000ff">challenges</font></u> using Linux
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1544707174344" ID="ID_850841710" MODIFIED="1644086264577">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <u><font color="#0000ff">GPL infected</font></u>?
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1544707152138" ID="ID_805640971" MODIFIED="1666900099015" TEXT="user space"/>
+<node CREATED="1545390673004" ID="ID_473436180" MODIFIED="1666444983626">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">license</font> constraints and costs
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1544608080713" ID="ID_1967869902" MODIFIED="1666899939109">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800"><b><i>third party</i></b></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1544043334686" ID="ID_169028711" MODIFIED="1666900168012" TEXT="FOSS">
+<node CREATED="1544608296436" ID="ID_537251320" MODIFIED="1666639974800">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      take care for the <font color="#00c800"><b><i>license</i></b></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1544608186815" ID="ID_692503883" MODIFIED="1666444519606">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      dynamic linking if possible (<font color="#00c800">maintainability</font>)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1543869009083" HGAP="23" ID="ID_1961203489" MODIFIED="1666900224758" TEXT="infrastructure" VSHIFT="-13">
+<node CREATED="1544042743545" ID="ID_1037887764" MODIFIED="1544042803935" TEXT="power cycle management">
+<node CREATED="1544042806688" ID="ID_1719795666" MODIFIED="1544042873417" TEXT="init / start">
+<node CREATED="1544042845895" ID="ID_952362852" MODIFIED="1636740858136" TEXT="&quot;boot&quot; stages, load on demand"/>
+</node>
+<node CREATED="1544042831491" ID="ID_1605567759" MODIFIED="1547665405958" TEXT="suspend / resume"/>
+<node CREATED="1544042814795" ID="ID_1538225939" MODIFIED="1544042830773" TEXT="stop / shutdown"/>
+</node>
+<node CREATED="1543869412003" ID="ID_1664845010" MODIFIED="1640466272268" TEXT="persistency (CRUD)">
+<node CREATED="1545124364481" ID="ID_735894668" MODIFIED="1545124372236" TEXT="file system based"/>
+<node CREATED="1545124372631" ID="ID_991952123" MODIFIED="1545124387428" TEXT="key/value, data base"/>
+</node>
+<node CREATED="1544042557231" ID="ID_1406875858" MODIFIED="1666900298279" TEXT="middleware, inter process communication (IPC)"/>
+<node CREATED="1543869421328" ID="ID_67300711" MODIFIED="1666900243738">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      logging/
+    </p>
+    <p>
+      tracing
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1546978557548" HGAP="15" ID="ID_1331428745" MODIFIED="1666900279232">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Both serve different uses cases: Logging records critical situations for offline analysis,
+    </p>
+    <p>
+      tracing is an (interactive) method to gain insight into internals; see also <u><font color="#0000ff">logging vs tracing</font></u>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
 <node CREATED="1666521693083" ID="ID_1025256372" MODIFIED="1666639985866">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -378,14 +560,14 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1545124406937" ID="ID_1199156844" MODIFIED="1666521361978">
+<node CREATED="1545124406937" ID="ID_1199156844" MODIFIED="1666900360179">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      deployment: Only necessary <font color="#00c800">components</font> are deployed
+      deployment: Only necessary <font color="#00c800">components</font>&#160;are deployed
     </p>
   </body>
 </html></richcontent>
@@ -422,168 +604,6 @@
 </html></richcontent>
 <node CREATED="1544608042674" ID="ID_1787196536" MODIFIED="1545124349792" TEXT="between interacting domains"/>
 </node>
-<node CREATED="1543869009083" HGAP="36" ID="ID_1961203489" MODIFIED="1545124400886" TEXT="infrastructure" VSHIFT="-13">
-<node CREATED="1544042743545" ID="ID_1037887764" MODIFIED="1544042803935" TEXT="power cycle management">
-<node CREATED="1544042806688" ID="ID_1719795666" MODIFIED="1544042873417" TEXT="init / start">
-<node CREATED="1544042845895" ID="ID_952362852" MODIFIED="1636740858136" TEXT="&quot;boot&quot; stages, load on demand"/>
-</node>
-<node CREATED="1544042831491" ID="ID_1605567759" MODIFIED="1547665405958" TEXT="suspend / resume"/>
-<node CREATED="1544042814795" ID="ID_1538225939" MODIFIED="1544042830773" TEXT="stop / shutdown"/>
-</node>
-<node CREATED="1543869412003" ID="ID_1664845010" MODIFIED="1640466272268" TEXT="persistency (CRUD)">
-<node CREATED="1545124364481" ID="ID_735894668" MODIFIED="1545124372236" TEXT="file system based"/>
-<node CREATED="1545124372631" ID="ID_991952123" MODIFIED="1545124387428" TEXT="key/value, data base"/>
-</node>
-<node CREATED="1543869421328" ID="ID_67300711" MODIFIED="1548622431400">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      logging/
-    </p>
-    <p>
-      tracing
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1546978557548" ID="ID_1331428745" MODIFIED="1660417672567">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Both serve different uses cases: Logging records critical situations for offline analysis,
-    </p>
-    <p>
-      tracing is an (interactive) method to gain insight into internals; see also <u><font color="#0000ff">logging vs tracing</font></u>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1544042557231" ID="ID_1406875858" MODIFIED="1544284590536" TEXT="middleware, inter process communication (IPC)"/>
-</node>
-<node CREATED="1544608080713" ID="ID_1967869902" MODIFIED="1666639968053">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#00c800"><b><i>third party</i></b></font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1544608186815" ID="ID_692503883" MODIFIED="1666444519606">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      dynamic linking if possible (<font color="#00c800">maintainability</font>)
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1544043334686" ID="ID_169028711" MODIFIED="1644086246793" TEXT="FOSS">
-<node CREATED="1544608296436" ID="ID_537251320" MODIFIED="1666639974800">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      take care for the <font color="#00c800"><b><i>license</i></b></font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1544284667168" ID="ID_322417410" MODIFIED="1666639961944">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#00c800"><b><i>OS</i></b></font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1544707144358" ID="ID_179277885" MODIFIED="1636740763664" TEXT="kernel">
-<node CREATED="1636740646393" ID="ID_1436955063" MODIFIED="1652383940154" TEXT="monolithic, micro, L4"/>
-<node CREATED="1545390602025" ID="ID_907061380" MODIFIED="1652383967942" TEXT="real-time">
-<node CREATED="1647708732416" ID="ID_1442363156" MODIFIED="1647708814220">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <u><font color="#0000ff">challenges</font></u> using Linux
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1544707174344" ID="ID_850841710" MODIFIED="1644086264577">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <u><font color="#0000ff">GPL infected</font></u>?
-    </p>
-  </body>
-</html></richcontent>
-<font NAME="SansSerif" SIZE="12"/>
-</node>
-</node>
-<node CREATED="1545390673004" ID="ID_473436180" MODIFIED="1666444983626">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#00c800">license</font> constraints and costs
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1545390622397" ID="ID_1976113772" MODIFIED="1545390636179" TEXT="POSIX or alike">
-<node CREATED="1635072805071" ID="ID_964938777" MODIFIED="1635072813002" TEXT="PSE51"/>
-</node>
-<node CREATED="1544707152138" ID="ID_805640971" MODIFIED="1652384019664" TEXT="user space"/>
-</node>
-</node>
-<node CREATED="1544042212187" ID="ID_1615010987" MODIFIED="1544042648514" TEXT="HW">
-<node CREATED="1545390749784" ID="ID_1808354663" MODIFIED="1545390762067" TEXT="CPU architecture">
-<node CREATED="1547469837833" ID="ID_1193441518" MODIFIED="1666441633711">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#00c800">security</font> features
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1545390762731" ID="ID_1647585510" MODIFIED="1547065402114" TEXT="peripheral">
-<node CREATED="1547065376918" ID="ID_234402309" MODIFIED="1547065380464" TEXT="interface type">
-<node CREATED="1544042654013" ID="ID_1616645806" MODIFIED="1547065410875" TEXT="drivers"/>
-</node>
-<node CREATED="1544608321620" ID="ID_1109056461" MODIFIED="1547065417898" TEXT="firmware"/>
-</node>
 </node>
 </node>
 </node>
@@ -600,11 +620,11 @@
 </html></richcontent>
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
-<node CREATED="1544349588504" ID="ID_1297528285" MODIFIED="1546797400668" TEXT="divide and conquer">
+<node CREATED="1544349588504" ID="ID_1297528285" MODIFIED="1666899691017" TEXT="divide and conquer">
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1543868959589" ID="ID_1503824701" MODIFIED="1666438500084" TEXT="decomposition">
 <node CREATED="1545391919678" ID="ID_606760890" MODIFIED="1609235507658" TEXT="method">
-<node CREATED="1545391962560" ID="ID_1705402682" MODIFIED="1545391966313" TEXT="middle-out">
+<node CREATED="1545391962560" HGAP="21" ID="ID_1705402682" MODIFIED="1666899743031" TEXT="middle-out" VSHIFT="-1">
 <node CREATED="1545391956398" ID="ID_1025713700" MODIFIED="1638389787351" TEXT="top-down"/>
 <node CREATED="1545391966632" ID="ID_1344975859" MODIFIED="1545391971390" TEXT="bottom-up"/>
 </node>
@@ -673,7 +693,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1543869216483" HGAP="21" ID="ID_529297547" MODIFIED="1666639953124" VSHIFT="-11">
+<node CREATED="1543869216483" HGAP="23" ID="ID_529297547" MODIFIED="1666900686925" VSHIFT="6">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -744,7 +764,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1534366648582" HGAP="12" ID="ID_685415640" MODIFIED="1666441457237" VSHIFT="-4">
+<node CREATED="1534366648582" HGAP="14" ID="ID_685415640" MODIFIED="1666900503799" VSHIFT="-5">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -785,7 +805,7 @@
 <node CREATED="1635073496592" ID="ID_1239788929" MODIFIED="1635073654820" STYLE="fork" TEXT="Keep it simple stupid (KISS)"/>
 </node>
 </node>
-<node CREATED="1534366662055" ID="ID_1891522645" MODIFIED="1547043103081">
+<node CREATED="1534366662055" HGAP="17" ID="ID_1891522645" MODIFIED="1666900477659">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -857,17 +877,17 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1624976658979" ID="ID_274316871" MODIFIED="1666441488562">
+<node CREATED="1624976658979" ID="ID_274316871" MODIFIED="1666899710428">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">avoid complexity</font></u> with deep modules:
+      <u><font color="#0000ff">avoid complexity</font></u>&#160;with deep modules:
     </p>
     <p>
-      small (general purpose) interface &#10799; lot of hidden functionality 
+      small (general purpose) <font color="#00c800">interface</font>&#160;&#10799; lot of hidden functionality
     </p>
   </body>
 </html></richcontent>
@@ -1844,14 +1864,14 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1541873631403" ID="ID_1275928275" MODIFIED="1652382881977">
+<node CREATED="1541873631403" ID="ID_1275928275" MODIFIED="1666899413646">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#0000ff"><u>Relationship</u></font>: A continuing attachment or association between elements.
+      <font color="#0000ff"><u>Relationship</u></font>: A continuing attachment or association (<b><i><font color="#00c800">interface</font></i></b>) between elements.
     </p>
   </body>
 </html></richcontent>
@@ -1948,17 +1968,17 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1544606918912" ID="ID_1108238411" MODIFIED="1666801583832">
+<node CREATED="1544606918912" ID="ID_1108238411" MODIFIED="1666899332672">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      aims also
+      aims at
     </p>
     <p>
-      at <font color="#ff0000">why?</font>
+      <font color="#ff0000">why?</font>
     </p>
   </body>
 </html></richcontent>
@@ -2018,14 +2038,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1544607342503" ID="ID_1231012937" MODIFIED="1666639755064">
+<node CREATED="1544607342503" ID="ID_1231012937" MODIFIED="1666899364006">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      the <font color="#00c800"><b><i>interfaces</i></b></font> of each software <font color="#00c800">element</font> are defined
+      the <font color="#00c800">interfaces</font>&#160;of each software <font color="#00c800">element</font>&#160;are defined
     </p>
   </body>
 </html></richcontent>
@@ -2063,41 +2083,41 @@
 <node CREATED="1544607317056" ID="ID_270411490" MODIFIED="1544607410706" TEXT="the software architectural design is agreed and communicated to all affected parties"/>
 </node>
 </node>
-<node CREATED="1544708535729" ID="ID_592649578" MODIFIED="1652383768011">
+<node CREATED="1544708535729" ID="ID_592649578" MODIFIED="1666899283361">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      and its V-model <br />counterpart <br /><u><font color="#0000ff">SWE.5</font></u>
+      and its
+    </p>
+    <p>
+      V-model<br />counterpart<br /><u><font color="#0000ff">SWE.5</font></u>
     </p>
   </body>
 </html></richcontent>
 <node CREATED="1544708604646" ID="ID_944525928" MODIFIED="1544708675746" TEXT="process&#xa;purpose">
-<node CREATED="1666519988367" ID="ID_395980174" MODIFIED="1666638943393">
+<node CREATED="1666519988367" ID="ID_395980174" MODIFIED="1666899226258">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      The purpose of the Software Integration and Integration Test Process is to integrate
+      The purpose of the Software Integration and Integration Test Process is to integrate the
     </p>
     <p>
-      the software units into larger software items up to a complete integrated software
+      software units into larger software items up to a complete integrated software consistent
     </p>
     <p>
-      consistent with the software architectural design and to ensure that the software
+      with the software architectural design and to ensure that the software items are tested to
     </p>
     <p>
-      items are tested to provide evidence for compliance of the integrated software
+      provide evidence for compliance of the integrated software items with the software architectural
     </p>
     <p>
-      items with the software architectural design, including the <font color="#00c800">interfaces</font>  between the
-    </p>
-    <p>
-      software units and between the software items.
+      design, including the <font color="#00c800">interfaces</font>&#160;between the software units and between the software items.
     </p>
   </body>
 </html></richcontent>
@@ -2481,14 +2501,14 @@
 <node CREATED="1548590948353" ID="ID_1224361699" MODIFIED="1636393934418" TEXT="test and productive code"/>
 </node>
 <node CREATED="1543767112068" ID="ID_611275700" MODIFIED="1545391100531" TEXT="integrator">
-<node CREATED="1543867871702" ID="ID_581315370" MODIFIED="1666520439799">
+<node CREATED="1543867871702" ID="ID_581315370" MODIFIED="1666899487427">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">interface</font> change management
+      <font color="#00c800">interface</font>&#160;<font color="#00c800">change</font>&#160;management
     </p>
   </body>
 </html></richcontent>
@@ -2942,7 +2962,17 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1544041202899" ID="ID_1832717120" MODIFIED="1547065315599" TEXT="(small) change/adaptation">
+<node CREATED="1544041202899" ID="ID_1832717120" MODIFIED="1666899525358">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">change</font>/adaptation
+    </p>
+  </body>
+</html></richcontent>
 <node CREATED="1546798129363" ID="ID_1481538619" MODIFIED="1546798140074" TEXT="due to review findings">
 <node CREATED="1546798170205" ID="ID_1276293122" MODIFIED="1546798189527" TEXT="optimizations">
 <node CREATED="1546797879999" ID="ID_1925920325" MODIFIED="1666443873121">
