@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1667651654747">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1667843428324">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,13 +22,12 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2022/11/05</font>
+      <font size="2">last update 2022/11/07</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#ff0000" CREATED="1541845188061" HGAP="-16" ID="ID_1194334578" MODIFIED="1660468188311" POSITION="right" TEXT="Where?" VSHIFT="4">
+<node COLOR="#ff0000" CREATED="1541845188061" HGAP="-16" ID="ID_1194334578" MODIFIED="1667842849899" POSITION="right" TEXT="Where?" VSHIFT="4">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <node CREATED="1543868880731" HGAP="23" ID="ID_1638161300" MODIFIED="1666900673912" TEXT="inside" VSHIFT="16">
@@ -45,7 +44,7 @@
   </body>
 </html></richcontent>
 <node CREATED="1545426481957" ID="ID_868467320" MODIFIED="1666436692772" TEXT="feature responsibility">
-<node CREATED="1636739596998" ID="ID_1960353047" MODIFIED="1652383716012" TEXT="traceability"/>
+<node CREATED="1636739596998" HGAP="28" ID="ID_1960353047" MODIFIED="1667843178428" TEXT="traceability" VSHIFT="3"/>
 </node>
 <node CREATED="1545390850614" ID="ID_1423182411" MODIFIED="1666899710820">
 <richcontent TYPE="NODE"><html>
@@ -91,8 +90,7 @@
       <font color="#00c800">programming language</font>&#160;specific&#160;low-level <font color="#00c800">patterns</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -215,7 +213,7 @@
 </node>
 </node>
 <node CREATED="1544043224148" ID="ID_858353488" MODIFIED="1666636635839" TEXT="">
-<node CREATED="1544349566020" ID="ID_1782276546" MODIFIED="1666636701426">
+<node CREATED="1544349566020" HGAP="89" ID="ID_1782276546" MODIFIED="1667842943193" VSHIFT="1">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -407,7 +405,7 @@
 <node CREATED="1544608321620" HGAP="21" ID="ID_1109056461" MODIFIED="1666899731758" TEXT="firmware" VSHIFT="-1"/>
 </node>
 </node>
-<node CREATED="1544043286870" HGAP="16" ID="ID_1508908459" MODIFIED="1544284085658" TEXT="SW" VSHIFT="-14">
+<node CREATED="1544043286870" HGAP="17" ID="ID_1508908459" MODIFIED="1667843345752" TEXT="SW" VSHIFT="-8">
 <node CREATED="1544284667168" ID="ID_322417410" MODIFIED="1666899880688">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -604,7 +602,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1544608042674" ID="ID_1787196536" MODIFIED="1545124349792" TEXT="between interacting domains"/>
+<node CREATED="1544608042674" HGAP="21" ID="ID_1787196536" MODIFIED="1667843150265" TEXT="between interacting domains" VSHIFT="6"/>
 </node>
 </node>
 </node>
@@ -625,7 +623,7 @@
 <node CREATED="1544349588504" ID="ID_1297528285" MODIFIED="1666899691017" TEXT="divide and conquer">
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1543868959589" ID="ID_1503824701" MODIFIED="1666438500084" TEXT="decomposition">
-<node CREATED="1545391919678" ID="ID_606760890" MODIFIED="1609235507658" TEXT="method">
+<node CREATED="1545391919678" ID="ID_606760890" MODIFIED="1667842849706" TEXT="method">
 <node CREATED="1545391962560" HGAP="21" ID="ID_1705402682" MODIFIED="1666899743031" TEXT="middle-out" VSHIFT="-1">
 <node CREATED="1545391956398" ID="ID_1025713700" MODIFIED="1638389787351" TEXT="top-down"/>
 <node CREATED="1545391966632" ID="ID_1344975859" MODIFIED="1545391971390" TEXT="bottom-up"/>
@@ -642,7 +640,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1610812797477" ID="ID_1150933672" MODIFIED="1656268448080">
+<node CREATED="1610812797477" HGAP="15" ID="ID_1150933672" MODIFIED="1667843249627" VSHIFT="-1">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -678,24 +676,21 @@
 </node>
 </node>
 <node CREATED="1656268232620" ID="ID_689945914" MODIFIED="1656268252891" TEXT="item">
-<node CREATED="1544040549160" ID="ID_1864186321" MODIFIED="1667318204818">
+<node CREATED="1544040549160" ID="ID_1864186321" MODIFIED="1667843269490">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">system</font>&#160;or
+      <font color="#00c800">system</font>&#160;or combination
     </p>
     <p>
-      combination of
-    </p>
-    <p>
-      <font color="#000000">(sub-)</font><font color="#00c800">systems</font>
+      of <font color="#000000">(sub-)</font><font color="#00c800">systems</font>
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1543869216483" HGAP="23" ID="ID_529297547" MODIFIED="1666900686925" VSHIFT="6">
+<node CREATED="1543869216483" HGAP="25" ID="ID_529297547" MODIFIED="1667843281066" VSHIFT="2">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -799,8 +794,7 @@
       Single Responsibility (SRP)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1534572347673" ID="ID_522510039" MODIFIED="1536819499615" TEXT="Principle of Least Knowledge (LoD, loose coupling)"/>
 <node CREATED="1534572370549" ID="ID_148972680" MODIFIED="1666640009076">
@@ -840,8 +834,7 @@
       Single Responsibility (SRP, responsibiliy on function level, reason to change)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1534366686998" ID="ID_1708993653" MODIFIED="1609103800738" TEXT="Open-Closed (OCP): open for extension, but closed for modification"/>
 <node CREATED="1534366692200" ID="ID_893369754" MODIFIED="1667599627112">
@@ -854,8 +847,7 @@
       Liskov Substitution (LSP): objects of a superclass can be replaced with instances of its subclasses
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1534366731002" ID="ID_1862357220" MODIFIED="1667650562639">
 <richcontent TYPE="NODE"><html>
@@ -867,8 +859,7 @@
       <font color="#00c800">Interface</font>&#160;Segragation (ISP): many client-specific <font color="#00c800">interfaces</font>&#160; are better than one general-purpose <font color="#00c800">interface</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1534366769199" ID="ID_1256621865" MODIFIED="1667599658075">
 <richcontent TYPE="NODE"><html>
@@ -880,8 +871,7 @@
       Dependency Inversion (DIP): high level modules don't depend on low level, both depend on abstractions
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1643467548075" ID="ID_702864118" MODIFIED="1644074759738">
 <richcontent TYPE="NODE"><html>
@@ -997,14 +987,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1662145788174" ID="ID_706905696" MODIFIED="1662146976971">
+<node CREATED="1662145788174" ID="ID_706905696" MODIFIED="1667842020232">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      manifestation: illustrated with help of perspectives and views
+      manifestation: design illustrated with help of perspectives and views
     </p>
   </body>
 </html></richcontent>
@@ -1149,29 +1139,14 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1544284749060" ID="ID_909431611" MODIFIED="1666444748405">
+<node CREATED="1644679136343" ID="ID_115346817" MODIFIED="1667842572471">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      based on facts and experience (<u><font color="#0000ff">evidence-based</font></u>, <u><font color="#0000ff">metrics</font></u>) <i>not </i>gut feeling and belief
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1644679136343" ID="ID_115346817" MODIFIED="1666445600020">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      prioritization between quality attributes/<font color="#00c800">criteria</font>
-    </p>
-    <p>
-      (<font color="#0000ff"><u>ATAM</u></font> and its Utility Tree)
+      prioritization between quality attributes/<font color="#00c800">criteria </font>(<font color="#0000ff"><u>ATAM</u></font>&#160; and its Utility Tree)
     </p>
   </body>
 </html></richcontent>
@@ -1200,28 +1175,53 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1544040855380" ID="ID_1425416611" MODIFIED="1652718370707">
+<node CREATED="1544284749060" ID="ID_909431611" MODIFIED="1666444748405">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      evaluated alternatives
+      based on facts and experience (<u><font color="#0000ff">evidence-based</font></u>, <u><font color="#0000ff">metrics</font></u>) <i>not </i>gut feeling and belief
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1636654422308" ID="ID_823493784" MODIFIED="1652554534976">
+</node>
+<node CREATED="1544040855380" ID="ID_1425416611" MODIFIED="1667842557688">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      documents not chosen alternatives and changes in rating over time
+      <font color="#0000ff"><u>ADR</u></font>
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1636654422308" ID="ID_823493784" MODIFIED="1667842793775">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      title, status, context, decision (documents also not chosen alternatives), consequences
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1667842508001" ID="ID_967500649" MODIFIED="1667845952441">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      record history reveals adaptations over time
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1546807206444" ID="ID_827516383" MODIFIED="1666639923339" STYLE="fork">
@@ -1238,7 +1238,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1548619978108" ID="ID_843393367" MODIFIED="1667651485465">
+<node CREATED="1548619978108" HGAP="17" ID="ID_843393367" MODIFIED="1667842611142" VSHIFT="2">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1251,8 +1251,7 @@
       zoning regulations (<font color="#000000">analogies</font>) to avoid <u><font color="#0000ff">obstructive</font></u>&#160; overall rules.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1691,8 +1690,7 @@
       whole <font color="#00c800">system</font>, single feature, one or more use cases, specific scenario
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1547045366089" ID="ID_1014720148" MODIFIED="1547555196660" TEXT="mean time between failures (MTBF)"/>
@@ -1778,7 +1776,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1545393481114" ID="ID_552384724" MODIFIED="1667506791749">
+<node CREATED="1545393481114" HGAP="23" ID="ID_552384724" MODIFIED="1667842989618" VSHIFT="1">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1814,7 +1812,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1545393190476" ID="ID_775032059" MODIFIED="1545393458993" TEXT="wiki"/>
+<node CREATED="1545393190476" HGAP="23" ID="ID_775032059" MODIFIED="1667842995212" TEXT="wiki" VSHIFT="-6"/>
 </node>
 <node CREATED="1544043145477" ID="ID_174557010" MODIFIED="1644075827466" TEXT="code generation">
 <node CREATED="1544607800487" ID="ID_1348625595" MODIFIED="1666520686274">
@@ -2580,7 +2578,26 @@
 <node CREATED="1545391274365" ID="ID_71941011" MODIFIED="1545391376227" TEXT="legal department"/>
 <node CREATED="1545391266645" ID="ID_674681667" MODIFIED="1652383415117" TEXT="IT"/>
 </node>
-<node CREATED="1543767112858" HGAP="54" ID="ID_1694922253" MODIFIED="1666438027243" TEXT="stakeholder" VSHIFT="-14">
+<node CREATED="1543767112858" HGAP="54" ID="ID_1694922253" MODIFIED="1667841958186" VSHIFT="-14">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      stakeholders
+    </p>
+    <p>
+      with specific
+    </p>
+    <p>
+      <font color="#00c800">view</font>points and
+    </p>
+    <p>
+      roles (<u><font color="#0000ff">RASIC</font></u>)
+    </p>
+  </body>
+</html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1544041002476" ID="ID_1371983250" MODIFIED="1636390439058" TEXT="architect">
 <edge COLOR="#808080" WIDTH="thin"/>
@@ -2881,8 +2898,7 @@
       individual product instances with the <font color="#00c800">product line</font>'s variability goals (at <font color="#00c800">component</font>&#160;level).
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1548540245388" ID="ID_1799225174" MODIFIED="1548621877688">
@@ -2971,8 +2987,7 @@
       (software-intensive <font color="#00c800">systems</font>&#160;and software products) using platforms and mass customisation.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1546027265003" ID="ID_1084010852" MODIFIED="1667318537953">
