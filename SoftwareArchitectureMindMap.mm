@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1667843428324">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1668866931496">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,12 +22,12 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2022/11/07</font>
+      <font size="2">last update 2022/11/19</font>
     </p>
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#ff0000" CREATED="1541845188061" HGAP="-16" ID="ID_1194334578" MODIFIED="1667842849899" POSITION="right" TEXT="Where?" VSHIFT="4">
+<node COLOR="#ff0000" CREATED="1541845188061" HGAP="-36" ID="ID_1194334578" MODIFIED="1668858755795" POSITION="right" TEXT="Where?" VSHIFT="3">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <node CREATED="1543868880731" HGAP="23" ID="ID_1638161300" MODIFIED="1666900673912" TEXT="inside" VSHIFT="16">
@@ -1220,8 +1220,7 @@
       record history reveals adaptations over time
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1546807206444" ID="ID_827516383" MODIFIED="1666639923339" STYLE="fork">
@@ -1847,6 +1846,34 @@
 </node>
 </node>
 </node>
+<node CREATED="1668858228662" HGAP="-93" ID="ID_1669303802" MODIFIED="1668867439157" POSITION="left" VSHIFT="1">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <b><font color="#ff0000">Context and Goal?</font></b>
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#ff0000" WIDTH="4"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node CREATED="1668858255173" ID="ID_1345046690" MODIFIED="1668866828766">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      create SW that fits to the desired <font color="#0000ff"><u>value stream</u></font>
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#808080" WIDTH="thin"/>
+</node>
+</node>
 <node COLOR="#ff0000" CREATED="1541844933162" HGAP="-34" ID="ID_581537295" MODIFIED="1546796765439" POSITION="left" TEXT="What?" VSHIFT="12">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
@@ -2251,7 +2278,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541844988208" HGAP="50" ID="ID_1725546686" MODIFIED="1644076787979" POSITION="left" TEXT="Why?" VSHIFT="4">
+<node COLOR="#ff0000" CREATED="1541844988208" HGAP="28" ID="ID_1725546686" MODIFIED="1668858743317" POSITION="left" TEXT="Why?" VSHIFT="2">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <node CREATED="1536695652308" ID="ID_1654920606" MODIFIED="1666639771980">
@@ -2266,6 +2293,36 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
+<node CREATED="1543869186561" ID="ID_465001877" MODIFIED="1668858220623" TEXT="types">
+<node CREATED="1543869193426" ID="ID_176514765" MODIFIED="1543869196452" TEXT="functional"/>
+<node CREATED="1543869197068" ID="ID_814011276" MODIFIED="1668858602612">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      non-functional (quality attributes/<font color="#00c800">criteria</font>)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1544607462240" ID="ID_895757317" MODIFIED="1668858221368" TEXT="key words">
+<node CREATED="1544607471984" ID="ID_404959033" MODIFIED="1547044060169">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <u><font color="#0000ff">RFC2119</font></u>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1544607544725" ID="ID_1067230742" MODIFIED="1545391594914" TEXT="Interpretation of the key words &quot;MUST&quot;, &quot;MUST NOT&quot;, &quot;REQUIRED&quot;, &quot;SHALL&quot;, &quot;SHALL NOT&quot;, &#xa;&quot;SHOULD&quot;, &quot;SHOULD NOT&quot;, &quot;RECOMMENDED&quot;, &quot;MAY&quot;, and &quot;OPTIONAL&quot;."/>
+</node>
+</node>
 <node CREATED="1543869076518" ID="ID_1150869759" MODIFIED="1666441543340">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2285,38 +2342,8 @@
 <node CREATED="1536695662752" ID="ID_761371629" MODIFIED="1547126454704" TEXT="feasible"/>
 <node CREATED="1536695705909" ID="ID_1459497105" MODIFIED="1543869117963" TEXT="verifiable"/>
 </node>
-<node CREATED="1544607462240" ID="ID_895757317" MODIFIED="1544607465045" TEXT="key words">
-<node CREATED="1544607471984" ID="ID_404959033" MODIFIED="1547044060169">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <u><font color="#0000ff">RFC2119</font></u>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1544607544725" ID="ID_1067230742" MODIFIED="1545391594914" TEXT="Interpretation of the key words &quot;MUST&quot;, &quot;MUST NOT&quot;, &quot;REQUIRED&quot;, &quot;SHALL&quot;, &quot;SHALL NOT&quot;, &#xa;&quot;SHOULD&quot;, &quot;SHOULD NOT&quot;, &quot;RECOMMENDED&quot;, &quot;MAY&quot;, and &quot;OPTIONAL&quot;."/>
 </node>
-</node>
-<node CREATED="1543869186561" ID="ID_465001877" MODIFIED="1543869189014" TEXT="types">
-<node CREATED="1543869193426" ID="ID_176514765" MODIFIED="1543869196452" TEXT="functional"/>
-<node CREATED="1543869197068" ID="ID_814011276" MODIFIED="1666444876120">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      non-functional (<font color="#00c800">criteria</font>)
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1534366108490" ID="ID_1859279295" MODIFIED="1666639818923" STYLE="fork">
+<node CREATED="1534366108490" ID="ID_1859279295" MODIFIED="1668857782976" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2327,6 +2354,9 @@
     </p>
     <p>
       model /
+    </p>
+    <p>
+      attributes /
     </p>
     <p>
       <font color="#00c800"><b><i>criteria</i></b></font>
@@ -2932,7 +2962,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541845203069" HGAP="30" ID="ID_268324297" MODIFIED="1644076803715" POSITION="left" TEXT="When?" VSHIFT="-52">
+<node COLOR="#ff0000" CREATED="1541845203069" HGAP="-61" ID="ID_268324297" MODIFIED="1668866881772" POSITION="left" TEXT="When?" VSHIFT="-54">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <node CREATED="1543867516419" ID="ID_857512676" MODIFIED="1649583644105" TEXT="creation with help of">
