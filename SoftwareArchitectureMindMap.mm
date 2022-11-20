@@ -607,7 +607,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541845014962" HGAP="-12" ID="ID_1451538528" MODIFIED="1644076823170" POSITION="right" VSHIFT="21">
+<node COLOR="#ff0000" CREATED="1541845014962" HGAP="-23" ID="ID_1451538528" MODIFIED="1668942012839" POSITION="right" VSHIFT="24">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1846,35 +1846,17 @@
 </node>
 </node>
 </node>
-<node CREATED="1668858228662" HGAP="-93" ID="ID_1669303802" MODIFIED="1668867439157" POSITION="left" VSHIFT="1">
+<node COLOR="#ff0000" CREATED="1541844933162" HGAP="-34" ID="ID_581537295" MODIFIED="1668941887483" POSITION="left" VSHIFT="12">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <b><font color="#ff0000">Context and Goal?</font></b>
-    </p>
-  </body>
-</html>
-</richcontent>
-<edge COLOR="#ff0000" WIDTH="4"/>
-<font NAME="SansSerif" SIZE="16"/>
-<node CREATED="1668858255173" ID="ID_1345046690" MODIFIED="1668866828766">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      create SW that fits to the desired <font color="#0000ff"><u>value stream</u></font>
+      Why?
     </p>
   </body>
 </html></richcontent>
-<edge COLOR="#808080" WIDTH="thin"/>
-</node>
-</node>
-<node COLOR="#ff0000" CREATED="1541844933162" HGAP="-34" ID="ID_581537295" MODIFIED="1546796765439" POSITION="left" TEXT="What?" VSHIFT="12">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <node CREATED="1537028806225" HGAP="16" ID="ID_28070999" MODIFIED="1666801636648" VSHIFT="-17">
@@ -1892,6 +1874,31 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
+<node CREATED="1668894536687" ID="ID_1368770116" MODIFIED="1668894713216">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0000"><b>context and goal&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </b></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1668858255173" ID="ID_1345046690" MODIFIED="1668894755397">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Create SW that fits to the desired <font color="#0000ff"><u>value stream</u>&#160;&#160;&#160;&#160;&#160;&#160;</font>
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#808080" WIDTH="thin"/>
+</node>
+</node>
 <node CREATED="1547105509518" ID="ID_1268929237" MODIFIED="1644076823170">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2119,7 +2126,7 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1544606918912" ID="ID_1108238411" MODIFIED="1666899332672">
+<node CREATED="1544606918912" ID="ID_1108238411" MODIFIED="1668941872652">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2129,7 +2136,7 @@
       aims at
     </p>
     <p>
-      <font color="#ff0000">why?</font>
+      <font color="#ff0000">what?</font>
     </p>
   </body>
 </html></richcontent>
@@ -2278,7 +2285,17 @@
 </node>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541844988208" HGAP="28" ID="ID_1725546686" MODIFIED="1668858743317" POSITION="left" TEXT="Why?" VSHIFT="2">
+<node COLOR="#ff0000" CREATED="1541844988208" HGAP="28" ID="ID_1725546686" MODIFIED="1668941898453" POSITION="left" VSHIFT="2">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      What?
+    </p>
+  </body>
+</html></richcontent>
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <node CREATED="1536695652308" ID="ID_1654920606" MODIFIED="1666639771980">
@@ -2962,7 +2979,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541845203069" HGAP="-61" ID="ID_268324297" MODIFIED="1668866881772" POSITION="left" TEXT="When?" VSHIFT="-54">
+<node COLOR="#ff0000" CREATED="1541845203069" HGAP="-46" ID="ID_268324297" MODIFIED="1668941939253" POSITION="left" TEXT="When?" VSHIFT="-52">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <node CREATED="1543867516419" ID="ID_857512676" MODIFIED="1649583644105" TEXT="creation with help of">
