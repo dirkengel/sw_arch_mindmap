@@ -1859,6 +1859,34 @@
 </html></richcontent>
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
+<node CREATED="1668894536687" ID="ID_1368770116" MODIFIED="1668960265156">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff0000"><b>context and goal</b></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" WIDTH="thin"/>
+<node CREATED="1668858255173" ID="ID_1345046690" MODIFIED="1668960235458">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Create SW that fits to the desired <font color="#0000ff"><u>value stream</u></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge COLOR="#808080" WIDTH="thin"/>
+</node>
+</node>
 <node CREATED="1537028806225" HGAP="16" ID="ID_28070999" MODIFIED="1666801636648" VSHIFT="-17">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1874,31 +1902,6 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1668894536687" ID="ID_1368770116" MODIFIED="1668894713216">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#ff0000"><b>context and goal&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </b></font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1668858255173" ID="ID_1345046690" MODIFIED="1668894755397">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Create SW that fits to the desired <font color="#0000ff"><u>value stream</u>&#160;&#160;&#160;&#160;&#160;&#160;</font>
-    </p>
-  </body>
-</html></richcontent>
-<edge COLOR="#808080" WIDTH="thin"/>
-</node>
-</node>
 <node CREATED="1547105509518" ID="ID_1268929237" MODIFIED="1644076823170">
 <richcontent TYPE="NODE"><html>
   <head>
