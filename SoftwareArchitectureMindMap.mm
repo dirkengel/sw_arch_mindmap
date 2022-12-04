@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1668866931496">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1670176290874">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,10 +22,11 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2022/11/19</font>
+      <font size="2">last update 2022/12/04</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#ff0000" CREATED="1541845188061" HGAP="-36" ID="ID_1194334578" MODIFIED="1668858755795" POSITION="right" TEXT="Where?" VSHIFT="3">
 <edge COLOR="#ff0000" WIDTH="4"/>
@@ -891,7 +892,19 @@
 </node>
 </node>
 <node CREATED="1536695277755" ID="ID_265357609" MODIFIED="1545390887205" TEXT="others">
-<node CREATED="1536695499777" ID="ID_906817158" MODIFIED="1652556372665" TEXT="High Cohesion"/>
+<node CREATED="1536695499777" ID="ID_906817158" MODIFIED="1670176206049">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      High Cohesion (<font color="#00c800">maintainability</font>, SoC, SRP)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 <node CREATED="1536695528690" ID="ID_1508246883" MODIFIED="1667506414907">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1859,31 +1872,29 @@
 </html></richcontent>
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
-<node CREATED="1668894536687" ID="ID_1368770116" MODIFIED="1668960265156">
+<node CREATED="1668894536687" ID="ID_1368770116" MODIFIED="1669554753341">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#ff0000"><b>context and goal</b></font>
+      <font color="#ff0000">context and goal</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1668858255173" ID="ID_1345046690" MODIFIED="1668960235458">
+<node CREATED="1668858255173" ID="ID_1345046690" MODIFIED="1669555047908">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Create SW that fits to the desired <font color="#0000ff"><u>value stream</u></font>
+      create SW that fits to the desired <font color="#0000ff"><u>value stream</u></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
 </node>
 </node>
@@ -1913,14 +1924,14 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1541846081164" ID="ID_1092328740" MODIFIED="1652718523488">
+<node CREATED="1541846081164" ID="ID_1092328740" MODIFIED="1669554972526">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#ff0000">&#160;&#160;&#160;&#160;&#160;Fundamental concepts or ...&#160; </font>
+      <font color="#ff0000">&#160;&#160;&#160;&#160;&#160;Fundamental concepts or ...</font>
     </p>
   </body>
 </html></richcontent>
@@ -1938,14 +1949,14 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541846105265" ID="ID_1852164675" MODIFIED="1652718724595">
+<node COLOR="#ff0000" CREATED="1541846105265" ID="ID_1852164675" MODIFIED="1669554980681">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font size="3">... properties of a system ...&#160;&#160;&#160;&#160;</font>&#160;&#160;&#160;
+      <font size="3">... properties of a system ...&#160;&#160;&#160;&#160;</font>&#160;
     </p>
   </body>
 </html></richcontent>
@@ -1963,14 +1974,14 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1537028837804" ID="ID_1792968570" MODIFIED="1652718234117">
+<node COLOR="#ff0000" CREATED="1537028837804" ID="ID_1792968570" MODIFIED="1669554988129">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      ... in its environment ...&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      ... in its environment ...&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
     </p>
   </body>
 </html></richcontent>
@@ -1988,14 +1999,14 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1537028843249" ID="ID_311573140" MODIFIED="1652718269339">
+<node COLOR="#ff0000" CREATED="1537028843249" ID="ID_311573140" MODIFIED="1669554995398">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      ... embodied in its elements, ...&#160;&#160;
+      ... embodied in its elements, ...&#160;
     </p>
   </body>
 </html></richcontent>
@@ -2013,14 +2024,14 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541846236244" ID="ID_1622412908" MODIFIED="1652382228205">
+<node COLOR="#ff0000" CREATED="1541846236244" ID="ID_1622412908" MODIFIED="1669555005097">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      ... relationships, ...&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      ... relationships, ...&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
     </p>
   </body>
 </html></richcontent>
@@ -2038,14 +2049,14 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1537028860743" ID="ID_1413686123" MODIFIED="1652382241460">
+<node COLOR="#ff0000" CREATED="1537028860743" ID="ID_1413686123" MODIFIED="1669555013039">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      ... and in the principles of ...&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      ... and in the principles of ...&#160;&#160;&#160;&#160;&#160;&#160;
     </p>
   </body>
 </html></richcontent>
@@ -2063,14 +2074,14 @@
 </html></richcontent>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541846302047" ID="ID_1455337232" MODIFIED="1652718090613">
+<node COLOR="#ff0000" CREATED="1541846302047" ID="ID_1455337232" MODIFIED="1669555020642">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      ... its design ...&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+      ... its design ...&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
     </p>
   </body>
 </html></richcontent>
@@ -2100,7 +2111,17 @@
     </p>
   </body>
 </html></richcontent>
-<node COLOR="#ff0000" CREATED="1541846307565" ID="ID_1823829839" MODIFIED="1652382261655" TEXT="... and evolution.                            ">
+<node COLOR="#ff0000" CREATED="1541846307565" ID="ID_1823829839" MODIFIED="1669555027544">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      ... and evolution.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    </p>
+  </body>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1541846280610" ID="ID_123085449" MODIFIED="1652382910401">
 <richcontent TYPE="NODE"><html>
@@ -2484,14 +2505,14 @@
 <node CREATED="1544043584920" ID="ID_1927672187" MODIFIED="1548589499167" TEXT="functional completeness, functional correctness, functional appropriateness"/>
 </node>
 <node CREATED="1544043481979" ID="ID_396203617" MODIFIED="1642185509985" TEXT="performance efficiency">
-<node CREATED="1544043719786" ID="ID_705298430" MODIFIED="1666520153042">
+<node CREATED="1544043719786" ID="ID_705298430" MODIFIED="1669458746111">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      time behavior, resource utilization (<font color="#00c800">resource consumption</font>), capacity
+      time behavior, resource utilization (<font color="#00c800">resource consumption</font>&#160;incl. energy), capacity
     </p>
   </body>
 </html></richcontent>
@@ -2921,8 +2942,42 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1544607633834" ID="ID_570792539" MODIFIED="1644526274140" TEXT="stakeholders have overlapping responsibilities (DevOps infinity loop)"/>
-<node CREATED="1548540136866" ID="ID_1595051458" MODIFIED="1548540141692" TEXT="SAFe">
+<node CREATED="1544607633834" ID="ID_570792539" MODIFIED="1644526274140" TEXT="stakeholders have overlapping responsibilities (DevOps infinity loop)">
+<node CREATED="1670175696837" ID="ID_1929993755" MODIFIED="1670176275807">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff"><u>interlinked</u></font>&#160;architecture and
+    </p>
+    <p>
+      implementation PDCA cycles
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1548540136866" ID="ID_1595051458" MODIFIED="1670175611632">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Scaling
+    </p>
+    <p>
+      framework
+    </p>
+    <p>
+      like SAFe
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1548540143829" ID="ID_1776707255" MODIFIED="1548540153734" TEXT="agile team">
 <node CREATED="1548540224624" ID="ID_1979387727" MODIFIED="1666520497496">
 <richcontent TYPE="NODE"><html>
@@ -2935,21 +2990,6 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1548540282079" ID="ID_1889073549" MODIFIED="1667651230090">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      In a <font color="#00c800">product line</font>&#160;team, members must always balance the special <font color="#00c800">requirements</font>&#160; of
-    </p>
-    <p>
-      individual product instances with the <font color="#00c800">product line</font>'s variability goals (at <font color="#00c800">component</font>&#160;level).
-    </p>
-  </body>
-</html></richcontent>
-</node>
 </node>
 <node CREATED="1548540245388" ID="ID_1799225174" MODIFIED="1548621877688">
 <richcontent TYPE="NODE"><html>
@@ -3040,20 +3080,18 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1546027265003" ID="ID_1084010852" MODIFIED="1667318537953">
+<node CREATED="1546027265003" ID="ID_1084010852" MODIFIED="1670175954749">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">patterns</font>&#160;how to arange platform <font color="#00c800">elements</font>
-    </p>
-    <p>
-      (analogy: zoning regulations of cities)
+      <font color="#00c800">patterns</font>&#160;how to arange platform <font color="#00c800">elements </font>(analogy: zoning regulations of cities)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1544350641563" ID="ID_381910907" MODIFIED="1666520574326">
 <richcontent TYPE="NODE"><html>
@@ -3066,17 +3104,21 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1544772676348" ID="ID_520710134" MODIFIED="1666521825108">
+<node CREATED="1544772676348" ID="ID_520710134" MODIFIED="1670176115208">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">configuration</font>
+      <font color="#00c800">configuration </font>
+    </p>
+    <p>
+      (<font color="#00c800">maintainability</font>)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <node CREATED="1544772789623" ID="ID_250103152" MODIFIED="1544772795990" TEXT="alternatives"/>
 <node CREATED="1544772796569" ID="ID_749842920" MODIFIED="1544772799669" TEXT="options"/>
 <node CREATED="1544772800192" ID="ID_1790516715" MODIFIED="1544772807686" TEXT="parametrization"/>
