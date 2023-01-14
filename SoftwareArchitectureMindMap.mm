@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1670176290874">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1673703672441">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,11 +22,10 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2022/12/04</font>
+      <font size="2">last update 2023/01/14</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#ff0000" CREATED="1541845188061" HGAP="-36" ID="ID_1194334578" MODIFIED="1668858755795" POSITION="right" TEXT="Where?" VSHIFT="3">
 <edge COLOR="#ff0000" WIDTH="4"/>
@@ -902,8 +901,7 @@
       High Cohesion (<font color="#00c800">maintainability</font>, SoC, SRP)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1536695528690" ID="ID_1508246883" MODIFIED="1667506414907">
 <richcontent TYPE="NODE"><html>
@@ -1290,7 +1288,8 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1547552457884" ID="ID_1147578652" MODIFIED="1666520921550">
+<node CREATED="1673702098735" ID="ID_681437313" MODIFIED="1673702101895" TEXT="language">
+<node CREATED="1547552457884" ID="ID_1147578652" MODIFIED="1673702115273">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1314,8 +1313,34 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1547552454095" ID="ID_1247634116" MODIFIED="1652554619531" TEXT="general">
+<node CREATED="1547552454095" ID="ID_1247634116" MODIFIED="1673702110969" TEXT="general">
 <node CREATED="1544040800835" ID="ID_1587970568" MODIFIED="1666632538230" TEXT="SysML, UML"/>
+</node>
+</node>
+<node CREATED="1673702140299" ID="ID_1944710512" MODIFIED="1673702356914">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff"><u>domain</u></font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1673702180089" ID="ID_250613535" MODIFIED="1673702411862">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      building blocks (decomposition <font color="#00c800">artifacts</font>)
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1673702417012" ID="ID_1192810808" MODIFIED="1673702735976" TEXT="module, entity, value object, service"/>
+</node>
 </node>
 </node>
 <node CREATED="1648895843498" ID="ID_738484191" MODIFIED="1659296072524">
@@ -1446,7 +1471,18 @@
 </node>
 <node CREATED="1534366311277" ID="ID_606582646" MODIFIED="1662145069248" TEXT="physical">
 <node CREATED="1534366494072" ID="ID_1936198780" MODIFIED="1659294725672" TEXT="deployment diagram">
-<node CREATED="1544608640458" ID="ID_163743818" MODIFIED="1659294666422" TEXT="run time evironment, nodes, processes, threads, IPC binding"/>
+<node CREATED="1544608640458" ID="ID_163743818" MODIFIED="1673702762414">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      run time environment, nodes, processes, threads, IPC binding
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1534366334845" ID="ID_1155925083" MODIFIED="1666632353318">
@@ -1523,19 +1559,19 @@
 </node>
 <node CREATED="1543868808823" ID="ID_376237452" MODIFIED="1648902876419" TEXT="communication">
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1544040707649" ID="ID_208864775" MODIFIED="1666520845341">
+<node CREATED="1544350741368" ID="ID_1448925366" MODIFIED="1673704307118" TEXT="between stakeholders"/>
+<node CREATED="1544040707649" ID="ID_208864775" MODIFIED="1673703622277">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      with help of <font color="#00c800">documentation</font>
+      with help of ubiquitous (<font color="#0000ff"><u>domain</u></font>) language, <font color="#00c800">documentation</font>&#160;and <font color="#00c800">model</font>&#160;(interconnected with implementation)
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1544350741368" ID="ID_1448925366" MODIFIED="1666438027243" TEXT="between stakeholders"/>
 </node>
 <node CREATED="1544350515150" ID="ID_1235072101" MODIFIED="1666444748406">
 <richcontent TYPE="NODE"><html>
@@ -2927,7 +2963,8 @@
 </html></richcontent>
 </node>
 <node CREATED="1543767112614" ID="ID_890230014" MODIFIED="1636390757963" TEXT="customer">
-<node CREATED="1545391087056" ID="ID_870952133" MODIFIED="1545391091660" TEXT="user"/>
+<node CREATED="1673701950273" ID="ID_951655597" MODIFIED="1673701978617" TEXT="domain specialist"/>
+<node CREATED="1545391087056" ID="ID_870952133" MODIFIED="1673701986757" TEXT="user"/>
 </node>
 </node>
 <node CREATED="1544607622919" ID="ID_1566886698" MODIFIED="1666439339503">
@@ -2956,8 +2993,7 @@
       implementation PDCA cycles
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1548540136866" ID="ID_1595051458" MODIFIED="1670175611632">
@@ -2976,8 +3012,7 @@
       like SAFe
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1548540143829" ID="ID_1776707255" MODIFIED="1548540153734" TEXT="agile team">
 <node CREATED="1548540224624" ID="ID_1979387727" MODIFIED="1666520497496">
 <richcontent TYPE="NODE"><html>
@@ -3090,8 +3125,7 @@
       <font color="#00c800">patterns</font>&#160;how to arange platform <font color="#00c800">elements </font>(analogy: zoning regulations of cities)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1544350641563" ID="ID_381910907" MODIFIED="1666520574326">
 <richcontent TYPE="NODE"><html>
@@ -3117,8 +3151,7 @@
       (<font color="#00c800">maintainability</font>)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1544772789623" ID="ID_250103152" MODIFIED="1544772795990" TEXT="alternatives"/>
 <node CREATED="1544772796569" ID="ID_749842920" MODIFIED="1544772799669" TEXT="options"/>
 <node CREATED="1544772800192" ID="ID_1790516715" MODIFIED="1544772807686" TEXT="parametrization"/>
