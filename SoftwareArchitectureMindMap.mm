@@ -1,16 +1,16 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1673703672441">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1679077374039" VGAP="0">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: center">
-      <b><font color="#ff0000">aspects</font>&#160;and <font color="#00c800">correlations</font>&#160;of</b>
+      <b><font size="4">software architecture </font></b>
     </p>
     <p style="text-align: center">
-      <b>software architecture</b>
+      <b><font color="#ff0000" size="4">aspects</font><font size="4">&#160;and </font><font color="#00c800" size="4">correlations </font></b>
     </p>
     <p style="text-align: center">
       
@@ -22,15 +22,16 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2023/01/14</font>
+      <font size="2">last update 2023/03/17</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#ff0000" CREATED="1541845188061" HGAP="-36" ID="ID_1194334578" MODIFIED="1668858755795" POSITION="right" TEXT="Where?" VSHIFT="3">
+<node COLOR="#ff0000" CREATED="1541845188061" HGAP="-36" ID="ID_1194334578" MODIFIED="1679077149813" POSITION="right" TEXT="Where?" VSHIFT="553">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
-<node CREATED="1543868880731" HGAP="23" ID="ID_1638161300" MODIFIED="1666900673912" TEXT="inside" VSHIFT="16">
+<node CREATED="1543868880731" ID="ID_1638161300" MODIFIED="1679076857218" TEXT="inside       " VSHIFT="250">
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1546026480114" ID="ID_1933241391" MODIFIED="1666521594619">
 <richcontent TYPE="NODE"><html>
@@ -44,7 +45,7 @@
   </body>
 </html></richcontent>
 <node CREATED="1545426481957" ID="ID_868467320" MODIFIED="1666436692772" TEXT="feature responsibility">
-<node CREATED="1636739596998" HGAP="28" ID="ID_1960353047" MODIFIED="1667843178428" TEXT="traceability" VSHIFT="3"/>
+<node CREATED="1636739596998" HGAP="28" ID="ID_1960353047" MODIFIED="1678736842269" TEXT="traceability requirements" VSHIFT="3"/>
 </node>
 <node CREATED="1545390850614" ID="ID_1423182411" MODIFIED="1666899710820">
 <richcontent TYPE="NODE"><html>
@@ -69,29 +70,17 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1546796003597" ID="ID_1903225924" MODIFIED="1547042470278">
+<node CREATED="1546796003597" ID="ID_1903225924" MODIFIED="1678736919565">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">idioms</font></u>
+      <u><font color="#0000ff">idioms</font></u><font color="#000000">:</font><font color="#00c800">programming language</font>&#160;specific&#160;low-level <font color="#00c800">patterns</font>
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1547042428063" ID="ID_492648177" MODIFIED="1667650754628">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#00c800">programming language</font>&#160;specific&#160;low-level <font color="#00c800">patterns</font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 </node>
 </node>
 </node>
@@ -119,21 +108,18 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1544042925545" ID="ID_1516461722" MODIFIED="1666521484170">
+<node CREATED="1544042925545" ID="ID_1516461722" MODIFIED="1678641747359">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      frameworks
-    </p>
-    <p>
-      (to <font color="#00c800">DRY</font>)
+      frameworks (to <font color="#00c800">DRY</font>)
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1544284519431" ID="ID_153347752" MODIFIED="1666438838846">
+<node CREATED="1544284519431" ID="ID_153347752" MODIFIED="1678641720877">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -158,7 +144,6 @@
 </node>
 </node>
 <node CREATED="1544042931835" ID="ID_186545583" MODIFIED="1547211571070" TEXT="event handling, inter thread communication (ITC), queues, timer"/>
-<node CREATED="1544042958641" ID="ID_1728126673" MODIFIED="1652718317253" TEXT="SW watchdog (threads)"/>
 <node CREATED="1546977936801" ID="ID_1910752726" MODIFIED="1666521436923">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -173,7 +158,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1543869015429" HGAP="24" ID="ID_638892429" MODIFIED="1666899798489" VSHIFT="18">
+<node CREATED="1543869015429" HGAP="26" ID="ID_638892429" MODIFIED="1679076836895" VSHIFT="10">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -199,7 +184,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1545392531270" ID="ID_303752159" MODIFIED="1666520358175">
+<node CREATED="1545392531270" ID="ID_303752159" MODIFIED="1678641784869">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -213,7 +198,7 @@
 </node>
 </node>
 <node CREATED="1544043224148" ID="ID_858353488" MODIFIED="1666636635839" TEXT="">
-<node CREATED="1544349566020" HGAP="89" ID="ID_1782276546" MODIFIED="1667842943193" VSHIFT="1">
+<node CREATED="1544349566020" HGAP="49" ID="ID_1782276546" MODIFIED="1678641807482" VSHIFT="1">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -277,7 +262,7 @@
   </body>
 </html></richcontent>
 <node CREATED="1544608864716" ID="ID_747883038" MODIFIED="1544608891696" TEXT="user with limited permissions"/>
-<node CREATED="1544608830714" ID="ID_545331493" MODIFIED="1546896042358">
+<node CREATED="1544608830714" ID="ID_545331493" MODIFIED="1678737059432">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -288,56 +273,45 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1544608834619" ID="ID_591100770" MODIFIED="1546896072660">
+<node CREATED="1544608834619" ID="ID_591100770" MODIFIED="1678737017114">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">namespace</font></u>
+      <u><font color="#0000ff">namespace</font></u><font color="#000000">: restricts visibility of resources to own namespace (subset </font>
+    </p>
+    <p>
+      <font color="#000000">of overall resources), e.g. process and user IDs, mounted devices</font>
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1547041070157" ID="ID_166062113" MODIFIED="1547041506580" TEXT="restricts visibility of resources to own namespace (subset of &#xa;overall resources), e.g. process and user IDs, mounted devices"/>
 </node>
-<node CREATED="1544608839571" ID="ID_1961748217" MODIFIED="1609012917982">
+<node CREATED="1544608839571" ID="ID_1961748217" MODIFIED="1678737005650">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">cgroups</font></u>
+      <u><font color="#0000ff">cgroups</font></u><font color="#000000">: </font>limits, accounts for, and isolates the <font color="#00c800">resource consumption</font>
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546623696003" ID="ID_1239475209" MODIFIED="1666444246525">
+</node>
+</node>
+<node CREATED="1544608895597" ID="ID_513725534" MODIFIED="1678737097769">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      limits, accounts for, and isolates the <font color="#00c800">resource consumption</font>
+      <u><font color="#0000ff">capabilities</font></u><font color="#000000">: </font>specific superuser privileges which can be independently enabled and disabled
     </p>
   </body>
 </html></richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1544608895597" ID="ID_513725534" MODIFIED="1546896203555">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <u><font color="#0000ff">capabilities</font></u>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1547042190085" ID="ID_1916369870" MODIFIED="1547042274853" TEXT="specific superuser privileges which can be independently enabled and disabled"/>
 </node>
 </node>
 <node CREATED="1544608938191" ID="ID_127528397" MODIFIED="1666521378500">
@@ -355,7 +329,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1543868933635" HGAP="38" ID="ID_1478150937" MODIFIED="1666899716091" VSHIFT="-94">
+<node CREATED="1543868933635" ID="ID_1478150937" MODIFIED="1679076831349" VSHIFT="-26">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -389,20 +363,18 @@
 </node>
 </node>
 <node CREATED="1545390762731" ID="ID_1647585510" MODIFIED="1547065402114" TEXT="peripheral">
-<node CREATED="1547065376918" ID="ID_234402309" MODIFIED="1666899856866">
+<node CREATED="1547065376918" ID="ID_234402309" MODIFIED="1678737142727">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">interface</font>&#160;type
+      <font color="#00c800">interface</font>&#160;type / firmware / driver
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1544042654013" ID="ID_1616645806" MODIFIED="1547065410875" TEXT="drivers"/>
 </node>
-<node CREATED="1544608321620" HGAP="21" ID="ID_1109056461" MODIFIED="1666899731758" TEXT="firmware" VSHIFT="-1"/>
 </node>
 </node>
 <node CREATED="1544043286870" HGAP="17" ID="ID_1508908459" MODIFIED="1667843345752" TEXT="SW" VSHIFT="-8">
@@ -420,7 +392,17 @@
 <node CREATED="1545390622397" ID="ID_1976113772" MODIFIED="1666900124582" TEXT="POSIX or alike">
 <node CREATED="1635072805071" ID="ID_964938777" MODIFIED="1635072813002" TEXT="PSE51"/>
 </node>
-<node CREATED="1544707144358" ID="ID_179277885" MODIFIED="1636740763664" TEXT="kernel">
+<node CREATED="1544707144358" ID="ID_179277885" MODIFIED="1678641837286">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      kernel&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    </p>
+  </body>
+</html></richcontent>
 <node CREATED="1636740646393" ID="ID_1436955063" MODIFIED="1652383940154" TEXT="monolithic, micro, L4"/>
 <node CREATED="1545390602025" ID="ID_907061380" MODIFIED="1652383967942" TEXT="real-time">
 <node CREATED="1647708732416" ID="ID_1442363156" MODIFIED="1647708814220">
@@ -451,18 +433,6 @@
 </node>
 </node>
 <node CREATED="1544707152138" ID="ID_805640971" MODIFIED="1666900099015" TEXT="user space"/>
-<node CREATED="1545390673004" ID="ID_473436180" MODIFIED="1667505956676">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#00c800">license</font>&#160;constraints and <font color="#00c800">costs</font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 </node>
 <node CREATED="1544608080713" ID="ID_1967869902" MODIFIED="1666899939109">
 <richcontent TYPE="NODE"><html>
@@ -475,15 +445,15 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1544043334686" ID="ID_169028711" MODIFIED="1666900168012" TEXT="FOSS">
-<node CREATED="1544608296436" ID="ID_537251320" MODIFIED="1666639974800">
+<node CREATED="1544043334686" ID="ID_169028711" MODIFIED="1678737465724" TEXT="FOSS or COTS">
+<node CREATED="1678737448749" ID="ID_794479603" MODIFIED="1678737532926">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      take care for the <font color="#00c800"><b><i>license</i></b></font>
+      <font color="#00c800"><i><b>license</b></i></font>&#160;constraints and <font color="#00c800">costs</font>
     </p>
   </body>
 </html></richcontent>
@@ -511,8 +481,18 @@
 <node CREATED="1544042814795" ID="ID_1538225939" MODIFIED="1544042830773" TEXT="stop / shutdown"/>
 </node>
 <node CREATED="1543869412003" ID="ID_1664845010" MODIFIED="1640466272268" TEXT="persistency (CRUD)">
-<node CREATED="1545124364481" ID="ID_735894668" MODIFIED="1545124372236" TEXT="file system based"/>
-<node CREATED="1545124372631" ID="ID_991952123" MODIFIED="1545124387428" TEXT="key/value, data base"/>
+<node CREATED="1545124364481" ID="ID_735894668" MODIFIED="1678626759481">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      file system based, key/value, data base
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node CREATED="1544042557231" ID="ID_1406875858" MODIFIED="1666900298279" TEXT="middleware, inter process communication (IPC)"/>
 <node CREATED="1543869421328" ID="ID_67300711" MODIFIED="1666900243738">
@@ -546,17 +526,14 @@
 </node>
 </node>
 </node>
-<node CREATED="1666521693083" ID="ID_1025256372" MODIFIED="1666639985866">
+<node CREATED="1666521693083" ID="ID_1025256372" MODIFIED="1678737553499">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      (env. dependent)
-    </p>
-    <p>
-      <font color="#00c800"><b><i>configuration</i></b></font> by
+      <font color="#00c800"><b><i>configuration</i></b></font>
     </p>
   </body>
 </html></richcontent>
@@ -586,9 +563,18 @@
 </node>
 <node CREATED="1545124420538" ID="ID_1831072930" MODIFIED="1666521740043" TEXT="compile time: In-line configuration via compiler switches"/>
 <node CREATED="1545124426274" ID="ID_599615089" MODIFIED="1666521744319" TEXT="runtime">
-<node CREATED="1547211767688" ID="ID_1859467287" MODIFIED="1547211775541" TEXT="environment variable"/>
-<node CREATED="1547211719539" ID="ID_591462017" MODIFIED="1547211762625" TEXT="command line options&#xa;"/>
-<node CREATED="1547211762626" ID="ID_337605055" MODIFIED="1547211762627" TEXT="configuration object passed at initialization"/>
+<node CREATED="1547211767688" ID="ID_1859467287" MODIFIED="1678737595610">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      environment variable / command line option / file
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1544042637535" HGAP="22" ID="ID_663028390" MODIFIED="1666521339585">
@@ -607,7 +593,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541845014962" HGAP="-23" ID="ID_1451538528" MODIFIED="1668942012839" POSITION="right" VSHIFT="24">
+<node COLOR="#ff0000" CREATED="1541845014962" HGAP="-40" ID="ID_1451538528" MODIFIED="1678995237932" POSITION="right" VSHIFT="-412">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -620,13 +606,34 @@
 </html></richcontent>
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
-<node CREATED="1544349588504" ID="ID_1297528285" MODIFIED="1666899691017" TEXT="divide and conquer">
+<node CREATED="1544349588504" HGAP="18" ID="ID_1297528285" MODIFIED="1679077112951" VSHIFT="42">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      divide and
+    </p>
+    <p>
+      conquer
+    </p>
+  </body>
+</html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1543868959589" ID="ID_1503824701" MODIFIED="1666438500084" TEXT="decomposition">
+<node CREATED="1543868959589" ID="ID_1503824701" MODIFIED="1679076778057" TEXT="decomposition" VSHIFT="-29">
 <node CREATED="1545391919678" ID="ID_606760890" MODIFIED="1667842849706" TEXT="method">
-<node CREATED="1545391962560" HGAP="21" ID="ID_1705402682" MODIFIED="1666899743031" TEXT="middle-out" VSHIFT="-1">
-<node CREATED="1545391956398" ID="ID_1025713700" MODIFIED="1638389787351" TEXT="top-down"/>
-<node CREATED="1545391966632" ID="ID_1344975859" MODIFIED="1545391971390" TEXT="bottom-up"/>
+<node CREATED="1545391962560" HGAP="21" ID="ID_1705402682" MODIFIED="1678627028270" VSHIFT="-1">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      top-down / middle-out / bottom-up
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1545391843839" ID="ID_416728411" MODIFIED="1666639944144">
@@ -849,17 +856,18 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1534366731002" ID="ID_1862357220" MODIFIED="1667650562639">
+<node CREATED="1534366731002" ID="ID_1862357220" MODIFIED="1679077320769">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">Interface</font>&#160;Segragation (ISP): many client-specific <font color="#00c800">interfaces</font>&#160; are better than one general-purpose <font color="#00c800">interface</font>
+      <font color="#00c800">Interface</font>&#160;Segrag<font color="#000000">ation (ISP): many client-specific interfaces&#160;are better than one general-purpose interface</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1534366769199" ID="ID_1256621865" MODIFIED="1667599658075">
 <richcontent TYPE="NODE"><html>
@@ -873,7 +881,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1643467548075" ID="ID_702864118" MODIFIED="1644074759738">
+<node CREATED="1643467548075" ID="ID_702864118" MODIFIED="1678627326396">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -882,15 +890,23 @@
     <p>
       vs. <u><font color="#0000ff">CUPID</font></u>
     </p>
+  </body>
+</html></richcontent>
+<node CREATED="1643564439207" ID="ID_751198286" MODIFIED="1678627354706">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
-      properties
+      Composable / Unix philosophy (one thing well) / Predictable / Idiomatic / Domain-based
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1643564439207" ID="ID_751198286" MODIFIED="1656269892932" TEXT="Composable, Unix philosophy (one thing well), Predictable, Idiomatic, Domain-based"/>
 </node>
 </node>
-<node CREATED="1536695277755" ID="ID_265357609" MODIFIED="1545390887205" TEXT="others">
+</node>
+<node CREATED="1536695277755" HGAP="16" ID="ID_265357609" MODIFIED="1678995181414" TEXT="others" VSHIFT="76">
 <node CREATED="1536695499777" ID="ID_906817158" MODIFIED="1670176206049">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -951,7 +967,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1543868816999" ID="ID_1472353264" MODIFIED="1666639906140">
+<node CREATED="1543868816999" HGAP="18" ID="ID_1472353264" MODIFIED="1679077129179" VSHIFT="-9">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -969,20 +985,14 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1544040896874" HGAP="21" ID="ID_1175491591" MODIFIED="1666444840553" VSHIFT="2">
+<node CREATED="1544040896874" HGAP="21" ID="ID_1175491591" MODIFIED="1678549103782" VSHIFT="2">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      follows the <font color="#00c800">DRY</font> rule and
-    </p>
-    <p>
-      the requirement <font color="#0000ff"><u>characteristics</u></font> 
-    </p>
-    <p>
-      to explain the architecture by ...
+      comprises
     </p>
   </body>
 </html></richcontent>
@@ -1010,14 +1020,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1662145796844" ID="ID_1463802931" MODIFIED="1666521019014">
+<node CREATED="1662145796844" ID="ID_1463802931" MODIFIED="1678994712715">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      implementation: proven with help of perspectives and views revealing the target/actual comparison
+      implementation: monitored by target/actual comparison (metrics)
     </p>
   </body>
 </html></richcontent>
@@ -1209,14 +1219,14 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1636654422308" ID="ID_823493784" MODIFIED="1667842793775">
+<node CREATED="1636654422308" ID="ID_823493784" MODIFIED="1678737658516">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      title, status, context, decision (documents also not chosen alternatives), consequences
+      title, status, context, decision (incl. not chosen alternatives), consequences
     </p>
   </body>
 </html></richcontent>
@@ -1343,7 +1353,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1648895843498" ID="ID_738484191" MODIFIED="1659296072524">
+<node CREATED="1648895843498" ID="ID_738484191" MODIFIED="1678548646313">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1354,6 +1364,7 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1659296422679" ID="ID_56207220" MODIFIED="1678994540712" TEXT="different types in different levels for different concerns (of different stakeholders)"/>
 <node CREATED="1534366264417" ID="ID_121385141" MODIFIED="1659296389593">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1496,7 +1507,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1534366503276" ID="ID_86306656" MODIFIED="1659294730838" TEXT="cse case diagram and scenarios"/>
+<node CREATED="1534366503276" ID="ID_86306656" MODIFIED="1678548238375" TEXT="use case diagram and scenarios"/>
 </node>
 </node>
 <node CREATED="1659296396960" ID="ID_247044921" MODIFIED="1659296485327">
@@ -1551,13 +1562,20 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1659296422679" ID="ID_56207220" MODIFIED="1659296520162" TEXT="concerns">
-<node CREATED="1659296689806" ID="ID_677774170" MODIFIED="1659297111279" TEXT="different types at different levels with details on different concerns"/>
 </node>
 </node>
 </node>
-</node>
-<node CREATED="1543868808823" ID="ID_376237452" MODIFIED="1648902876419" TEXT="communication">
+<node CREATED="1543868808823" HGAP="26" ID="ID_376237452" MODIFIED="1678995137965" VSHIFT="-17">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <i><b><font color="#00c800">communication</font></b></i>
+    </p>
+  </body>
+</html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1544350741368" ID="ID_1448925366" MODIFIED="1673704307118" TEXT="between stakeholders"/>
 <node CREATED="1544040707649" ID="ID_208864775" MODIFIED="1673703622277">
@@ -1573,7 +1591,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1544350515150" ID="ID_1235072101" MODIFIED="1666444748406">
+<node CREATED="1544350515150" HGAP="19" ID="ID_1235072101" MODIFIED="1678995128050" VSHIFT="-7">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1591,52 +1609,52 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1546621740376" ID="ID_947008672" MODIFIED="1666801172771">
+<node CREATED="1546621740376" ID="ID_947008672" MODIFIED="1678548940501">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      to get comparable data the metrics need ...
+      prerequisites to gain comparable data:
     </p>
     <p>
       (and be careful in seeing correlations)
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546621847478" ID="ID_285408838" MODIFIED="1652555696093">
+<node CREATED="1546621847478" ID="ID_285408838" MODIFIED="1678548976007">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      ... to be motivated by explaining the <font color="#0000ff"><u>why</u></font> (context and background information).
+      motivated by explaining the <font color="#0000ff"><u>why</u></font>&#160;(context and background information)
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1546621793456" ID="ID_718496085" MODIFIED="1644075164745">
+<node CREATED="1546621793456" ID="ID_718496085" MODIFIED="1678548968628">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      ... a clear definition on how to achieve the desired numbers.
+      clear definition on how to achieve the desired numbers
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1546621956854" ID="ID_396753200" MODIFIED="1666520756237">
+<node CREATED="1546621956854" ID="ID_396753200" MODIFIED="1678548988987">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      ... a clear description about the <font color="#00c800">tool</font>, how to use, and which data to record.
+      clear description about the <font color="#00c800">tool</font>, how to use, and which data to record
     </p>
   </body>
 </html></richcontent>
@@ -1668,41 +1686,17 @@
 <node CREATED="1545390943768" ID="ID_350333090" MODIFIED="1609011955620" TEXT="CPU vs. time, memory, IRQ, DMA"/>
 </node>
 <node CREATED="1547555023988" ID="ID_721486945" MODIFIED="1646499263570" TEXT="complexity">
-<node CREATED="1545390909728" ID="ID_1511307315" MODIFIED="1666439282157">
+<node CREATED="1545390909728" ID="ID_1511307315" MODIFIED="1678737769894">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">cost</font> efficiency
+      <font color="#00c800">risk </font><u><font color="#0000ff">categories</font></u><font color="#000000">, </font><font color="#00c800">cost</font>&#160;efficiency
     </p>
   </body>
 </html></richcontent>
-</node>
-<node CREATED="1547555068841" ID="ID_471513573" MODIFIED="1547586445350">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <u><font color="#0000ff">categories</font></u>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1547555114310" ID="ID_294778924" MODIFIED="1666441410699">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#00c800">risk</font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
 </node>
 </node>
 <node CREATED="1547107014822" ID="ID_604955476" MODIFIED="1666520792423">
@@ -1728,14 +1722,14 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546622177640" ID="ID_501558037" MODIFIED="1667651641335">
+<node CREATED="1546622177640" ID="ID_501558037" MODIFIED="1678737801556">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      whole <font color="#00c800">system</font>, single feature, one or more use cases, specific scenario
+      whole <font color="#00c800">system </font>/ single feature / one or more use cases / specific scenario
     </p>
   </body>
 </html></richcontent>
@@ -1766,21 +1760,18 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1547149947858" ID="ID_392726245" MODIFIED="1547150185471" TEXT="statement coverage"/>
-<node CREATED="1547149961215" ID="ID_92841931" MODIFIED="1547150231832" TEXT="branch coverage"/>
-<node CREATED="1547150040587" ID="ID_1633054754" MODIFIED="1649503586413" TEXT="condition/decision coverage"/>
-<node CREATED="1547150062153" ID="ID_927469752" MODIFIED="1547150345719" TEXT="boundary interior coverage"/>
+<node CREATED="1547149947858" ID="ID_392726245" MODIFIED="1678548304313" TEXT="statement, branch, condition/decision, boundary interior"/>
 </node>
 </node>
 </node>
-<node CREATED="1544285115508" ID="ID_604531956" MODIFIED="1666639887039">
+<node CREATED="1544285115508" HGAP="19" ID="ID_604531956" MODIFIED="1679076789364" VSHIFT="-336">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800"><b><i>tools</i></b></font>
+      <font color="#00c800"><b><i>tools&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </i></b></font>
     </p>
   </body>
 </html></richcontent>
@@ -1890,12 +1881,22 @@
 </node>
 </node>
 <node CREATED="1545392944476" ID="ID_327252605" MODIFIED="1547123670240" TEXT="code analysis">
-<node CREATED="1545425923302" ID="ID_896601800" MODIFIED="1545425927345" TEXT="static"/>
-<node CREATED="1545425928809" ID="ID_1783672032" MODIFIED="1545425931241" TEXT="dynamic"/>
+<node CREATED="1545425923302" ID="ID_896601800" MODIFIED="1678626870724">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      static or dynamic
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541844933162" HGAP="-34" ID="ID_581537295" MODIFIED="1668941887483" POSITION="left" VSHIFT="12">
+</node>
+<node COLOR="#ff0000" CREATED="1541844933162" HGAP="-75" ID="ID_581537295" MODIFIED="1679076927926" POSITION="left" VSHIFT="-30">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2174,7 +2175,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1544606910178" ID="ID_1178596203" MODIFIED="1547124646395">
+<node CREATED="1544606910178" HGAP="22" ID="ID_1178596203" MODIFIED="1678995748394" VSHIFT="-17">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2200,7 +2201,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1544607097625" ID="ID_342285013" MODIFIED="1652383755291">
+<node CREATED="1544607097625" HGAP="14" ID="ID_342285013" MODIFIED="1678995736466" VSHIFT="-1">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2298,10 +2299,21 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1544607317056" ID="ID_270411490" MODIFIED="1544607410706" TEXT="the software architectural design is agreed and communicated to all affected parties"/>
+<node CREATED="1544607317056" ID="ID_270411490" MODIFIED="1678645022837">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      the software architectural design is agreed and <font color="#00c800">communicat</font>ed to all affected parties
+    </p>
+  </body>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1544708535729" ID="ID_592649578" MODIFIED="1666899283361">
+</node>
+<node CREATED="1544708535729" HGAP="16" ID="ID_592649578" MODIFIED="1678995742328" VSHIFT="-3">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2345,7 +2357,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541844988208" HGAP="28" ID="ID_1725546686" MODIFIED="1668941898453" POSITION="left" VSHIFT="2">
+<node COLOR="#ff0000" CREATED="1541844988208" HGAP="-22" ID="ID_1725546686" MODIFIED="1679077026902" POSITION="left" VSHIFT="-13">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2370,7 +2382,17 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1543869186561" ID="ID_465001877" MODIFIED="1668858220623" TEXT="types">
+<node CREATED="1543869186561" ID="ID_465001877" MODIFIED="1678644436901">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      types&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+    </p>
+  </body>
+</html></richcontent>
 <node CREATED="1543869193426" ID="ID_176514765" MODIFIED="1543869196452" TEXT="functional"/>
 <node CREATED="1543869197068" ID="ID_814011276" MODIFIED="1668858602612">
 <richcontent TYPE="NODE"><html>
@@ -2385,7 +2407,17 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1544607462240" ID="ID_895757317" MODIFIED="1668858221368" TEXT="key words">
+<node CREATED="1544607462240" ID="ID_895757317" MODIFIED="1678644393198">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      key words&#160;&#160;&#160;&#160;&#160;
+    </p>
+  </body>
+</html></richcontent>
 <node CREATED="1544607471984" ID="ID_404959033" MODIFIED="1547044060169">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2420,17 +2452,14 @@
 <node CREATED="1536695705909" ID="ID_1459497105" MODIFIED="1543869117963" TEXT="verifiable"/>
 </node>
 </node>
-<node CREATED="1534366108490" ID="ID_1859279295" MODIFIED="1668857782976" STYLE="fork">
+<node CREATED="1534366108490" ID="ID_1859279295" MODIFIED="1678818170225" STYLE="fork">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#000000">quality</font>
-    </p>
-    <p>
-      model /
+      <font color="#000000">quality </font>model /
     </p>
     <p>
       attributes /
@@ -2441,14 +2470,14 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1534366132352" ID="ID_977373251" MODIFIED="1547044522415">
+<node CREATED="1534366132352" HGAP="15" ID="ID_977373251" MODIFIED="1678644476800">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">FURPS</font></u>
+      <u><font color="#0000ff">FURPS</font></u><font color="#0000ff">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>
     </p>
   </body>
 </html></richcontent>
@@ -2617,7 +2646,7 @@
 <node CREATED="1544043841643" ID="ID_1990994362" MODIFIED="1548589606943" TEXT="adaptability, installability, replaceability"/>
 </node>
 </node>
-<node CREATED="1624976514751" ID="ID_1343307687" MODIFIED="1666441488562">
+<node CREATED="1624976514751" HGAP="13" ID="ID_1343307687" MODIFIED="1678644252471" VSHIFT="-1">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2629,17 +2658,18 @@
   </body>
 </html></richcontent>
 <node CREATED="1624976561383" ID="ID_792755609" MODIFIED="1624976569100" TEXT="symptoms">
-<node CREATED="1624976586132" ID="ID_843263727" MODIFIED="1667506312711">
+<node CREATED="1624976586132" ID="ID_843263727" MODIFIED="1679077234432">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">change</font>&#160;amplification: simple <font color="#00c800">change</font>&#160;requires modifications in many different places
+      <font color="#00c800">change</font>&#160;amplification: <font color="#000000">simple change&#160;requires modifications in many different places</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1624976847409" ID="ID_1446918030" MODIFIED="1624977270914" TEXT="cognitive load: how much one need to know to complete a task"/>
 <node CREATED="1624976875211" ID="ID_410733900" MODIFIED="1635074140424">
@@ -2655,37 +2685,53 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1624976570665" ID="ID_634752180" MODIFIED="1624977346592" TEXT="causes">
-<node CREATED="1624976612841" ID="ID_1648229909" MODIFIED="1624976805474" TEXT="dependencies"/>
-<node CREATED="1624976625358" ID="ID_1990885637" MODIFIED="1624976630604" TEXT="obscurity"/>
+<node CREATED="1678993659972" ID="ID_758908702" MODIFIED="1678993665226" TEXT="causes">
+<node CREATED="1624976570665" ID="ID_634752180" MODIFIED="1678993678638" TEXT="dependencies and/or obscurity"/>
 </node>
 </node>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541845535473" HGAP="-31" ID="ID_958712086" MODIFIED="1640521060656" POSITION="left" TEXT="Who?" VSHIFT="-1">
+<node COLOR="#ff0000" CREATED="1541845535473" HGAP="-6" ID="ID_958712086" MODIFIED="1679077032681" POSITION="left" TEXT="Who?" VSHIFT="101">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
-<node CREATED="1545391227603" ID="ID_836316488" MODIFIED="1546797626111" TEXT="organization">
-<edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1545391291498" ID="ID_29439752" MODIFIED="1545391350600" TEXT="management"/>
-<node CREATED="1545391382185" ID="ID_1068983909" MODIFIED="1545391399810" TEXT="structure">
-<node CREATED="1545391441546" ID="ID_22790812" MODIFIED="1547044691587">
+<node CREATED="1545391227603" HGAP="24" ID="ID_836316488" MODIFIED="1678994463714">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#0000ff"><u>Conway's law</u></font>: &quot;organizations which design systems ... are constrained to produce <br />designs which are copies of the communication structures of these organizations.&quot;
+      organization&#160;&#160;&#160;
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#808080" WIDTH="thin"/>
+<node CREATED="1545391291498" ID="ID_29439752" MODIFIED="1678993755258">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      upper management and departments like legal / controlling / IT / development
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1545391441546" ID="ID_22790812" MODIFIED="1678993964862">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff"><u>Conway's law</u></font>: &quot;organizations which design systems ... are constrained to produce<br />designs which are copies of the <font color="#00c800">communication</font>&#160; structures of these organizations.&quot;
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1545391274365" ID="ID_71941011" MODIFIED="1545391376227" TEXT="legal department"/>
-<node CREATED="1545391266645" ID="ID_674681667" MODIFIED="1652383415117" TEXT="IT"/>
-</node>
-<node CREATED="1543767112858" HGAP="54" ID="ID_1694922253" MODIFIED="1667841958186" VSHIFT="-14">
+<node CREATED="1543767112858" HGAP="22" ID="ID_1694922253" MODIFIED="1678820487657" VSHIFT="-3">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2708,20 +2754,19 @@
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1544041002476" ID="ID_1371983250" MODIFIED="1636390439058" TEXT="architect">
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1636391032425" ID="ID_51331574" MODIFIED="1636394213013" TEXT="type">
-<node CREATED="1636390568796" ID="ID_385447120" MODIFIED="1636480212605">
+<node CREATED="1636391032425" ID="ID_51331574" MODIFIED="1678993977728" TEXT="kinds of">
+<node CREATED="1636390568796" ID="ID_385447120" MODIFIED="1678994021044">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">enterprise architect</font></u>, solution architect
+      <u><font color="#0000ff">enterprise architect</font></u>, solution architect, system architect, software architect
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1636390582362" ID="ID_501218527" MODIFIED="1636394179509" TEXT="system, software architect"/>
 </node>
 <node CREATED="1545391064949" ID="ID_743621439" MODIFIED="1636390533198" TEXT="skills">
 <node CREATED="1545391070387" ID="ID_853867294" MODIFIED="1545391078148" TEXT="abstract thinking"/>
@@ -2749,14 +2794,14 @@
   </body>
 </html></richcontent>
 <node CREATED="1546622924049" ID="ID_799248816" MODIFIED="1644679678675" TEXT="team-minded">
-<node CREATED="1636920482050" ID="ID_629723998" MODIFIED="1666520415924">
+<node CREATED="1636920482050" ID="ID_629723998" MODIFIED="1678994200161">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      with and within teams
+      cooperation and <font color="#00c800">communication</font>&#160;with and within teams
     </p>
   </body>
 </html></richcontent>
@@ -2822,39 +2867,36 @@
 </node>
 </node>
 <node CREATED="1543867831234" ID="ID_735067753" MODIFIED="1666439736594" TEXT="branch planing">
-<node CREATED="1543867796103" ID="ID_1418073788" MODIFIED="1666801515588">
+<node CREATED="1543867796103" ID="ID_1418073788" MODIFIED="1678625899704">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#000000">(big) </font><font color="#00c800">change</font>
+      <font color="#00c800">change</font>, stabilization, release
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1543867861773" ID="ID_1879392488" MODIFIED="1547042860443" TEXT="stabilization"/>
-<node CREATED="1543867866892" ID="ID_1623928751" MODIFIED="1547042862691" TEXT="release"/>
 </node>
 </node>
 <node CREATED="1543868833235" ID="ID_744047070" MODIFIED="1644526058257" TEXT="tester">
-<node CREATED="1547044788186" ID="ID_1365696245" MODIFIED="1644526139657" TEXT="regression test"/>
-<node CREATED="1548590970101" ID="ID_1586101075" MODIFIED="1667317996067">
+<node CREATED="1547044788186" HGAP="37" ID="ID_1365696245" MODIFIED="1678625916161" VSHIFT="2">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">system</font>&#160;test
+      regression test and <font color="#00c800">system</font>&#160;test
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
 <node CREATED="1543767111128" ID="ID_228942414" MODIFIED="1636390775831" TEXT="PO, PM">
-<node CREATED="1543868636703" ID="ID_1919700992" MODIFIED="1636227568891">
+<node CREATED="1543868636703" HGAP="31" ID="ID_1919700992" MODIFIED="1678625935719" VSHIFT="-1">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2868,7 +2910,20 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1543868658916" ID="ID_440264453" MODIFIED="1547065204110" TEXT="scope, feature set">
+<node CREATED="1543868658916" ID="ID_440264453" MODIFIED="1678625528080">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      scope, feature set,
+    </p>
+    <p>
+      and quality (<font color="#00c800">criteria</font>)
+    </p>
+  </body>
+</html></richcontent>
 <node CREATED="1644679712728" ID="ID_84571645" MODIFIED="1644679828520" TEXT="backlog prioritization">
 <node CREATED="1644679830872" ID="ID_462816524" MODIFIED="1666440571686">
 <richcontent TYPE="NODE"><html>
@@ -2881,6 +2936,18 @@
     </p>
   </body>
 </html></richcontent>
+<node CREATED="1644679864227" ID="ID_1727993169" MODIFIED="1678737821833">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800"><b><i>business value</i></b></font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
 <node CREATED="1644679876121" ID="ID_1140045535" MODIFIED="1666440349680">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2889,18 +2956,6 @@
   <body>
     <p>
       <font color="#00c800">technical risk</font> reduction
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1644679864227" ID="ID_1727993169" MODIFIED="1666639850964">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#00c800"><b><i>business value</i></b></font>
     </p>
   </body>
 </html></richcontent>
@@ -2947,7 +3002,6 @@
 </node>
 </node>
 <node CREATED="1543868724644" ID="ID_563932535" MODIFIED="1547042880731" TEXT="time"/>
-<node CREATED="1543868744115" ID="ID_165520277" MODIFIED="1547065166562" TEXT="(quality)"/>
 </node>
 </node>
 <node CREATED="1545391124186" ID="ID_1033378414" MODIFIED="1666520477454">
@@ -2963,8 +3017,18 @@
 </html></richcontent>
 </node>
 <node CREATED="1543767112614" ID="ID_890230014" MODIFIED="1636390757963" TEXT="customer">
-<node CREATED="1673701950273" ID="ID_951655597" MODIFIED="1673701978617" TEXT="domain specialist"/>
-<node CREATED="1545391087056" ID="ID_870952133" MODIFIED="1673701986757" TEXT="user"/>
+<node CREATED="1673701950273" ID="ID_951655597" MODIFIED="1678625552616">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      domain specialist and/or user
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1544607622919" ID="ID_1566886698" MODIFIED="1666439339503">
@@ -2979,37 +3043,41 @@
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1544607633834" ID="ID_570792539" MODIFIED="1644526274140" TEXT="stakeholders have overlapping responsibilities (DevOps infinity loop)">
-<node CREATED="1670175696837" ID="ID_1929993755" MODIFIED="1670176275807">
+<node CREATED="1544607633834" ID="ID_570792539" MODIFIED="1678994334077">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#0000ff"><u>interlinked</u></font>&#160;architecture and
+      overlapping responsibilities
     </p>
     <p>
-      implementation PDCA cycles
+      (DevOps infinity loop)
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1670175696837" ID="ID_1929993755" MODIFIED="1678625965221">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#0000ff"><u>interlinked</u></font>&#160;architecture and implementation PDCA cycles
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1548540136866" ID="ID_1595051458" MODIFIED="1670175611632">
+<node CREATED="1548540136866" ID="ID_1595051458" MODIFIED="1678994436011">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Scaling
-    </p>
-    <p>
-      framework
-    </p>
-    <p>
-      like SAFe
+      scaling framework like SAFe
     </p>
   </body>
 </html></richcontent>
@@ -3057,172 +3125,48 @@
 </node>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541845203069" HGAP="-46" ID="ID_268324297" MODIFIED="1668941939253" POSITION="left" TEXT="When?" VSHIFT="-52">
+<node COLOR="#ff0000" CREATED="1541845203069" HGAP="-46" ID="ID_268324297" MODIFIED="1679076974871" POSITION="left" TEXT="When?" VSHIFT="102">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
-<node CREATED="1543867516419" ID="ID_857512676" MODIFIED="1649583644105" TEXT="creation with help of">
-<edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1543867534533" ID="ID_311075400" MODIFIED="1666439332118">
+<node CREATED="1544041082128" HGAP="24" ID="ID_159024700" MODIFIED="1678641972718">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">product line</font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1548540245388" ID="ID_1471613425" MODIFIED="1607028561323">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <u><font color="#0000ff">platform</font></u>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1544609188202" ID="ID_1025236877" MODIFIED="1666632620229">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      A software platform is a set of software <font color="#00c800">systems</font> and <font color="#00c800">interfaces</font>  that form a common
-    </p>
-    <p>
-      structure from which a set of derivative products can be efficiently developed and produced.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1544609083926" ID="ID_850011779" MODIFIED="1667651510604">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Software <font color="#00c800"><b><i>product line</i></b></font>&#160;engineering is a paradigm to develop software applications
-    </p>
-    <p>
-      (software-intensive <font color="#00c800">systems</font>&#160;and software products) using platforms and mass customisation.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1546027265003" ID="ID_1084010852" MODIFIED="1670175954749">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#00c800">patterns</font>&#160;how to arange platform <font color="#00c800">elements </font>(analogy: zoning regulations of cities)
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1544350641563" ID="ID_381910907" MODIFIED="1666520574326">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      feature <font color="#00c800">model</font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1544772676348" ID="ID_520710134" MODIFIED="1670176115208">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#00c800">configuration </font>
-    </p>
-    <p>
-      (<font color="#00c800">maintainability</font>)
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1544772789623" ID="ID_250103152" MODIFIED="1544772795990" TEXT="alternatives"/>
-<node CREATED="1544772796569" ID="ID_749842920" MODIFIED="1544772799669" TEXT="options"/>
-<node CREATED="1544772800192" ID="ID_1790516715" MODIFIED="1544772807686" TEXT="parametrization"/>
-</node>
-<node CREATED="1544351328203" ID="ID_1942796344" MODIFIED="1544351350088" TEXT="feature"/>
-<node CREATED="1544351314797" ID="ID_742039368" MODIFIED="1652550957198" TEXT="use case">
-<node CREATED="1544609284150" ID="ID_358627948" MODIFIED="1544609288891" TEXT="1..n per feature"/>
-<node CREATED="1544609299199" ID="ID_1874053226" MODIFIED="1544609320324" TEXT="scenario">
-<node CREATED="1544609323272" ID="ID_283425985" MODIFIED="1544609332773" TEXT="one way through a use case"/>
-</node>
-</node>
-<node CREATED="1544351301851" ID="ID_1803625941" MODIFIED="1544351360334" TEXT="specification">
-<node CREATED="1544609342072" ID="ID_1290378287" MODIFIED="1544609348341" TEXT="describes the details"/>
-</node>
-</node>
-</node>
-<node CREATED="1543867553841" ID="ID_1050112247" MODIFIED="1667318096184">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      known similar <font color="#00c800">systems</font>
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1543867600996" ID="ID_125971706" MODIFIED="1667317847241">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      proof of <font color="#00c800">concept</font>&#160;(PoC)
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1543867658555" ID="ID_1352844991" MODIFIED="1638552733694" TEXT="minimal viable project (MVP)"/>
-</node>
-<node CREATED="1544041082128" ID="ID_159024700" MODIFIED="1666439059609">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      continuously
-    </p>
-    <p>
-      (via <font color="#00c800">tools</font>)
+      continuously&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
     </p>
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1544041134724" ID="ID_1731407298" MODIFIED="1666520596697">
+<node CREATED="1544609398291" ID="ID_267599831" MODIFIED="1678625182800">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">documentation</font>
+      <u><font color="#0000ff">agile vs. traditional</font></u>
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#808080" WIDTH="thin"/>
+<node CREATED="1544609409507" ID="ID_316514333" MODIFIED="1544609418937" TEXT="shorter cycles, higher cadence"/>
+</node>
+<node CREATED="1544041228180" ID="ID_1523118872" MODIFIED="1678645207570">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">documentation</font>&#160;and <font color="#00c800">communication</font>
     </p>
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1544041228180" ID="ID_1523118872" MODIFIED="1544041230962" TEXT="communication"/>
-<node CREATED="1544041099326" ID="ID_1385687155" MODIFIED="1545391029366">
+<node CREATED="1544041099326" ID="ID_1385687155" MODIFIED="1678625272331">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3232,7 +3176,7 @@
       compliance monitoring
     </p>
     <p>
-      (analyze consistency)
+      (with help of <font color="#00c800">tools</font>)
     </p>
   </body>
 </html></richcontent>
@@ -3341,19 +3285,22 @@
 </node>
 </node>
 </node>
-<node CREATED="1535148125354" ID="ID_843711768" MODIFIED="1666801451492">
+<node CREATED="1535148125354" HGAP="25" ID="ID_843711768" MODIFIED="1678627134200" STYLE="fork" VSHIFT="1">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#000000">(big) </font><font color="#00c800">change</font><font color="#000000">/adaptation</font>
+      <font color="#000000">in case of a big </font>
+    </p>
+    <p>
+      <font color="#00c800">change</font><font color="#000000">/adaptation</font>
     </p>
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1548702817495" ID="ID_1833817880" MODIFIED="1666439545852">
+<node CREATED="1548702817495" ID="ID_1833817880" MODIFIED="1678625421710">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3365,7 +3312,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1548702600681" ID="ID_1678028356" MODIFIED="1666439849533">
+<node CREATED="1548702600681" ID="ID_1678028356" MODIFIED="1678625421711">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3376,75 +3323,157 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1535148132831" ID="ID_1598762744" MODIFIED="1635096326109">
+<node CREATED="1535148132831" ID="ID_1598762744" MODIFIED="1678625421711">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      mutation (new idea)
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1535148166581" ID="ID_400051040" MODIFIED="1635096332000" TEXT="recombination"/>
-<node CREATED="1535148188905" ID="ID_1788743695" MODIFIED="1635096338931">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      selection
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1535148173275" ID="ID_1151659458" MODIFIED="1635096349584">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      genetic drift (new methodology)
+      mutation (new idea) / recombination / selection / genetic drift (new methodology)
     </p>
   </body>
 </html></richcontent>
 </node>
 </node>
 </node>
-<node CREATED="1544609398291" ID="ID_267599831" MODIFIED="1666439339503">
+<node CREATED="1543867516419" HGAP="23" ID="ID_857512676" MODIFIED="1678641950112" VSHIFT="3">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">agile vs. traditional</font></u>
+      creation with help of
     </p>
   </body>
 </html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1544609409507" ID="ID_316514333" MODIFIED="1544609418937" TEXT="shorter cycles, higher cadence"/>
-</node>
-<node CREATED="1544709697792" ID="ID_945779701" MODIFIED="1546797795463" TEXT="strategical and long-term ">
-<edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1666440110580" ID="ID_405757477" MODIFIED="1666440189898">
+<node CREATED="1678624904575" ID="ID_1590258887" MODIFIED="1678626231102" TEXT="tactical and new">
+<node CREATED="1543867553841" ID="ID_1050112247" MODIFIED="1678624208034">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      not focussed on tomorrow but on months and even years when
-    </p>
-    <p>
-      it comes to large projects and <font color="#00c800">product line</font> engineering (<font color="#00c800">costs</font>)
+      known similar <font color="#00c800">systems</font>&#160;/ proof of <font color="#00c800">concept</font>&#160;(PoC) / minimal viable project (MVP)
     </p>
   </body>
 </html></richcontent>
+</node>
+</node>
+<node CREATED="1543867534533" ID="ID_311075400" MODIFIED="1678624866785">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      strategical and
+    </p>
+    <p>
+      long-term:
+    </p>
+    <p>
+      <font color="#00c800">product line</font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1548540245388" ID="ID_1471613425" MODIFIED="1607028561323">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <u><font color="#0000ff">platform</font></u>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1544609188202" ID="ID_1025236877" MODIFIED="1666632620229">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A software platform is a set of software <font color="#00c800">systems</font> and <font color="#00c800">interfaces</font>  that form a common
+    </p>
+    <p>
+      structure from which a set of derivative products can be efficiently developed and produced.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1544609083926" ID="ID_850011779" MODIFIED="1667651510604">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Software <font color="#00c800"><b><i>product line</i></b></font>&#160;engineering is a paradigm to develop software applications
+    </p>
+    <p>
+      (software-intensive <font color="#00c800">systems</font>&#160;and software products) using platforms and mass customisation.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1546027265003" ID="ID_1084010852" MODIFIED="1670175954749">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">patterns</font>&#160;how to arange platform <font color="#00c800">elements </font>(analogy: zoning regulations of cities)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1544350641563" ID="ID_381910907" MODIFIED="1666520574326">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      feature <font color="#00c800">model</font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1544772676348" ID="ID_520710134" MODIFIED="1670176115208">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">configuration </font>
+    </p>
+    <p>
+      (<font color="#00c800">maintainability</font>)
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1544772789623" ID="ID_250103152" MODIFIED="1544772795990" TEXT="alternatives"/>
+<node CREATED="1544772796569" ID="ID_749842920" MODIFIED="1544772799669" TEXT="options"/>
+<node CREATED="1544772800192" ID="ID_1790516715" MODIFIED="1544772807686" TEXT="parametrization"/>
+</node>
+<node CREATED="1544351328203" ID="ID_1942796344" MODIFIED="1544351350088" TEXT="feature"/>
+<node CREATED="1544351314797" ID="ID_742039368" MODIFIED="1652550957198" TEXT="use case">
+<node CREATED="1544609284150" ID="ID_358627948" MODIFIED="1544609288891" TEXT="1..n per feature"/>
+<node CREATED="1544609299199" ID="ID_1874053226" MODIFIED="1544609320324" TEXT="scenario">
+<node CREATED="1544609323272" ID="ID_283425985" MODIFIED="1544609332773" TEXT="one way through a use case"/>
+</node>
+</node>
+<node CREATED="1544351301851" ID="ID_1803625941" MODIFIED="1544351360334" TEXT="specification">
+<node CREATED="1544609342072" ID="ID_1290378287" MODIFIED="1544609348341" TEXT="describes the details"/>
+</node>
+</node>
 </node>
 </node>
 </node>
