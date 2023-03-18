@@ -25,8 +25,7 @@
       <font size="2">last update 2023/03/17</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#ff0000" CREATED="1541845188061" HGAP="-36" ID="ID_1194334578" MODIFIED="1679077149813" POSITION="right" TEXT="Where?" VSHIFT="553">
 <edge COLOR="#ff0000" WIDTH="4"/>
@@ -45,7 +44,18 @@
   </body>
 </html></richcontent>
 <node CREATED="1545426481957" ID="ID_868467320" MODIFIED="1666436692772" TEXT="feature responsibility">
-<node CREATED="1636739596998" HGAP="28" ID="ID_1960353047" MODIFIED="1678736842269" TEXT="traceability requirements" VSHIFT="3"/>
+<node CREATED="1636739596998" HGAP="28" ID="ID_1960353047" MODIFIED="1679159937461" VSHIFT="3">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      requirements traceability
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node CREATED="1545390850614" ID="ID_1423182411" MODIFIED="1666899710820">
 <richcontent TYPE="NODE"><html>
@@ -95,14 +105,14 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1666632941603" ID="ID_160355695" MODIFIED="1666636796203">
+<node CREATED="1666632941603" ID="ID_160355695" MODIFIED="1679159954924">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      control, performance, safety, scalability vs. community, experience, experise
+      control, performance, safety, scalability&#160;&#160;&#160;vs.&#160;&#160;&#160;community, experience, experise
     </p>
   </body>
 </html></richcontent>
@@ -475,7 +485,18 @@
 <node CREATED="1543869009083" HGAP="23" ID="ID_1961203489" MODIFIED="1666900224758" TEXT="infrastructure" VSHIFT="-13">
 <node CREATED="1544042743545" ID="ID_1037887764" MODIFIED="1544042803935" TEXT="power cycle management">
 <node CREATED="1544042806688" ID="ID_1719795666" MODIFIED="1544042873417" TEXT="init / start">
-<node CREATED="1544042845895" ID="ID_952362852" MODIFIED="1636740858136" TEXT="&quot;boot&quot; stages, load on demand"/>
+<node CREATED="1544042845895" ID="ID_952362852" MODIFIED="1679159989427">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      boot stages, load on demand
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node CREATED="1544042831491" ID="ID_1605567759" MODIFIED="1547665405958" TEXT="suspend / resume"/>
 <node CREATED="1544042814795" ID="ID_1538225939" MODIFIED="1544042830773" TEXT="stop / shutdown"/>
@@ -866,8 +887,7 @@
       <font color="#00c800">Interface</font>&#160;Segrag<font color="#000000">ation (ISP): many client-specific interfaces&#160;are better than one general-purpose interface</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1534366769199" ID="ID_1256621865" MODIFIED="1667599658075">
 <richcontent TYPE="NODE"><html>
@@ -1258,7 +1278,7 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1548619978108" HGAP="17" ID="ID_843393367" MODIFIED="1667842611142" VSHIFT="2">
+<node CREATED="1548619978108" HGAP="17" ID="ID_843393367" MODIFIED="1679164376005" VSHIFT="2">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1268,10 +1288,11 @@
       loosely coupled hierarchical <font color="#00c800">system</font>&#160;of interior design, architecture,
     </p>
     <p>
-      zoning regulations (<font color="#000000">analogies</font>) to avoid <u><font color="#0000ff">obstructive</font></u>&#160; overall rules.
+      zoning regulations (<font color="#000000">analogies</font>) to avoid <u><font color="#0000ff">obstructive</font></u>&#160; overall rules
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
@@ -2668,8 +2689,7 @@
       <font color="#00c800">change</font>&#160;amplification: <font color="#000000">simple change&#160;requires modifications in many different places</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1624976847409" ID="ID_1446918030" MODIFIED="1624977270914" TEXT="cognitive load: how much one need to know to complete a task"/>
 <node CREATED="1624976875211" ID="ID_410733900" MODIFIED="1635074140424">
@@ -2718,17 +2738,18 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1545391441546" ID="ID_22790812" MODIFIED="1678993964862">
+<node CREATED="1545391441546" ID="ID_22790812" MODIFIED="1679160543578">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#0000ff"><u>Conway's law</u></font>: &quot;organizations which design systems ... are constrained to produce<br />designs which are copies of the <font color="#00c800">communication</font>&#160; structures of these organizations.&quot;
+      <font color="#0000ff"><u>Conway's law</u></font>: organizations which design systems ... are constrained to produce<br />designs which are copies of the <font color="#00c800">communication</font>&#160; structures of these organizations.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1543767112858" HGAP="22" ID="ID_1694922253" MODIFIED="1678820487657" VSHIFT="-3">
@@ -2998,7 +3019,19 @@
   </body>
 </html></richcontent>
 <node CREATED="1545392139542" ID="ID_28829962" MODIFIED="1545392218974" TEXT="expertice and skills"/>
-<node CREATED="1545392219533" ID="ID_624274936" MODIFIED="1545392232259" TEXT="context and experience"/>
+<node CREATED="1545392219533" ID="ID_624274936" MODIFIED="1679160674482">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      context and experience
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1543868724644" ID="ID_563932535" MODIFIED="1547042880731" TEXT="time"/>
@@ -3406,20 +3439,21 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1544609083926" ID="ID_850011779" MODIFIED="1667651510604">
+<node CREATED="1544609083926" ID="ID_850011779" MODIFIED="1679160731837">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Software <font color="#00c800"><b><i>product line</i></b></font>&#160;engineering is a paradigm to develop software applications
+      Software <font color="#00c800"><b><i>product line</i></b></font>&#160;engineering is a paradigm to develop software applications (software-
     </p>
     <p>
-      (software-intensive <font color="#00c800">systems</font>&#160;and software products) using platforms and mass customisation.
+      intensive <font color="#00c800">systems</font>&#160;and software products) using platforms and mass customization.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1546027265003" ID="ID_1084010852" MODIFIED="1670175954749">
