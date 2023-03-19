@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1679077374039" VGAP="0">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1679237942259" VGAP="0">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,7 +22,7 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2023/03/17</font>
+      <font size="2">last update 2023/03/19</font>
     </p>
   </body>
 </html></richcontent>
@@ -1291,8 +1291,7 @@
       zoning regulations (<font color="#000000">analogies</font>) to avoid <u><font color="#0000ff">obstructive</font></u>&#160; overall rules
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -2748,8 +2747,7 @@
       <font color="#0000ff"><u>Conway's law</u></font>: organizations which design systems ... are constrained to produce<br />designs which are copies of the <font color="#00c800">communication</font>&#160; structures of these organizations.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1543767112858" HGAP="22" ID="ID_1694922253" MODIFIED="1678820487657" VSHIFT="-3">
@@ -3029,8 +3027,7 @@
       context and experience
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -3090,17 +3087,18 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1670175696837" ID="ID_1929993755" MODIFIED="1678625965221">
+<node CREATED="1670175696837" ID="ID_1929993755" MODIFIED="1679238166641">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#0000ff"><u>interlinked</u></font>&#160;architecture and implementation PDCA cycles
+      <font color="#0000ff"><u>interlinked</u></font>&#160;architecture and implementation <u><font color="#0000ff">PDCA</font></u>&#160; cycles
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1548540136866" ID="ID_1595051458" MODIFIED="1678994436011">
@@ -3452,8 +3450,7 @@
       intensive <font color="#00c800">systems</font>&#160;and software products) using platforms and mass customization.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1546027265003" ID="ID_1084010852" MODIFIED="1670175954749">
