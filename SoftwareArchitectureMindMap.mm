@@ -704,7 +704,7 @@
 </node>
 </node>
 <node CREATED="1656268232620" ID="ID_689945914" MODIFIED="1656268252891" TEXT="item">
-<node CREATED="1544040549160" ID="ID_1864186321" MODIFIED="1667843269490">
+<node CREATED="1544040549160" ID="ID_1864186321" MODIFIED="1679332782100">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -714,7 +714,7 @@
       <font color="#00c800">system</font>&#160;or combination
     </p>
     <p>
-      of <font color="#000000">(sub-)</font><font color="#00c800">systems</font>
+      <font color="#000000">of (sub-)systems</font>
     </p>
   </body>
 </html></richcontent>
@@ -1611,14 +1611,14 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1544350515150" HGAP="19" ID="ID_1235072101" MODIFIED="1678995128050" VSHIFT="-7">
+<node CREATED="1544350515150" HGAP="19" ID="ID_1235072101" MODIFIED="1679333147250" VSHIFT="-7">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">(criteria)</font>
+      <font color="#000000">(</font><font color="#00c800">criteria</font><font color="#000000">)</font>
     </p>
     <p>
       <font color="#0000ff"><u>metrics</u></font>
@@ -1627,7 +1627,8 @@
       via <font color="#00c800">tools </font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1546621740376" ID="ID_947008672" MODIFIED="1678548940501">
 <richcontent TYPE="NODE"><html>
@@ -1823,14 +1824,14 @@
 </html></richcontent>
 </node>
 <node CREATED="1545393095584" ID="ID_502389189" MODIFIED="1666445769615" TEXT="work package (ticket) and planing"/>
-<node CREATED="1545392972538" ID="ID_302970751" MODIFIED="1666520718777">
+<node CREATED="1545392972538" ID="ID_302970751" MODIFIED="1679331437015">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <font color="#00c800">model</font>ing
+      <font color="#00c800">modeling</font>
     </p>
   </body>
 </html></richcontent>
@@ -2319,14 +2320,14 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1544607317056" ID="ID_270411490" MODIFIED="1678645022837">
+<node CREATED="1544607317056" ID="ID_270411490" MODIFIED="1679331354930">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      the software architectural design is agreed and <font color="#00c800">communicat</font>ed to all affected parties
+      the software architectural design is agreed and <font color="#00c800">communicated</font>&#160;to all affected parties
     </p>
   </body>
 </html></richcontent>
@@ -3097,8 +3098,7 @@
       <font color="#0000ff"><u>interlinked</u></font>&#160;architecture and implementation <u><font color="#0000ff">PDCA</font></u>&#160; cycles
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1548540136866" ID="ID_1595051458" MODIFIED="1678994436011">

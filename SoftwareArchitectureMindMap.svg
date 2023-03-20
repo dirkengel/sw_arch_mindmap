@@ -4336,9 +4336,9 @@
     ><text x="6" xml:space="preserve" y="14" clip-path="url(#clipPath253)" stroke="none"
       >the software architectural design is agreed and </text
       ><text fill="rgb(0,200,0)" x="265" xml:space="preserve" y="14" clip-path="url(#clipPath253)" stroke="none"
-      >communicat</text
-      ><text x="334" xml:space="preserve" y="14" clip-path="url(#clipPath253)" stroke="none"
-      >ed to all affected parties</text
+      >communicated</text
+      ><text x="347" xml:space="preserve" y="14" clip-path="url(#clipPath253)" stroke="none"
+      > to all affected parties</text
     ></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-family="sans-serif" transform="translate(187,1216)" stroke="gray"
     ><line y2="33" fill="none" x1="0" clip-path="url(#clipPath364)" x2="366" y1="33"
@@ -4859,9 +4859,7 @@
     /></g
     ><g fill="rgb(0,200,0)" text-rendering="geometricPrecision" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1399,3412)" stroke="rgb(0,200,0)"
     ><text x="6" xml:space="preserve" y="14" clip-path="url(#clipPath193)" stroke="none"
-      >model</text
-      ><text fill="black" x="40" xml:space="preserve" y="14" clip-path="url(#clipPath193)" stroke="none"
-      >ing</text
+      >modeling</text
     ></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-family="sans-serif" transform="translate(1399,3390)" stroke="gray"
     ><line y2="18" fill="none" x1="0" clip-path="url(#clipPath391)" x2="193" y1="18"
@@ -4888,15 +4886,19 @@
     ><g fill="gray" text-rendering="optimizeSpeed" font-family="sans-serif" transform="translate(1138,3224)" stroke="gray"
     ><line y2="48" fill="none" x1="0" clip-path="url(#clipPath440)" x2="62" y1="48"
     /></g
-    ><g fill="rgb(0,200,0)" text-rendering="geometricPrecision" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1138,3224)" stroke="rgb(0,200,0)"
+    ><g text-rendering="geometricPrecision" shape-rendering="crispEdges" font-family="sans-serif" transform="translate(1138,3224)"
     ><text x="6" xml:space="preserve" y="14" clip-path="url(#clipPath440)" stroke="none"
-      >(criteria)</text
+      >(</text
+      ><text fill="rgb(0,200,0)" x="10" xml:space="preserve" y="14" clip-path="url(#clipPath440)" stroke="none"
+      >criteria</text
+      ><text x="47" xml:space="preserve" y="14" clip-path="url(#clipPath440)" stroke="none"
+      >)</text
       ><text fill="blue" x="6" xml:space="preserve" y="29" clip-path="url(#clipPath440)" stroke="none"
       >metrics</text
       ><line clip-path="url(#clipPath440)" fill="none" text-rendering="optimizeSpeed" x1="6" x2="47" y1="30" y2="30" stroke="blue"
-      /><text fill="black" x="6" xml:space="preserve" y="44" clip-path="url(#clipPath440)" stroke="none"
+      /><text x="6" xml:space="preserve" y="44" clip-path="url(#clipPath440)" stroke="none"
       >via </text
-      ><text x="25" xml:space="preserve" y="44" clip-path="url(#clipPath440)" stroke="none"
+      ><text fill="rgb(0,200,0)" x="25" xml:space="preserve" y="44" clip-path="url(#clipPath440)" stroke="none"
       >tools </text
     ></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="14.666666984558" font-family="&apos;Cantarell&apos;" transform="translate(1170,3219)" stroke="gray"
@@ -6192,11 +6194,7 @@
       ><text fill="black" x="47" xml:space="preserve" y="14" clip-path="url(#clipPath644)" stroke="none"
       > or combination</text
       ><text fill="black" x="6" xml:space="preserve" y="29" clip-path="url(#clipPath644)" stroke="none"
-      >of </text
-      ><text fill="black" x="20" xml:space="preserve" y="29" clip-path="url(#clipPath644)" stroke="none"
-      >(sub-)</text
-      ><text x="51" xml:space="preserve" y="29" clip-path="url(#clipPath644)" stroke="none"
-      >systems</text
+      >of (sub-)systems</text
     ></g
     ><g fill="gray" text-rendering="optimizeSpeed" font-size="14.666666984558" font-family="&apos;Cantarell&apos;" transform="translate(1666,1720)" stroke="gray"
     ><path fill="none" d="M126 83 C138 83 127 83 147 83" clip-path="url(#clipPath645)"
