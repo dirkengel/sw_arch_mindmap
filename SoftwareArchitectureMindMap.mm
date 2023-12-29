@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1679237942259" VGAP="0">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1703862374712" VGAP="0">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,10 +22,11 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2023/03/19</font>
+      <font size="2">last update 2023/12/29</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#ff0000" CREATED="1541845188061" HGAP="-36" ID="ID_1194334578" MODIFIED="1679077149813" POSITION="right" TEXT="Where?" VSHIFT="553">
 <edge COLOR="#ff0000" WIDTH="4"/>
@@ -233,17 +234,18 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1546796035902" ID="ID_909852890" MODIFIED="1667506091309">
+<node CREATED="1546796035902" ID="ID_909852890" MODIFIED="1703861569435">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      cyber<font color="#00c800">security</font>&#160;engineering <font color="#0000ff"><u>ISO-21343</u></font>
+      cyber<font color="#00c800">security</font>&#160;engineering <font color="#0000ff"><u>ISO-21434</u></font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1546978001714" ID="ID_1462486400" MODIFIED="1666801670442">
 <richcontent TYPE="NODE"><html>
@@ -311,17 +313,18 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1544608895597" ID="ID_513725534" MODIFIED="1678737097769">
+<node CREATED="1544608895597" ID="ID_513725534" MODIFIED="1703861876389">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <u><font color="#0000ff">capabilities</font></u><font color="#000000">: </font>specific superuser privileges which can be independently enabled and disabled
+      <u><font color="#0000ff">capabilities</font></u><font color="#000000">: </font>specific superuser privileges which can be in<font color="#00c800">dependently</font>&#160;enabled and disabled
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node CREATED="1544608938191" ID="ID_127528397" MODIFIED="1666521378500">
@@ -627,20 +630,21 @@
 </html></richcontent>
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
-<node CREATED="1544349588504" HGAP="18" ID="ID_1297528285" MODIFIED="1679077112951" VSHIFT="42">
+<node CREATED="1544349588504" HGAP="18" ID="ID_1297528285" MODIFIED="1703861618693" VSHIFT="42">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      divide and
+      <u><font color="#0000ff">divide and </font></u>
     </p>
     <p>
-      conquer
+      <u><font color="#0000ff">conquer</font></u>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1543868959589" ID="ID_1503824701" MODIFIED="1679076778057" TEXT="decomposition" VSHIFT="-29">
 <node CREATED="1545391919678" ID="ID_606760890" MODIFIED="1667842849706" TEXT="method">
@@ -889,17 +893,18 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1534366769199" ID="ID_1256621865" MODIFIED="1667599658075">
+<node CREATED="1534366769199" ID="ID_1256621865" MODIFIED="1703861993340">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Dependency Inversion (DIP): high level modules don't depend on low level, both depend on abstractions
+      <font color="#00c800">Dependency</font>&#160;Inversion (DIP): high level modules don't depend on low level, both depend on abstractions
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1643467548075" ID="ID_702864118" MODIFIED="1678627326396">
 <richcontent TYPE="NODE"><html>
@@ -982,7 +987,19 @@
 </node>
 </node>
 <node CREATED="1609010550655" ID="ID_1843699813" MODIFIED="1609010607771" TEXT="Inversion of Control (IoC)">
-<node CREATED="1545392475324" ID="ID_1650066919" MODIFIED="1609010557596" TEXT="Dependency Injection (DI)"/>
+<node CREATED="1545392475324" ID="ID_1650066919" MODIFIED="1703862092606">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">Dependency</font>&#160;Injection (DI)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>
@@ -1627,8 +1644,7 @@
       via <font color="#00c800">tools </font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1546621740376" ID="ID_947008672" MODIFIED="1678548940501">
 <richcontent TYPE="NODE"><html>
@@ -2019,17 +2035,18 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1541846890715" ID="ID_32389737" MODIFIED="1666639719790">
+<node CREATED="1541846890715" ID="ID_32389737" MODIFIED="1703861806979">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <u><font color="#0000ff"><b><i>System</i></b></font></u>: A regularly interacting or interdependent group of items forming a unified whole.
+      <u><font color="#0000ff"><b><i>System</i></b></font></u>: A regularly interacting or inter<font color="#00c800">dependent</font>&#160; group of items forming a unified whole.
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 <node COLOR="#ff0000" CREATED="1537028837804" ID="ID_1792968570" MODIFIED="1669554988129">
@@ -2706,7 +2723,19 @@
 </node>
 </node>
 <node CREATED="1678993659972" ID="ID_758908702" MODIFIED="1678993665226" TEXT="causes">
-<node CREATED="1624976570665" ID="ID_634752180" MODIFIED="1678993678638" TEXT="dependencies and/or obscurity"/>
+<node CREATED="1624976570665" ID="ID_634752180" MODIFIED="1703862350060">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800"><b><i>dependencies</i></b></font>&#160;(<u><font color="#0000c8">flip book</font></u>) and/or obscurity
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>
