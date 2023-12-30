@@ -25,8 +25,7 @@
       <font size="2">last update 2023/12/29</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#ff0000" CREATED="1541845188061" HGAP="-36" ID="ID_1194334578" MODIFIED="1679077149813" POSITION="right" TEXT="Where?" VSHIFT="553">
 <edge COLOR="#ff0000" WIDTH="4"/>
@@ -220,7 +219,19 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1544707271531" ID="ID_738078444" MODIFIED="1635072781400" TEXT="QM, ASIL: Automotive Safety Integrity Level A (low) - D (high)"/>
+<node CREATED="1544707271531" ID="ID_738078444" MODIFIED="1703951475222">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      QM, ASIL: Automotive Safety Integrity Level A (low) - D (high)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1544608789120" ID="ID_1178802971" MODIFIED="1666441659312">
@@ -244,8 +255,7 @@
       cyber<font color="#00c800">security</font>&#160;engineering <font color="#0000ff"><u>ISO-21434</u></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1546978001714" ID="ID_1462486400" MODIFIED="1666801670442">
 <richcontent TYPE="NODE"><html>
@@ -323,8 +333,7 @@
       <u><font color="#0000ff">capabilities</font></u><font color="#000000">: </font>specific superuser privileges which can be in<font color="#00c800">dependently</font>&#160;enabled and disabled
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1544608938191" ID="ID_127528397" MODIFIED="1666521378500">
@@ -643,8 +652,7 @@
       <u><font color="#0000ff">conquer</font></u>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1543868959589" ID="ID_1503824701" MODIFIED="1679076778057" TEXT="decomposition" VSHIFT="-29">
 <node CREATED="1545391919678" ID="ID_606760890" MODIFIED="1667842849706" TEXT="method">
@@ -903,8 +911,7 @@
       <font color="#00c800">Dependency</font>&#160;Inversion (DIP): high level modules don't depend on low level, both depend on abstractions
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1643467548075" ID="ID_702864118" MODIFIED="1678627326396">
 <richcontent TYPE="NODE"><html>
@@ -997,8 +1004,7 @@
       <font color="#00c800">Dependency</font>&#160;Injection (DI)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -2045,8 +2051,7 @@
       <u><font color="#0000ff"><b><i>System</i></b></font></u>: A regularly interacting or inter<font color="#00c800">dependent</font>&#160; group of items forming a unified whole.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#ff0000" CREATED="1537028837804" ID="ID_1792968570" MODIFIED="1669554988129">
@@ -2395,7 +2400,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#ff0000" CREATED="1541844988208" HGAP="-22" ID="ID_1725546686" MODIFIED="1679077026902" POSITION="left" VSHIFT="-13">
+<node COLOR="#ff0000" CREATED="1541844988208" HGAP="-28" ID="ID_1725546686" MODIFIED="1703951421964" POSITION="left" VSHIFT="-13">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2733,8 +2738,7 @@
       <font color="#00c800"><b><i>dependencies</i></b></font>&#160;(<u><font color="#0000c8">flip book</font></u>) and/or obscurity
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -3397,17 +3401,21 @@
 </node>
 </node>
 </node>
-<node CREATED="1543867516419" HGAP="23" ID="ID_857512676" MODIFIED="1678641950112" VSHIFT="3">
+<node CREATED="1543867516419" HGAP="23" ID="ID_857512676" MODIFIED="1703951383620" VSHIFT="3">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      creation with help of
+      at creation
+    </p>
+    <p>
+      with help of
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1678624904575" ID="ID_1590258887" MODIFIED="1678626231102" TEXT="tactical and new">
 <node CREATED="1543867553841" ID="ID_1050112247" MODIFIED="1678624208034">
