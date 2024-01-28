@@ -229,8 +229,7 @@
       QM, ASIL: Automotive Safety Integrity Level A (low) - D (high)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -3414,8 +3413,7 @@
       with help of
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#808080" WIDTH="thin"/>
 <node CREATED="1678624904575" ID="ID_1590258887" MODIFIED="1678626231102" TEXT="tactical and new">
 <node CREATED="1543867553841" ID="ID_1050112247" MODIFIED="1678624208034">
@@ -3536,6 +3534,7 @@
 <node CREATED="1544609284150" ID="ID_358627948" MODIFIED="1544609288891" TEXT="1..n per feature"/>
 <node CREATED="1544609299199" ID="ID_1874053226" MODIFIED="1544609320324" TEXT="scenario">
 <node CREATED="1544609323272" ID="ID_283425985" MODIFIED="1544609332773" TEXT="one way through a use case"/>
+<node CREATED="1706457742309" ID="ID_576587353" MODIFIED="1706457907517" TEXT="Quality Scenario: Source, stimulus (periodic/sporadic/stochastic), &#xa;stimulated artifact, environment (state), response, measure"/>
 </node>
 </node>
 <node CREATED="1544351301851" ID="ID_1803625941" MODIFIED="1544351360334" TEXT="specification">
