@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1703862374712" VGAP="0">
+<node BACKGROUND_COLOR="#ffff00" CREATED="1534365618313" ID="ID_1210152538" MODIFIED="1706986904026" VGAP="0">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -22,10 +22,11 @@
       <font size="2">first version 2019/01/26 </font>
     </p>
     <p style="text-align: center">
-      <font size="2">last update 2023/12/29</font>
+      <font size="2">last update 2024/02/03</font>
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#ff0000" CREATED="1541845188061" HGAP="-36" ID="ID_1194334578" MODIFIED="1679077149813" POSITION="right" TEXT="Where?" VSHIFT="553">
 <edge COLOR="#ff0000" WIDTH="4"/>
@@ -3446,7 +3447,64 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1548540245388" ID="ID_1471613425" MODIFIED="1607028561323">
+<node CREATED="1544350641563" ID="ID_381910907" MODIFIED="1706646163769">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      feature
+    </p>
+    <p>
+      <font color="#00c800">model</font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1544351328203" ID="ID_1942796344" MODIFIED="1706645656365" TEXT="specification">
+<node CREATED="1544609342072" ID="ID_1290378287" MODIFIED="1706645766562" TEXT="feature details"/>
+</node>
+<node CREATED="1544772676348" ID="ID_520710134" MODIFIED="1670176115208">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">configuration </font>
+    </p>
+    <p>
+      (<font color="#00c800">maintainability</font>)
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1544772800192" ID="ID_1790516715" MODIFIED="1706645579386" TEXT="parametrization"/>
+<node CREATED="1544772796569" ID="ID_749842920" MODIFIED="1706645604285" TEXT="optionality"/>
+<node CREATED="1544772789623" ID="ID_250103152" MODIFIED="1544772795990" TEXT="alternatives"/>
+</node>
+<node CREATED="1544351314797" ID="ID_742039368" MODIFIED="1652550957198" TEXT="use case">
+<node CREATED="1544609284150" ID="ID_358627948" MODIFIED="1544609288891" TEXT="1..n per feature"/>
+<node CREATED="1544609299199" ID="ID_1874053226" MODIFIED="1544609320324" TEXT="scenario">
+<node CREATED="1544609323272" ID="ID_283425985" MODIFIED="1544609332773" TEXT="one way through a use case"/>
+<node CREATED="1706457742309" ID="ID_576587353" MODIFIED="1706646189255">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Quality Scenario (<font color="#00c800">criteria</font>): Source, stimulus (periodic/sporadic/stochastic),&#160;
+    </p>
+    <p>
+      stimuated artifact, environment (state), response, measure
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1548540245388" ID="ID_1471613425" MODIFIED="1706645472768">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3487,8 +3545,7 @@
   </body>
 </html></richcontent>
 </node>
-</node>
-<node CREATED="1546027265003" ID="ID_1084010852" MODIFIED="1670175954749">
+<node CREATED="1546027265003" ID="ID_1084010852" MODIFIED="1706645429298">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3499,46 +3556,6 @@
     </p>
   </body>
 </html></richcontent>
-</node>
-<node CREATED="1544350641563" ID="ID_381910907" MODIFIED="1666520574326">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      feature <font color="#00c800">model</font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1544772676348" ID="ID_520710134" MODIFIED="1670176115208">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#00c800">configuration </font>
-    </p>
-    <p>
-      (<font color="#00c800">maintainability</font>)
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1544772789623" ID="ID_250103152" MODIFIED="1544772795990" TEXT="alternatives"/>
-<node CREATED="1544772796569" ID="ID_749842920" MODIFIED="1544772799669" TEXT="options"/>
-<node CREATED="1544772800192" ID="ID_1790516715" MODIFIED="1544772807686" TEXT="parametrization"/>
-</node>
-<node CREATED="1544351328203" ID="ID_1942796344" MODIFIED="1544351350088" TEXT="feature"/>
-<node CREATED="1544351314797" ID="ID_742039368" MODIFIED="1652550957198" TEXT="use case">
-<node CREATED="1544609284150" ID="ID_358627948" MODIFIED="1544609288891" TEXT="1..n per feature"/>
-<node CREATED="1544609299199" ID="ID_1874053226" MODIFIED="1544609320324" TEXT="scenario">
-<node CREATED="1544609323272" ID="ID_283425985" MODIFIED="1544609332773" TEXT="one way through a use case"/>
-<node CREATED="1706457742309" ID="ID_576587353" MODIFIED="1706457907517" TEXT="Quality Scenario: Source, stimulus (periodic/sporadic/stochastic), &#xa;stimulated artifact, environment (state), response, measure"/>
-</node>
-</node>
-<node CREATED="1544351301851" ID="ID_1803625941" MODIFIED="1544351360334" TEXT="specification">
-<node CREATED="1544609342072" ID="ID_1290378287" MODIFIED="1544609348341" TEXT="describes the details"/>
 </node>
 </node>
 </node>
