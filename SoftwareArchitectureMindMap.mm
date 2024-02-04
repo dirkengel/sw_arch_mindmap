@@ -25,8 +25,7 @@
       <font size="2">last update 2024/02/03</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#ff0000" CREATED="1541845188061" HGAP="-36" ID="ID_1194334578" MODIFIED="1679077149813" POSITION="right" TEXT="Where?" VSHIFT="553">
 <edge COLOR="#ff0000" WIDTH="4"/>
@@ -2475,6 +2474,7 @@
 <node CREATED="1544607544725" ID="ID_1067230742" MODIFIED="1545391594914" TEXT="Interpretation of the key words &quot;MUST&quot;, &quot;MUST NOT&quot;, &quot;REQUIRED&quot;, &quot;SHALL&quot;, &quot;SHALL NOT&quot;, &#xa;&quot;SHOULD&quot;, &quot;SHOULD NOT&quot;, &quot;RECOMMENDED&quot;, &quot;MAY&quot;, and &quot;OPTIONAL&quot;."/>
 </node>
 </node>
+<node CREATED="1707044332834" ID="ID_42035090" MODIFIED="1707044365235" TEXT="SMART">
 <node CREATED="1543869076518" ID="ID_1150869759" MODIFIED="1666441543340">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2486,13 +2486,45 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1536695658204" ID="ID_554336568" MODIFIED="1543869160150" TEXT="correct"/>
-<node CREATED="1536695728859" ID="ID_1327454975" MODIFIED="1547126330181" TEXT="clear and understandable"/>
-<node CREATED="1536695668550" ID="ID_1808087877" MODIFIED="1547126375427" TEXT="unambiguous"/>
-<node CREATED="1536819065172" ID="ID_1339632733" MODIFIED="1547126432326" TEXT="atomic and independent"/>
-<node CREATED="1536695735278" ID="ID_1130209859" MODIFIED="1547126342789" TEXT="complete and consistent"/>
-<node CREATED="1536695662752" ID="ID_761371629" MODIFIED="1547126454704" TEXT="feasible"/>
-<node CREATED="1536695705909" ID="ID_1459497105" MODIFIED="1543869117963" TEXT="verifiable"/>
+<node CREATED="1707044383032" ID="ID_1408914537" MODIFIED="1707044884638" TEXT="(S)pecific">
+<node CREATED="1536695735278" ID="ID_1130209859" MODIFIED="1707045006055" TEXT="correct, complete, and consistent"/>
+<node CREATED="1536819065172" ID="ID_1339632733" MODIFIED="1707044487157" TEXT="atomic and independent"/>
+<node CREATED="1536695728859" ID="ID_1327454975" MODIFIED="1707044809271">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      clear, unambiguous, and understandable
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1707044401681" ID="ID_254992926" MODIFIED="1707044909263" TEXT="(M)easurable">
+<node CREATED="1536695705909" ID="ID_1459497105" MODIFIED="1707044567649" TEXT="testable/verifiable"/>
+</node>
+<node CREATED="1707044419177" ID="ID_1523686127" MODIFIED="1707044916509">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      (A)chievable
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1536695662752" ID="ID_761371629" MODIFIED="1707044839904" TEXT="realistic,/feasible"/>
+</node>
+<node CREATED="1707044429452" ID="ID_1875102776" MODIFIED="1707044923409" TEXT="(R)elevant">
+<node CREATED="1707044842993" ID="ID_903222963" MODIFIED="1707044851913" TEXT="necessary"/>
+</node>
+</node>
+<node CREATED="1707044438117" ID="ID_684673378" MODIFIED="1707045054272" TEXT="(T)ime-bound"/>
 </node>
 </node>
 <node CREATED="1534366108490" ID="ID_1859279295" MODIFIED="1678818170225" STYLE="fork">
@@ -3192,6 +3224,165 @@
 <node COLOR="#ff0000" CREATED="1541845203069" HGAP="-46" ID="ID_268324297" MODIFIED="1679076974871" POSITION="left" TEXT="When?" VSHIFT="102">
 <edge COLOR="#ff0000" WIDTH="4"/>
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
+<node CREATED="1543867516419" HGAP="23" ID="ID_857512676" MODIFIED="1707045092588" VSHIFT="3">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      at creation
+    </p>
+    <p>
+      with help of
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#808080" WIDTH="thin"/>
+<node CREATED="1678624904575" ID="ID_1590258887" MODIFIED="1678626231102" TEXT="tactical and new">
+<node CREATED="1543867553841" ID="ID_1050112247" MODIFIED="1678624208034">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      known similar <font color="#00c800">systems</font>&#160;/ proof of <font color="#00c800">concept</font>&#160;(PoC) / minimal viable project (MVP)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1543867534533" ID="ID_311075400" MODIFIED="1678624866785">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      strategical and
+    </p>
+    <p>
+      long-term:
+    </p>
+    <p>
+      <font color="#00c800">product line</font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1544350641563" ID="ID_381910907" MODIFIED="1706646163769">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      feature
+    </p>
+    <p>
+      <font color="#00c800">model</font>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1544351328203" ID="ID_1942796344" MODIFIED="1706645656365" TEXT="specification">
+<node CREATED="1544609342072" ID="ID_1290378287" MODIFIED="1706645766562" TEXT="feature details"/>
+</node>
+<node CREATED="1544772676348" ID="ID_520710134" MODIFIED="1670176115208">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">configuration </font>
+    </p>
+    <p>
+      (<font color="#00c800">maintainability</font>)
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1544772800192" ID="ID_1790516715" MODIFIED="1706645579386" TEXT="parametrization"/>
+<node CREATED="1544772796569" ID="ID_749842920" MODIFIED="1706645604285" TEXT="optionality"/>
+<node CREATED="1544772789623" ID="ID_250103152" MODIFIED="1544772795990" TEXT="alternatives"/>
+</node>
+<node CREATED="1544351314797" ID="ID_742039368" MODIFIED="1652550957198" TEXT="use case">
+<node CREATED="1544609284150" ID="ID_358627948" MODIFIED="1544609288891" TEXT="1..n per feature"/>
+<node CREATED="1544609299199" ID="ID_1874053226" MODIFIED="1544609320324" TEXT="scenario">
+<node CREATED="1544609323272" ID="ID_283425985" MODIFIED="1544609332773" TEXT="one way through a use case"/>
+<node CREATED="1706457742309" ID="ID_576587353" MODIFIED="1706646189255">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Quality Scenario (<font color="#00c800">criteria</font>): Source, stimulus (periodic/sporadic/stochastic),&#160;
+    </p>
+    <p>
+      stimuated artifact, environment (state), response, measure
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1548540245388" ID="ID_1471613425" MODIFIED="1706645472768">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <u><font color="#0000ff">platform</font></u>
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1544609188202" ID="ID_1025236877" MODIFIED="1666632620229">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      A software platform is a set of software <font color="#00c800">systems</font> and <font color="#00c800">interfaces</font>  that form a common
+    </p>
+    <p>
+      structure from which a set of derivative products can be efficiently developed and produced.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1544609083926" ID="ID_850011779" MODIFIED="1679160731837">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Software <font color="#00c800"><b><i>product line</i></b></font>&#160;engineering is a paradigm to develop software applications (software-
+    </p>
+    <p>
+      intensive <font color="#00c800">systems</font>&#160;and software products) using platforms and mass customization.
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1546027265003" ID="ID_1084010852" MODIFIED="1706645429298">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#00c800">patterns</font>&#160;how to arange platform <font color="#00c800">elements </font>(analogy: zoning regulations of cities)
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
 <node CREATED="1544041082128" HGAP="24" ID="ID_159024700" MODIFIED="1678641972718">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3398,165 +3589,6 @@
     </p>
   </body>
 </html></richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1543867516419" HGAP="23" ID="ID_857512676" MODIFIED="1703951383620" VSHIFT="3">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      at creation
-    </p>
-    <p>
-      with help of
-    </p>
-  </body>
-</html></richcontent>
-<edge COLOR="#808080" WIDTH="thin"/>
-<node CREATED="1678624904575" ID="ID_1590258887" MODIFIED="1678626231102" TEXT="tactical and new">
-<node CREATED="1543867553841" ID="ID_1050112247" MODIFIED="1678624208034">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      known similar <font color="#00c800">systems</font>&#160;/ proof of <font color="#00c800">concept</font>&#160;(PoC) / minimal viable project (MVP)
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-<node CREATED="1543867534533" ID="ID_311075400" MODIFIED="1678624866785">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      strategical and
-    </p>
-    <p>
-      long-term:
-    </p>
-    <p>
-      <font color="#00c800">product line</font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1544350641563" ID="ID_381910907" MODIFIED="1706646163769">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      feature
-    </p>
-    <p>
-      <font color="#00c800">model</font>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1544351328203" ID="ID_1942796344" MODIFIED="1706645656365" TEXT="specification">
-<node CREATED="1544609342072" ID="ID_1290378287" MODIFIED="1706645766562" TEXT="feature details"/>
-</node>
-<node CREATED="1544772676348" ID="ID_520710134" MODIFIED="1670176115208">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#00c800">configuration </font>
-    </p>
-    <p>
-      (<font color="#00c800">maintainability</font>)
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1544772800192" ID="ID_1790516715" MODIFIED="1706645579386" TEXT="parametrization"/>
-<node CREATED="1544772796569" ID="ID_749842920" MODIFIED="1706645604285" TEXT="optionality"/>
-<node CREATED="1544772789623" ID="ID_250103152" MODIFIED="1544772795990" TEXT="alternatives"/>
-</node>
-<node CREATED="1544351314797" ID="ID_742039368" MODIFIED="1652550957198" TEXT="use case">
-<node CREATED="1544609284150" ID="ID_358627948" MODIFIED="1544609288891" TEXT="1..n per feature"/>
-<node CREATED="1544609299199" ID="ID_1874053226" MODIFIED="1544609320324" TEXT="scenario">
-<node CREATED="1544609323272" ID="ID_283425985" MODIFIED="1544609332773" TEXT="one way through a use case"/>
-<node CREATED="1706457742309" ID="ID_576587353" MODIFIED="1706646189255">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Quality Scenario (<font color="#00c800">criteria</font>): Source, stimulus (periodic/sporadic/stochastic),&#160;
-    </p>
-    <p>
-      stimuated artifact, environment (state), response, measure
-    </p>
-  </body>
-</html></richcontent>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1548540245388" ID="ID_1471613425" MODIFIED="1706645472768">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <u><font color="#0000ff">platform</font></u>
-    </p>
-  </body>
-</html></richcontent>
-<node CREATED="1544609188202" ID="ID_1025236877" MODIFIED="1666632620229">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      A software platform is a set of software <font color="#00c800">systems</font> and <font color="#00c800">interfaces</font>  that form a common
-    </p>
-    <p>
-      structure from which a set of derivative products can be efficiently developed and produced.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1544609083926" ID="ID_850011779" MODIFIED="1679160731837">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Software <font color="#00c800"><b><i>product line</i></b></font>&#160;engineering is a paradigm to develop software applications (software-
-    </p>
-    <p>
-      intensive <font color="#00c800">systems</font>&#160;and software products) using platforms and mass customization.
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node CREATED="1546027265003" ID="ID_1084010852" MODIFIED="1706645429298">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <font color="#00c800">patterns</font>&#160;how to arange platform <font color="#00c800">elements </font>(analogy: zoning regulations of cities)
-    </p>
-  </body>
-</html></richcontent>
-</node>
 </node>
 </node>
 </node>
